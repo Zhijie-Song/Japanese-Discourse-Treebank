@@ -1,0 +1,432 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="elaboration-additional">Amazon 「 第 4 の 柱 」 に なる か</segment>
+		<segment id="2" parent="206" relname="span">通信 事業 の 青写真</segment>
+		<segment id="3" parent="343" relname="context-circumstance">2023 年 11 月 13 日 2 : 00</segment>
+		<segment id="4" parent="215" relname="span">米 アマゾン ・ ドット ・ コム が 通信 関連 事業 を 推し進め て いる 。</segment>
+		<segment id="5" parent="207" relname="joint-list">試験 段階 に 入っ た 衛星 インターネット に 加え 、</segment>
+		<segment id="6" parent="207" relname="joint-list">力 を 入れ て いる の が 、</segment>
+		<segment id="7" parent="8" relname="elaboration-attribute">通信 サービス の 末端 と なる</segment>
+		<segment id="8" parent="208" relname="span">消費者 向け の スマート 機器 だ 。</segment>
+		<segment id="9" parent="10" relname="elaboration-attribute">それ ら の 機器 に 配信 する</segment>
+		<segment id="10" parent="210" relname="span">コンテンツ や 医療 ・ ヘルスケア サービス など と 絡め て</segment>
+		<segment id="11" parent="211" relname="span">通信 事業 を 展開 すれ ば 、</segment>
+		<segment id="12" parent="212" relname="span">定着 率 の 高い 大きな ビジネス に 育てる こと が できる 。</segment>
+		<segment id="13" parent="14" relname="topic-solutionhood">アマゾン が 通信 事業 に 関し て どんな 青写真 を 描い て いる の か 。</segment>
+		<segment id="14" parent="213" relname="span">同社 の 直接 の 取り組み や 出資 、 買収 、 提携 し た 企業 から 探っ た 。</segment>
+		<segment id="15" parent="218" relname="same-unit">アマゾン が</segment>
+		<segment id="16" parent="347" relname="span">有料会員 制度 「 プライム 」 、 クラウドコンピューティング 「 アマゾン ・ ウェブ ・ サービス</segment>
+		<segment id="17" parent="16" relname="elaboration-additional">（ AWS ）</segment>
+		<segment id="18" parent="346" relname="same-unit">」 、 オンライン 小売 事業 に 続く</segment>
+		<segment id="19" parent="217" relname="span">「 第 4 の 柱 」 を 探し て いる の は 周知 の 事実 だ 。</segment>
+		<segment id="20" parent="221" relname="span">通信 事業 へ の 取り組み が そう な の か も しれ ない 。</segment>
+		<segment id="21" parent="219" relname="contingency-condition">同社 が 通信 事業 を 拡大 すれ ば 、</segment>
+		<segment id="22" parent="219" relname="joint-list">配信 する コンテンツ や サービス だけ で は なく 、</segment>
+		<segment id="23" parent="219" relname="joint-list">配信 手段 自体 も 所有 できる よう に なる 。</segment>
+		<segment id="24" parent="222" relname="contingency-condition">プライム や スマート ホーム 製品 など 人気 の サービス と インターネット アクセス を セット で 販売 すれ ば 、</segment>
+		<segment id="25" parent="222" relname="joint-list">他社 の 単独 ブロードバンド ネットワーク より も 優位 に 立ち 、</segment>
+		<segment id="26" parent="222" relname="joint-list">既存 顧客 の 定着 率 を 高め られる 。</segment>
+		<segment id="27" parent="28" relname="elaboration-attribute">安定 し た ネット アクセス を 必要 と する</segment>
+		<segment id="28" parent="224" relname="span">新規 顧客 も 獲得 できる だろう 。</segment>
+		<segment id="29" parent="225" relname="joint-list">さらに 、 顧客 から より 多く の データ を 収集 し 、</segment>
+		<segment id="30" parent="225" relname="joint-list">広告 や 小売 事業 と の 好 循環 を 生む よう に なる だろう 。</segment>
+		<segment id="31" parent="32" relname="mode-means">今回 の リポート で は CB インサイツ の データ を 活用 し 、</segment>
+		<segment id="32" parent="227" relname="span">アマゾン の 2021 年 以降 の 買収 、 出資 、 提携 から 同社 の 通信 事業 で の 5 つ の 重要 戦略 を まとめ た 。</segment>
+		<segment id="33" parent="34" relname="mode-manner">この 5 つ の 分野 で の アマゾン と の ビジネス 関係 に 基づき 、</segment>
+		<segment id="34" parent="228" relname="span">各社 を 分類 し た 。</segment>
+		<segment id="35" parent="230" relname="joint-list">・ 消費者 向け コネクテッド 製品</segment>
+		<segment id="36" parent="230" relname="joint-list">・ 法人 向け コネクテッド 製品</segment>
+		<segment id="37" parent="348" relname="span">・ IoT コンポーネント</segment>
+		<segment id="38" parent="37" relname="elaboration-additional">（ 部品 ）</segment>
+		<segment id="39" parent="230" relname="joint-list">・ 衛星 インターネット</segment>
+		<segment id="40" parent="230" relname="joint-list">・ モバイル 通信</segment>
+		<segment id="41" parent="245" relname="organization-heading">主な ポイント</segment>
+		<segment id="42" parent="350" relname="span">・ アマゾン が 通信 事業 の 5 つ の 重要 戦略 で 最も 積極的 に 推進 し て いる の は 消費者 向け コネクテッド 製品</segment>
+		<segment id="43" parent="42" relname="elaboration-additional">（ スマート 機器 ）</segment>
+		<segment id="44" parent="349" relname="same-unit">だ 。</segment>
+		<segment id="45" parent="235" relname="span">消費者 の 日常生活 で さらに 大きな 役割 を 担おう と し て いる こと が うかがえる 。</segment>
+		<segment id="46" parent="234" relname="same-unit">モバイル 通信 や 衛星 インターネット で の 提携 は 、</segment>
+		<segment id="47" parent="233" relname="joint-list">自社 を 顧客 の 生活 の 中核 に 据え 、</segment>
+		<segment id="48" parent="233" relname="joint-list">「 必須 」 サービス を 提供 する こと</segment>
+		<segment id="49" parent="234" relname="same-unit">に 注力 し て いる こと を 示し て いる 。</segment>
+		<segment id="50" parent="237" relname="joint-list">・ 既存 プレーヤー と の 提携 は 通信 事業 の 拡大 を 支える だけ で なく 、</segment>
+		<segment id="51" parent="237" relname="joint-list">インフラ へ の 設備 投資 の 節約 に も なる 。</segment>
+		<segment id="52" parent="53" relname="adversative-concession">衛星 向け アンテナ の 有償 利用 サービス 「 AWS Ground Station 」 は 通信網 構築 の 起点 に なる が 、</segment>
+		<segment id="53" parent="238" relname="span">アマゾン は 主に 既存 プロバイダー と の 提携 に より 事業 を 拡大 し て いる 。</segment>
+		<segment id="54" parent="239" relname="adversative-contrast">と は いえ 、 衛星 インターネット サービス など の 事業 に なお 数十 億 ドル を 投じ て いる 。</segment>
+		<segment id="55" parent="352" relname="span">・ 法人 向け 事業 で は 、 垂直 統合型 IoT</segment>
+		<segment id="56" parent="55" relname="elaboration-additional">（ ネット 機器 ）</segment>
+		<segment id="57" parent="351" relname="same-unit">サービス の 糸口 と し て 産業 分野 に 注目 し て いる 。</segment>
+		<segment id="58" parent="242" relname="same-unit">アマゾン は</segment>
+		<segment id="59" parent="60" relname="elaboration-attribute">高度 な 製造業 向け に コネクテッド 製品 を 手掛ける</segment>
+		<segment id="60" parent="241" relname="span">企業 へ の 出資 や 提携 を 優先 し て いる 。</segment>
+		<segment id="61" parent="243" relname="span">これ は いずれ 、 アマゾン の 物流 事業 に 相乗効果 を もたらす 可能性 が ある 。</segment>
+		<segment id="62" parent="264" relname="organization-heading">消費者 向け コネクテッド 製品</segment>
+		<segment id="63" parent="248" relname="same-unit">アマゾン は 長年 、</segment>
+		<segment id="64" parent="247" relname="joint-list">アマゾン ブランド の スマート 機器 を 展開 し 、</segment>
+		<segment id="65" parent="354" relname="span">人工知能</segment>
+		<segment id="66" parent="65" relname="elaboration-additional">（ AI ）</segment>
+		<segment id="67" parent="353" relname="same-unit">を 搭載 し た 音声 アシスタント 「 アレクサ 」 向け の 音声 テック 機能 に 資金 を 投じ て き た 。</segment>
+		<segment id="68" parent="69" relname="elaboration-attribute">アマゾン の アレクサシステム に 接続 する</segment>
+		<segment id="69" parent="249" relname="span">スマート 機器 は 4億 台 を 超える 。</segment>
+		<segment id="70" parent="252" relname="same-unit">こう し た スマート 製品 は 、</segment>
+		<segment id="71" parent="355" relname="context-circumstance">顧客 が コネクテッドホーム を 建てよう と する 際 に</segment>
+		<segment id="72" parent="355" relname="span">アマゾン の エコシステム</segment>
+		<segment id="73" parent="72" relname="elaboration-additional">（ 生態系 ）</segment>
+		<segment id="74" parent="356" relname="same-unit">内 に とどまる よう</segment>
+		<segment id="75" parent="251" relname="span">促す 。</segment>
+		<segment id="76" parent="77" relname="contingency-condition">同社 が インターネット サービス も 提供 する よう に なれ ば 、</segment>
+		<segment id="77" parent="254" relname="span">スマート 機器 と 優れ た ネット 接続 を セット 販売 できる よう に なる 。</segment>
+		<segment id="78" parent="255" relname="joint-list">アマゾン は 自前 の 機器 の 展開 や 22 年 の ロボット 掃除機 「 ルンバ 」 の 米 アイロボット 買収 に 加え 、</segment>
+		<segment id="79" parent="360" relname="span">スマート サーモスタット の 独 タド</segment>
+		<segment id="80" parent="79" relname="elaboration-additional">（ Tado ） 、</segment>
+		<segment id="81" parent="357" relname="span">支援 ロボット の 米 ラブラドール ・ システムズ</segment>
+		<segment id="82" parent="81" relname="elaboration-additional">（ Labrador Systems ） 、</segment>
+		<segment id="83" parent="358" relname="span">スマート コーヒーメーカー の 米 スピン</segment>
+		<segment id="84" parent="83" relname="elaboration-additional">（ Spinn ）</segment>
+		<segment id="85" parent="359" relname="same-unit">など 多く の コネクテッド 製品 に 出資 し て いる 。</segment>
+		<segment id="86" parent="257" relname="same-unit">さらに 、</segment>
+		<segment id="87" parent="362" relname="span">米 ゼネラル・エレクトリック</segment>
+		<segment id="88" parent="87" relname="elaboration-additional">（ GE ）</segment>
+		<segment id="89" parent="363" relname="span">や オランダ の フィリップス 、 ロボット 掃除機 の 北京 石頭 世紀 科技</segment>
+		<segment id="90" parent="89" relname="elaboration-additional">（ ロボロック = 中国 ）</segment>
+		<segment id="91" parent="361" relname="same-unit">など 消費者 向け スマート家電 を 手掛ける</segment>
+		<segment id="92" parent="256" relname="span">大手 メーカー と 提携 し て いる 。</segment>
+		<segment id="93" parent="94" relname="purpose-goal">アマゾン は 医療 ・ ヘルスケア 戦略 も 推進 し て いる ため 、</segment>
+		<segment id="94" parent="258" relname="span">医療 ・ ヘルスケア と 消費者 向け コネクテッド 製品 の 連携 も 増える だろう 。</segment>
+		<segment id="95" parent="366" relname="span">例えば 、 アマゾン は 既に ヘルスケア 情報通信技術 の アスコム</segment>
+		<segment id="96" parent="95" relname="elaboration-additional">（ スイス ）</segment>
+		<segment id="97" parent="364" relname="span">や 米 セレニティー</segment>
+		<segment id="98" parent="97" relname="elaboration-additional">（ Serenity ）</segment>
+		<segment id="99" parent="365" relname="same-unit">と 提携 し 、</segment>
+		<segment id="100" parent="259" relname="joint-list">自社 の スマート 製品 を 高齢者 の 生活 に もたらそう と 取り組ん で いる 。</segment>
+		<segment id="101" parent="281" relname="organization-heading">法人 向け コネクテッド 製品</segment>
+		<segment id="102" parent="266" relname="joint-list">アマゾン の コネクテッド 体験 の 構想 は 家庭 だけ で なく 、</segment>
+		<segment id="103" parent="266" relname="joint-list">垂直 統合型 IoT サービス に も 及ぶ 。</segment>
+		<segment id="104" parent="105" relname="adversative-antithesis">画一的 な アプローチ で は なく 、</segment>
+		<segment id="105" parent="267" relname="span">小売り から 自動車 まで 様々 な 部門 に 特化 し た 製品 や サービス を 手掛ける 可能性 が ある 。</segment>
+		<segment id="106" parent="368" relname="span">アマゾン が 「 クライメート ・ プレッジ 」 や 「 アマゾン ・ インダストリアル ・ イノベーション ・ ファンド 」 など の コーポレート ベンチャーキャピタル</segment>
+		<segment id="107" parent="106" relname="elaboration-additional">（ CVC ）</segment>
+		<segment id="108" parent="367" relname="same-unit">を 通じ て</segment>
+		<segment id="109" parent="268" relname="span">気候 テック や 物流 に 力 を 入れ て いる こと を 考える と 、</segment>
+		<segment id="110" parent="370" relname="span">産業 用 IoT</segment>
+		<segment id="111" parent="110" relname="elaboration-additional">（ IIoT ）</segment>
+		<segment id="112" parent="369" relname="same-unit">を 起点 に する の は 自然 の 成り行き と いえる 。</segment>
+		<segment id="113" parent="271" relname="same-unit">例えば 、</segment>
+		<segment id="114" parent="372" relname="elaboration-attribute">インダストリアル ・ イノベーション ・ ファンド が 最近 出資 し た</segment>
+		<segment id="115" parent="373" relname="span">イスラエル の コアティゴ</segment>
+		<segment id="116" parent="115" relname="elaboration-additional">（ CoreTigo ）</segment>
+		<segment id="117" parent="371" relname="span">と 米 モジュール</segment>
+		<segment id="118" parent="117" relname="elaboration-additional">（ Modjoul ）</segment>
+		<segment id="119" parent="372" relname="same-unit">の 2 社 は 、 いずれ も 製造業 の IoT に 力 を 入れ て いる 。</segment>
+		<segment id="120" parent="274" relname="same-unit">コアティゴ は</segment>
+		<segment id="121" parent="122" relname="elaboration-attribute">製造 機械 に 無線 機能 を 後付け する</segment>
+		<segment id="122" parent="272" relname="span">ハード と ソフト を 提供 し て おり 、</segment>
+		<segment id="123" parent="273" relname="joint-list">モジュール は 作業員 の ウエアラブル ベルト を 手掛ける 。</segment>
+		<segment id="124" parent="278" relname="span">一方 、 AWS と 米 ベライゾン や 米 T モバイル US など 通信 キャリア と の 提携 は 、 高速 通信 規格 「 5 G 」 の エッジ コンピューティング の 向上 が 狙い だ 。</segment>
+		<segment id="125" parent="126" relname="mode-means">これ に より IoT 製品 の 遅延 が 減り 、</segment>
+		<segment id="126" parent="275" relname="span">法人 向け アプリケーション を 増やせる 。</segment>
+		<segment id="127" parent="374" relname="span">IoT コンポーネント</segment>
+		<segment id="128" parent="127" relname="elaboration-additional">（ 部品 ）</segment>
+		<segment id="129" parent="285" relname="same-unit">アマゾン が</segment>
+		<segment id="130" parent="131" relname="elaboration-attribute">IoT コンポーネント を 手掛ける</segment>
+		<segment id="131" parent="283" relname="span">企業 と の 提携 や 出資 を 進め て いる ため 、</segment>
+		<segment id="132" parent="284" relname="span">外部 機器 メーカー は アマゾン の エコシステム に 参加 し やすく なっ て いる 。</segment>
+		<segment id="133" parent="376" relname="span">例えば 、 アマゾン は 22 年 5 月 、 米 アンビエント ・ フォトニクス</segment>
+		<segment id="134" parent="133" relname="elaboration-additional">（ Ambient Photonics ）</segment>
+		<segment id="135" parent="375" relname="same-unit">の シリーズ A に リード 投資家 と し て 参加 し た 。</segment>
+		<segment id="136" parent="288" relname="same-unit">同社 は</segment>
+		<segment id="137" parent="138" relname="elaboration-attribute">室内 の 光 を 捉え て IoT 製品 に 電気 を 供給 する</segment>
+		<segment id="138" parent="287" relname="span">太陽 電池 を 手掛ける 。</segment>
+		<segment id="139" parent="290" relname="same-unit">23 年 に は</segment>
+		<segment id="140" parent="141" relname="elaboration-attribute">IoT 向け の アンテナ と モジュール を 生産 する</segment>
+		<segment id="141" parent="289" relname="span">中国 の 移遠 通信（ケクテル） と 提携 し た 。</segment>
+		<segment id="142" parent="143" relname="elaboration-attribute">ケクテル の 部品 を 搭載 し た</segment>
+		<segment id="143" parent="291" relname="span">機器 が 、 アマゾン 独自 の 通信 規格 「 アマゾン ・ サイドウォーク 」 に 自動 で 接続 できる よう に する 。</segment>
+		<segment id="144" parent="145" relname="mode-means">アマゾン ・ サイドウォーク は 無線 通信 や Wi-Fi の 帯域幅 を 必要 と し ない 機器 に 低 帯域幅 で 消費 電力 の 小さい ネットワーク を 提供 し 、</segment>
+		<segment id="145" parent="292" relname="span">スマート 製品 の 接続 向上 を 目指す 。</segment>
+		<segment id="146" parent="293" relname="joint-list">この ネットワーク は 既に 米国 の 人口 の 90 % を カバー し て おり 、</segment>
+		<segment id="147" parent="378" relname="span">通信 距離 は 最大 0.5 マイル</segment>
+		<segment id="148" parent="147" relname="elaboration-additional">（ 約 800 メートル ）</segment>
+		<segment id="149" parent="377" relname="same-unit">だ と し て いる 。</segment>
+		<segment id="150" parent="295" relname="same-unit">23 年 9 月 に は 、</segment>
+		<segment id="151" parent="380" relname="span">アマゾン ・ サイドウォーク 専用 の SoC</segment>
+		<segment id="152" parent="151" relname="elaboration-additional">（ システム ・ オン ・ チップ ）</segment>
+		<segment id="153" parent="379" relname="same-unit">を 開発 する ため 、</segment>
+		<segment id="154" parent="294" relname="span">米 半導体 メーカー の シリコン ・ ラボラトリーズ と の 提携 を 拡大 し た 。</segment>
+		<segment id="155" parent="322" relname="organization-heading">衛星 インターネット</segment>
+		<segment id="156" parent="303" relname="same-unit">アマゾン は</segment>
+		<segment id="157" parent="382" relname="span">低 軌道</segment>
+		<segment id="158" parent="157" relname="elaboration-additional">（ LEO ）</segment>
+		<segment id="159" parent="381" relname="same-unit">衛星 を 低 遅延 、 大 容量 、 低コスト を 兼ね備え た</segment>
+		<segment id="160" parent="302" relname="span">インターネット 接続 の 未来 だ と 考え て いる 。</segment>
+		<segment id="161" parent="306" relname="same-unit">同社 は</segment>
+		<segment id="162" parent="163" relname="mode-means">通信 衛星 を 打ち上げ 、</segment>
+		<segment id="163" parent="304" relname="span">早けれ ば 24 年後半 に も グローバル な 高速 インターネット 通信 を 提供 する</segment>
+		<segment id="164" parent="305" relname="span">構想 「 プロジェクト ・ カイパー 」 を 掲げる 。</segment>
+		<segment id="165" parent="384" relname="span">この プロジェクト で は 今後 数 年 で 少なく とも 100億 ドル</segment>
+		<segment id="166" parent="165" relname="elaboration-additional">（ 約 1兆5000億 円 ）</segment>
+		<segment id="167" parent="383" relname="same-unit">を 投じ 、</segment>
+		<segment id="168" parent="307" relname="span">3236 基 の 通信 衛星 群 を 配備 する 。</segment>
+		<segment id="169" parent="307" relname="causal-result">世界 の 3億 〜 4億 人 に サービス を 提供 できる 可能性 が ある 。</segment>
+		<segment id="170" parent="386" relname="span">22 年 4 月 に は 米 ブルー オリジン 、 米 ユナイテッド ・ ローンチ ・ アライアンス</segment>
+		<segment id="171" parent="170" relname="elaboration-additional">（ ULA ） 、</segment>
+		<segment id="172" parent="385" relname="same-unit">仏 アリアン スペース と 提携 し 、</segment>
+		<segment id="173" parent="310" relname="span">衛星 インターネット サービス を 実現 する ため に</segment>
+		<segment id="174" parent="311" relname="span">過去 最大 規模 の 商業 衛星 打ち上げ を 発注 し た 。</segment>
+		<segment id="175" parent="312" relname="joint-sequence">23 年 10 月 に 初回 の 打ち上げ が 実施 さ れ た 。</segment>
+		<segment id="176" parent="314" relname="same-unit">アマゾン は</segment>
+		<segment id="177" parent="178" relname="elaboration-attribute">消費者 が 衛星 インターネット に 接続 できる</segment>
+		<segment id="178" parent="313" relname="span">受信 端末 も 開発 し て いる 。</segment>
+		<segment id="179" parent="318" relname="span">衛星 インターネット 市場 は 競争 が 激しく なり つつ ある 。</segment>
+		<segment id="180" parent="316" relname="same-unit">アマゾン は 異 業種 参入 組 と し て 、</segment>
+		<segment id="181" parent="388" relname="span">衛星 インターネット サービス プロバイダー</segment>
+		<segment id="182" parent="181" relname="elaboration-additional">（ 衛星 ISP ）</segment>
+		<segment id="183" parent="387" relname="same-unit">や 、 衛星 インターネット アクセス の 拡大 を 急ぐ</segment>
+		<segment id="184" parent="315" relname="span">米 スペース X など と 争う こと に なる 。</segment>
+		<segment id="185" parent="316" relname="explanation-evidence">例えば 、 スペース X の 「 スター リンク 」 は 既に 200万 人 以上 の 顧客 を 抱え て いる 。</segment>
+		<segment id="186" parent="337" relname="organization-heading">モバイル 通信</segment>
+		<segment id="187" parent="390" relname="span">アマゾン の 携帯 キャリア と の 提携 は 、 同社 が 仮想 移動体 通信 事業者</segment>
+		<segment id="188" parent="187" relname="elaboration-additional">（ MVNO ）</segment>
+		<segment id="189" parent="389" relname="same-unit">を 目指し て いる こと を 示し て いる 。</segment>
+		<segment id="190" parent="335" relname="span">そう なれ ば</segment>
+		<segment id="191" parent="324" relname="joint-list">既存 キャリア の 回線 を 借り 、</segment>
+		<segment id="192" parent="324" relname="joint-list">自前 で インフラ を 構築 せ ず に</segment>
+		<segment id="193" parent="325" relname="span">顧客 に 携帯 プラン を 提供 できる よう に なる 。</segment>
+		<segment id="194" parent="327" relname="joint-list">格安 携帯 サービス を 提供 する こと で さらに 多く の 顧客 を 獲得 し 、</segment>
+		<segment id="195" parent="392" relname="span">プライム 会員 など サブスクリプション</segment>
+		<segment id="196" parent="195" relname="elaboration-additional">（ 定額 課金 ）</segment>
+		<segment id="197" parent="391" relname="same-unit">の 付加価値 を 高め て</segment>
+		<segment id="198" parent="328" relname="span">既存 顧客 を 囲い込む こと が できる 。</segment>
+		<segment id="199" parent="329" relname="purpose-goal">これ を 果たす ため 、</segment>
+		<segment id="200" parent="329" relname="joint-list">アマゾン は 23 年 に 米 新興 通信 事業者 ディッシュ ・ ネットワーク と 提携 し 、</segment>
+		<segment id="201" parent="329" relname="joint-list">プライム 会員 に データ を 無制限 に 使える 携帯 プラン 「 ブースト ・ インフィニット 」 を 提供 し た 。</segment>
+		<segment id="202" parent="333" relname="same-unit">23 年 9 月 に は 、 プロジェクト ・ カイパー の 始動 後 に</segment>
+		<segment id="203" parent="204" relname="mode-means">これ を 活用 し て</segment>
+		<segment id="204" parent="331" relname="span">欧州 と アフリカ の へき地 に ブロードバンド サービス を 拡大 する ため 、</segment>
+		<segment id="205" parent="332" relname="span">英 ボーダフォン と 南アフリカ の ボーダコム と の 提携 を 発表 し た 。</segment>
+		<group id="206" type="span" parent="344" relname="organization-heading"/>
+		<group id="207" type="multinuc" parent="208" relname="adversative-concession"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" parent="212" relname="context-background"/>
+		<group id="210" type="span" parent="11" relname="mode-means"/>
+		<group id="211" type="span" parent="12" relname="contingency-condition"/>
+		<group id="212" type="span" parent="214" relname="span"/>
+		<group id="213" type="span" parent="216" relname="span"/>
+		<group id="214" type="span" parent="4" relname="explanation-evidence"/>
+		<group id="215" type="span" parent="213" relname="context-background"/>
+		<group id="216" type="span" parent="342" relname="context-background"/>
+		<group id="217" type="span" parent="218" relname="same-unit"/>
+		<group id="218" type="multinuc" parent="20" relname="context-background"/>
+		<group id="219" type="multinuc" parent="220" relname="span"/>
+		<group id="220" type="span" parent="226" relname="joint-list"/>
+		<group id="221" type="span" parent="232" relname="span"/>
+		<group id="222" type="multinuc" parent="223" relname="span"/>
+		<group id="223" type="span" parent="226" relname="joint-list"/>
+		<group id="224" type="span" parent="226" relname="joint-list"/>
+		<group id="225" type="multinuc" parent="226" relname="joint-list"/>
+		<group id="226" type="multinuc" parent="221" relname="explanation-justify"/>
+		<group id="227" type="span" parent="228" relname="context-background"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" parent="231" relname="span"/>
+		<group id="230" type="multinuc" parent="229" relname="elaboration-additional"/>
+		<group id="231" type="span" parent="339" relname="span"/>
+		<group id="232" type="span" parent="231" relname="context-background"/>
+		<group id="233" type="multinuc" parent="234" relname="same-unit"/>
+		<group id="234" type="multinuc" parent="45" relname="explanation-evidence"/>
+		<group id="235" type="span" parent="349" relname="elaboration-additional"/>
+		<group id="236" type="span" parent="245" relname="joint-list"/>
+		<group id="237" type="multinuc" parent="240" relname="span"/>
+		<group id="238" type="span" parent="239" relname="adversative-contrast"/>
+		<group id="239" type="multinuc" parent="237" relname="elaboration-additional"/>
+		<group id="240" type="span" parent="245" relname="joint-list"/>
+		<group id="241" type="span" parent="242" relname="same-unit"/>
+		<group id="242" type="multinuc" parent="61" relname="context-background"/>
+		<group id="243" type="span" parent="351" relname="elaboration-additional"/>
+		<group id="244" type="span" parent="245" relname="joint-list"/>
+		<group id="245" type="multinuc" parent="246" relname="span"/>
+		<group id="246" type="span" parent="341" relname="span"/>
+		<group id="247" type="multinuc" parent="248" relname="same-unit"/>
+		<group id="248" type="multinuc" parent="253" relname="span"/>
+		<group id="249" type="span" parent="248" relname="elaboration-additional"/>
+		<group id="250" type="span" parent="356" relname="same-unit"/>
+		<group id="251" type="span" parent="252" relname="same-unit"/>
+		<group id="252" type="multinuc" parent="263" relname="span"/>
+		<group id="253" type="span" parent="263" relname="context-background"/>
+		<group id="254" type="span" parent="252" relname="elaboration-additional"/>
+		<group id="255" type="multinuc" parent="262" relname="joint-list"/>
+		<group id="256" type="span" parent="257" relname="same-unit"/>
+		<group id="257" type="multinuc" parent="262" relname="joint-list"/>
+		<group id="258" type="span" parent="260" relname="span"/>
+		<group id="259" type="multinuc" parent="258" relname="explanation-evidence"/>
+		<group id="260" type="span" parent="262" relname="joint-list"/>
+		<group id="261" type="span" parent="264" relname="joint-other"/>
+		<group id="262" type="multinuc" parent="264" relname="joint-other"/>
+		<group id="263" type="span" parent="261" relname="span"/>
+		<group id="264" type="multinuc" parent="265" relname="span"/>
+		<group id="265" type="span" parent="340" relname="joint-list"/>
+		<group id="266" type="multinuc" parent="276" relname="span"/>
+		<group id="267" type="span" parent="266" relname="explanation-evidence"/>
+		<group id="268" type="span" parent="369" relname="contingency-condition"/>
+		<group id="269" type="span" parent="280" relname="span"/>
+		<group id="270" type="span" parent="271" relname="same-unit"/>
+		<group id="271" type="multinuc" parent="277" relname="span"/>
+		<group id="272" type="span" parent="273" relname="joint-list"/>
+		<group id="273" type="multinuc" parent="274" relname="same-unit"/>
+		<group id="274" type="multinuc" parent="271" relname="elaboration-additional"/>
+		<group id="275" type="span" parent="124" relname="causal-result"/>
+		<group id="276" type="span" parent="281" relname="span"/>
+		<group id="277" type="span" parent="279" relname="joint-list"/>
+		<group id="278" type="span" parent="279" relname="joint-list"/>
+		<group id="279" type="multinuc" parent="269" relname="explanation-evidence"/>
+		<group id="280" type="span" parent="276" relname="elaboration-additional"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" parent="340" relname="joint-list"/>
+		<group id="283" type="span" parent="132" relname="purpose-goal"/>
+		<group id="284" type="span" parent="285" relname="same-unit"/>
+		<group id="285" type="multinuc" parent="286" relname="span"/>
+		<group id="286" type="span" parent="301" relname="span"/>
+		<group id="287" type="span" parent="288" relname="same-unit"/>
+		<group id="288" type="multinuc" parent="375" relname="elaboration-additional"/>
+		<group id="289" type="span" parent="290" relname="same-unit"/>
+		<group id="290" type="multinuc" parent="296" relname="span"/>
+		<group id="291" type="span" parent="290" relname="elaboration-additional"/>
+		<group id="292" type="span" parent="297" relname="span"/>
+		<group id="293" type="multinuc" parent="292" relname="elaboration-additional"/>
+		<group id="294" type="span" parent="295" relname="same-unit"/>
+		<group id="295" type="multinuc" parent="299" relname="joint-sequence"/>
+		<group id="296" type="span" parent="298" relname="span"/>
+		<group id="297" type="span" parent="296" relname="elaboration-additional"/>
+		<group id="298" type="span" parent="299" relname="joint-sequence"/>
+		<group id="299" type="multinuc" parent="285" relname="explanation-evidence"/>
+		<group id="300" type="span" parent="299" relname="joint-sequence"/>
+		<group id="301" type="span" parent="340" relname="joint-list"/>
+		<group id="302" type="span" parent="303" relname="same-unit"/>
+		<group id="303" type="multinuc" parent="322" relname="span"/>
+		<group id="304" type="span" parent="164" relname="elaboration-attribute"/>
+		<group id="305" type="span" parent="306" relname="same-unit"/>
+		<group id="306" type="multinuc" parent="309" relname="span"/>
+		<group id="307" type="span" parent="308" relname="span"/>
+		<group id="308" type="span" parent="306" relname="elaboration-additional"/>
+		<group id="309" type="span" parent="320" relname="span"/>
+		<group id="310" type="span" parent="174" relname="purpose-goal"/>
+		<group id="311" type="span" parent="312" relname="joint-sequence"/>
+		<group id="312" type="multinuc" parent="314" relname="explanation-evidence"/>
+		<group id="313" type="span" parent="314" relname="same-unit"/>
+		<group id="314" type="multinuc" parent="319" relname="span"/>
+		<group id="315" type="span" parent="316" relname="same-unit"/>
+		<group id="316" type="multinuc" parent="317" relname="span"/>
+		<group id="317" type="span" parent="179" relname="explanation-evidence"/>
+		<group id="318" type="span" parent="320" relname="elaboration-additional"/>
+		<group id="319" type="span" parent="309" relname="elaboration-additional"/>
+		<group id="320" type="span" parent="321" relname="span"/>
+		<group id="321" type="span" parent="303" relname="elaboration-additional"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" parent="340" relname="joint-list"/>
+		<group id="324" type="multinuc" parent="193" relname="mode-manner"/>
+		<group id="325" type="span" parent="326" relname="span"/>
+		<group id="326" type="span" parent="336" relname="joint-list"/>
+		<group id="327" type="multinuc" parent="198" relname="mode-means"/>
+		<group id="328" type="span" parent="336" relname="joint-list"/>
+		<group id="329" type="multinuc" parent="330" relname="span"/>
+		<group id="330" type="span" parent="334" relname="joint-sequence"/>
+		<group id="331" type="span" parent="205" relname="purpose-goal"/>
+		<group id="332" type="span" parent="333" relname="same-unit"/>
+		<group id="333" type="multinuc" parent="334" relname="joint-sequence"/>
+		<group id="334" type="multinuc" parent="337" relname="span"/>
+		<group id="335" type="span" parent="325" relname="contingency-condition"/>
+		<group id="336" type="multinuc" parent="334" relname="context-background"/>
+		<group id="337" type="span" parent="338" relname="span"/>
+		<group id="338" type="span" parent="340" relname="joint-list"/>
+		<group id="339" type="span" parent="341" relname="organization-preparation"/>
+		<group id="340" type="multinuc" parent="246" relname="elaboration-additional"/>
+		<group id="341" type="span" parent="342" relname="span"/>
+		<group id="342" type="span" parent="343" relname="span"/>
+		<group id="343" type="span" parent="344" relname="span"/>
+		<group id="344" type="span" parent="345" relname="span"/>
+		<group id="345" type="span" />
+		<group id="346" type="multinuc" parent="19" relname="elaboration-attribute"/>
+		<group id="347" type="span" parent="346" relname="same-unit"/>
+		<group id="348" type="span" parent="230" relname="joint-list"/>
+		<group id="349" type="multinuc" parent="236" relname="span"/>
+		<group id="350" type="span" parent="349" relname="same-unit"/>
+		<group id="351" type="multinuc" parent="244" relname="span"/>
+		<group id="352" type="span" parent="351" relname="same-unit"/>
+		<group id="353" type="multinuc" parent="247" relname="joint-list"/>
+		<group id="354" type="span" parent="353" relname="same-unit"/>
+		<group id="355" type="span" parent="250" relname="span"/>
+		<group id="356" type="multinuc" parent="75" relname="purpose-goal"/>
+		<group id="357" type="span" parent="359" relname="same-unit"/>
+		<group id="358" type="span" parent="359" relname="same-unit"/>
+		<group id="359" type="multinuc" parent="255" relname="joint-list"/>
+		<group id="360" type="span" parent="359" relname="same-unit"/>
+		<group id="361" type="multinuc" parent="92" relname="elaboration-attribute"/>
+		<group id="362" type="span" parent="361" relname="same-unit"/>
+		<group id="363" type="span" parent="361" relname="same-unit"/>
+		<group id="364" type="span" parent="365" relname="same-unit"/>
+		<group id="365" type="multinuc" parent="259" relname="joint-list"/>
+		<group id="366" type="span" parent="365" relname="same-unit"/>
+		<group id="367" type="multinuc" parent="109" relname="mode-means"/>
+		<group id="368" type="span" parent="367" relname="same-unit"/>
+		<group id="369" type="multinuc" parent="269" relname="span"/>
+		<group id="370" type="span" parent="369" relname="same-unit"/>
+		<group id="371" type="span" parent="372" relname="same-unit"/>
+		<group id="372" type="multinuc" parent="270" relname="span"/>
+		<group id="373" type="span" parent="372" relname="same-unit"/>
+		<group id="374" type="span" parent="286" relname="organization-heading"/>
+		<group id="375" type="multinuc" parent="300" relname="span"/>
+		<group id="376" type="span" parent="375" relname="same-unit"/>
+		<group id="377" type="multinuc" parent="293" relname="joint-list"/>
+		<group id="378" type="span" parent="377" relname="same-unit"/>
+		<group id="379" type="multinuc" parent="154" relname="purpose-goal"/>
+		<group id="380" type="span" parent="379" relname="same-unit"/>
+		<group id="381" type="multinuc" parent="160" relname="elaboration-attribute"/>
+		<group id="382" type="span" parent="381" relname="same-unit"/>
+		<group id="383" type="multinuc" parent="168" relname="mode-manner"/>
+		<group id="384" type="span" parent="383" relname="same-unit"/>
+		<group id="385" type="multinuc" parent="173" relname="mode-means"/>
+		<group id="386" type="span" parent="385" relname="same-unit"/>
+		<group id="387" type="multinuc" parent="184" relname="elaboration-attribute"/>
+		<group id="388" type="span" parent="387" relname="same-unit"/>
+		<group id="389" type="multinuc" parent="190" relname="context-background"/>
+		<group id="390" type="span" parent="389" relname="same-unit"/>
+		<group id="391" type="multinuc" parent="327" relname="joint-list"/>
+		<group id="392" type="span" parent="391" relname="same-unit"/>
+	</body>
+</rst>

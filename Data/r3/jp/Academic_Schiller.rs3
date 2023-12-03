@@ -1,0 +1,309 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="149" relname="span">シラー と スピノザ</segment>
+		<segment id="2" parent="1" relname="elaboration-additional">自然 概念 を めぐる 一 考察</segment>
+		<segment id="3" parent="148" relname="span">平山 敬二</segment>
+		<segment id="4" parent="147" relname="joint-list">東京工芸大学 名誉教授</segment>
+		<segment id="5" parent="147" relname="joint-list">宝塚大学 東京 メディア 芸術学 部 非常勤講師</segment>
+		<segment id="6" parent="266" relname="elaboration-additional">キーワード ： シラー 、 スピノザ 、 自然 概念 、 芸術 概念 、 美学</segment>
+		<segment id="7" parent="164" relname="organization-heading">抄録</segment>
+		<segment id="8" parent="152" relname="same-unit">本 論考 は 、</segment>
+		<segment id="9" parent="150" relname="mode-means">シラー および スピノザ の 諸 著作 の 検討 を 通し て 、</segment>
+		<segment id="10" parent="150" relname="joint-list">一般的 に は ほぼ 指摘 さ れる こと の ない 両者 に おけ る 自然 概念 の 類似性 を 明らか に し 、</segment>
+		<segment id="11" parent="150" relname="joint-list">それ に よっ て シラー 美学 の 特質 および その 美学 史 上 の 特別 な 意味 を 新た に 掘り起こす こと を 目的 と する 。</segment>
+		<segment id="12" parent="153" relname="joint-list">シラー と スピノザ に は 直接的 な 影響 関係 は ほとんど ない に も 拘ら ず 、</segment>
+		<segment id="13" parent="153" relname="joint-list">シラー の 美学 思想 に おけ る 「 美的 自由 」 の 概念 と スピノザ の 『 エチカ 』 に み られる 「 第 三 種 の 認識 」 および 「 直観的 認識 」 の 概念 に は 大きな 類似 点 が 捉え られる 。</segment>
+		<segment id="14" parent="156" relname="same-unit">この 両者 に は 、</segment>
+		<segment id="15" parent="16" relname="elaboration-attribute">スピノザ が 捉える</segment>
+		<segment id="16" parent="154" relname="span">「 神 即 自然 」 と し て の 自然 理解 が 共通 し て おり 、</segment>
+		<segment id="17" parent="155" relname="joint-list">この よう な 自然 を シラー は 「 現実 の 自然 」 に 対する 「 真実 の 自然 」 と し て 捉え 、</segment>
+		<segment id="18" parent="155" relname="joint-list">その 「 真実 の 自然 」 を 描写 する こと こそ が 芸術家 の 使命 で ある と 考え た 。</segment>
+		<segment id="19" parent="158" relname="same-unit">この よう な</segment>
+		<segment id="20" parent="21" relname="elaboration-attribute">シラー 美学 の 根底 に ある</segment>
+		<segment id="21" parent="157" relname="span">自然観 ・ 芸術 観 は 、 まさに ヘルマン ・ コルフ が 言う 「 ゲーテ 時代 の 精神 」 に 重なる もの で あり 、</segment>
+		<segment id="22" parent="160" relname="same-unit">その よう な シラー の 美学 思想 に は 、</segment>
+		<segment id="23" parent="159" relname="joint-list">カント 美学 研究 を 経 た 後 に も なお 、</segment>
+		<segment id="24" parent="159" relname="joint-list">スピノザ の 自然 思想 と の 強い 共通性 が 見 て 取れる の で ある 。</segment>
+		<segment id="25" parent="264" relname="organization-heading">１ 、 シラー と スピノザ の 接点</segment>
+		<segment id="26" parent="166" relname="span">シラー</segment>
+		<segment id="27" parent="26" relname="elaboration-additional">（ Friedrich von Schiller , 1759 - 1805 ）</segment>
+		<segment id="28" parent="167" relname="span">と スピノザ</segment>
+		<segment id="29" parent="28" relname="elaboration-additional">（ Baruch de Spinoza , 1632 - 1677 ）</segment>
+		<segment id="30" parent="168" relname="same-unit">と の 直接的 な 思想 的 連関 に つい て 論ずる こと に は 、 以下 の 二 つ の 理由 から 、 本来 大きな 障壁 が ある と 言わ ざる を え ない 。</segment>
+		<segment id="31" parent="170" relname="adversative-concession">第 一 に 、 シラー が スピノザ の 思想 に つい て 第 二 者 ・ 第 三 者 の 媒介 を 通じ て 間接 的 に ある 程度 の 見聞 を 持っ て い た こと は 確か で ある が 、</segment>
+		<segment id="32" parent="170" relname="same-unit">シラー 自身 が</segment>
+		<segment id="33" parent="34" relname="elaboration-attribute">スピノザ の 著作 の どれ か を 自身 で 直接 に 研究 する</segment>
+		<segment id="34" parent="169" relname="span">機会 を 持っ た か どう か に つい て は 、</segment>
+		<segment id="35" parent="171" relname="joint-list">これ まで の シラー に かかわる 諸 研究 に おい て おそらく まったく 確認 を 取る こと が でき て い ない だけ で なく 、</segment>
+		<segment id="36" parent="171" relname="joint-list">シラー 自身 の スピノザ に かかわる 発言 ないし 論及 も また 、</segment>
+		<segment id="37" parent="171" relname="joint-list">記録 に 残る 限り で は 、 極めて 断片的 な 限ら れ た もの で しか ない 。</segment>
+		<segment id="38" parent="174" relname="same-unit">第 二 に は 、 その よう な 事情 の もと に 、 シラー と スピノザ と の 関係 に つい て の 研究 も 、</segment>
+		<segment id="39" parent="40" relname="adversative-concession">様々 な 形 で わずか に 言及 する もの は かなり の 数 に 上る が 、</segment>
+		<segment id="40" parent="173" relname="span">両者 の 関係 に つい て それ を 意味 ある もの と し て 本格的 に 論じる もの は 、 極めて 少ない と いう の が 実情 で ある</segment>
+		<segment id="41" parent="174" relname="explanation-evidence">-LSB- １ -RSB- 。</segment>
+		<segment id="42" parent="178" relname="joint-list">スピノザ の 思想 が シラー の 時代 に 特別 に 注目 さ れ 、</segment>
+		<segment id="43" parent="178" relname="joint-list">その後 の ドイツ 観念論 の 展開 に 決定的 に 重要 な 役割 を 果たし た こと を 考える と 、</segment>
+		<segment id="44" parent="179" relname="span">これ は 何 と も 不思議 な こと の よう に も 思わ れる 。</segment>
+		<segment id="45" parent="46" relname="elaboration-attribute">シラー の 周辺 を 取り巻く</segment>
+		<segment id="46" parent="180" relname="span">ドイツ 精神 史 を 論ずる とき に 欠かす こと の でき ない 人々 、 へ ルダ ― 、 ゲーテ 、 ヤコ ― ビ 、 カント 、 フィヒテ 、 シェリング 、 ヘーゲル 等 が 、 いずれ も スピノザ 思想 と 、 様々 な 形 で で は ある が 、</segment>
+		<segment id="47" parent="181" relname="joint-list">それぞれ に 真剣 に 取り組み 、</segment>
+		<segment id="48" parent="181" relname="joint-list">その スピノザ 思想 に 対する 自ら の 態度 を それぞれ に 自ら の 言葉 と とも に 決定 し て いく こと が 見 て 取れる なか で 、</segment>
+		<segment id="49" parent="182" relname="span">シラー に おい て は その よう な スピノザ 思想 に つい て の 意見 表明 は 、 ほとんど 極めて わずか な もの に 限定 さ れ て いる 。</segment>
+		<segment id="50" parent="184" relname="joint-list">これ は 当時 、 「 無神論 者 ・ 汎神論 者 」 と し て の 疑念 や 汚名 の もと に 、</segment>
+		<segment id="51" parent="184" relname="joint-list">暗黙 の うち に スピノザ の 思想 に つい て 語る こと が タブー 視 さ れ て い た こと を 考慮 に 入れ て も 、</segment>
+		<segment id="52" parent="185" relname="span">不思議 な こと と 言わ ざる を え ない 。</segment>
+		<segment id="53" parent="198" relname="attribution-positive">吉田 量彦 が 指摘 し て いる よう に 、</segment>
+		<segment id="54" parent="189" relname="same-unit">スピノザ は</segment>
+		<segment id="55" parent="56" relname="elaboration-attribute">24 歳 の 誕生日 を 迎える</segment>
+		<segment id="56" parent="188" relname="span">1656 年 に 、 アムステルダム の ユダヤ人 共同体 から 「 劣悪 なる 意見 および 行動 」</segment>
+		<segment id="57" parent="189" relname="attribution-positive">（ 吉田 , 2014 ）</segment>
+		<segment id="58" parent="191" relname="same-unit">を 理由 に 破門 さ れ た の で ある が 、</segment>
+		<segment id="59" parent="197" relname="same-unit">さらに 1670 年 に 『 神学 ・ 政治 論 』 を 匿名 で 出版 し た 時 に も 、</segment>
+		<segment id="60" parent="192" relname="span">当時 ライプツィヒ大学 の 哲学 教授 を 歴任 し た ヤーコプ ・ トマジウス</segment>
+		<segment id="61" parent="60" relname="elaboration-additional">（ Jacob Thomasius , 1622 - 1684 ）</segment>
+		<segment id="62" parent="193" relname="same-unit">に よっ て 、</segment>
+		<segment id="63" parent="194" relname="span">「 無神論 と 紙一重 の 自然主義 」</segment>
+		<segment id="64" parent="63" relname="attribution-positive">（ 吉田 , 2014 ）</segment>
+		<segment id="65" parent="195" relname="same-unit">と し て 手厳しく 批評 さ れ 、</segment>
+		<segment id="66" parent="196" relname="joint-sequence">やがて 1674 年 に は 政府 から 禁書 の 布告 を 受ける の で ある</segment>
+		<segment id="67" parent="199" relname="explanation-evidence">-LSB- ２ -RSB- 。</segment>
+		<segment id="68" parent="201" relname="span">そして シラー の 時代 に あっ て は 、 当時 広く 読ま れ て い た フランス の 哲学者 ピエール ・ ベール</segment>
+		<segment id="69" parent="68" relname="elaboration-additional">（ Pierre Bayle , 647 - 1706 ）</segment>
+		<segment id="70" parent="202" relname="span">の 『 歴史 批評 辞典 』</segment>
+		<segment id="71" parent="70" relname="elaboration-additional">（ 1696 年 、 ドイツ語 訳 ； 1741 - 44 年 ）</segment>
+		<segment id="72" parent="203" relname="same-unit">の なか で 、 スピノザ は その 思想 の 真意 が よく わから ない 無神論 者 ・ 運命論 者 と し て 扱わ れ</segment>
+		<segment id="73" parent="203" relname="explanation-evidence">-LSB- ３ -RSB- 、</segment>
+		<segment id="74" parent="208" relname="context-background">それ ら の 強い 影響下 に あっ て 、</segment>
+		<segment id="75" parent="208" relname="same-unit">当時 の ドイツ に おい て は 、</segment>
+		<segment id="76" parent="77" relname="elaboration-attribute">一般的 に いかに 否定的 に また 不当 に スピノザ が 扱わ れ て い た か</segment>
+		<segment id="77" parent="207" relname="span">と いう こと に つい て は 、</segment>
+		<segment id="78" parent="205" relname="span">ヘルダー</segment>
+		<segment id="79" parent="78" relname="elaboration-additional">（ Johann Gottfried von Herder , 1744 - 1803 ）</segment>
+		<segment id="80" parent="206" relname="same-unit">が 1787 年 に 著し た 『 神 ― いくつ か の 対話 』 （ = 『 神 』 ） の 「 第 一 の 対話 」 の はじめ に 叙述 し て いる 通り で あっ た と 思わ れる</segment>
+		<segment id="81" parent="209" relname="explanation-evidence">-LSB- ４ -RSB- 。</segment>
+		<segment id="82" parent="215" relname="attribution-positive">ヘルダー は 『 神 』 の 第 一 版 の 序文 の 冒頭 に おい て 、</segment>
+		<segment id="83" parent="84" relname="adversative-concession">十 年 ないし 十二 年 も 前 に 『 スピノザ 、 シャフツベリ 、 ライプニッツ 』 と いう 標題 に なる 予定 の 著書 の 構想 を 温め て い た が 、</segment>
+		<segment id="84" parent="215" relname="span">それ が 時代 状況 の もと に 、 今回 『 神 』 と いう 著作 を 著す こと に なっ た 旨 を 述べ て いる が</segment>
+		<segment id="85" parent="216" relname="explanation-evidence">-LSB- ５ -RSB- 、</segment>
+		<segment id="86" parent="224" relname="same-unit">ここ で 言わ れ て いる 「 時代 状況 」 と いう の は 、</segment>
+		<segment id="87" parent="213" relname="span">おそらく 1781 年 の カント</segment>
+		<segment id="88" parent="87" relname="elaboration-additional">（ Immanuel Kant , 1724 - 1804 ）</segment>
+		<segment id="89" parent="214" relname="same-unit">の 『 純粋 理性 批判 』 の 出現 が もたらし た 思想 的 状況 、</segment>
+		<segment id="90" parent="222" relname="same-unit">および 直接的 に は</segment>
+		<segment id="91" parent="219" relname="elaboration-attribute">1785 年 に 出版 さ れ た</segment>
+		<segment id="92" parent="218" relname="span">ヤコ ― ビ</segment>
+		<segment id="93" parent="92" relname="elaboration-additional">（ Friedrich Heinrich Jacobi , 1743 - 1819 ）</segment>
+		<segment id="94" parent="220" relname="span">の 『 スピノザ の 学説 に 関する モーゼス ・ メンデルスゾーン 氏 宛 書簡 』</segment>
+		<segment id="95" parent="94" relname="elaboration-additional">（ ＝ 『 スピノザ 書簡 』 ）</segment>
+		<segment id="96" parent="224" relname="same-unit">に はじまる いわゆる 「 スピノザ 論争 」 ないし 「 汎神論 論争 」 を 受け て の もの と 思わ れる</segment>
+		<segment id="97" parent="224" relname="explanation-evidence">-LSB- ６ -RSB- 。</segment>
+		<segment id="98" parent="226" relname="span">シラー が ドレスデン の ケルナー</segment>
+		<segment id="99" parent="98" relname="elaboration-additional">（ Christian Gottfried Körner , 1756 - 1831 ）</segment>
+		<segment id="100" parent="229" relname="same-unit">の もと を 離れ</segment>
+		<segment id="101" parent="227" relname="span">ゲーテ</segment>
+		<segment id="102" parent="101" relname="elaboration-additional">（ Johann Wolfgang von Goethe , 1749 - 1832 ）</segment>
+		<segment id="103" parent="228" relname="same-unit">の 住む ヴァイマール に やっ て 来 た の は 1787 年 の ７ 月 で 、</segment>
+		<segment id="104" parent="105" relname="causal-cause">ゲーテ は その 時 すでに イタリア に 出発 し て い て</segment>
+		<segment id="105" parent="231" relname="span">会う こと は でき なかっ た の だ が 、</segment>
+		<segment id="106" parent="233" relname="span">シラー は ま も なく ヘルダー を 訪問 し て いる 。</segment>
+		<segment id="107" parent="236" relname="same-unit">それ を 機 に シラー は</segment>
+		<segment id="108" parent="109" relname="elaboration-attribute">出版 さ れ た ばかり の</segment>
+		<segment id="109" parent="234" relname="span">『 神 』 を ヘルダー から 受け取り 、</segment>
+		<segment id="110" parent="235" relname="joint-list">それ を 読む 機会 を 持つ 。</segment>
+		<segment id="111" parent="240" relname="organization-preparation">この 時 の 様子 に つい て ケルナー 宛て の 1787 年 ７ 月 23 ［ - 25 ］ 日付け の 書簡 で は 次 の よう に 述べ られ て いる 。</segment>
+		<segment id="112" parent="239" relname="elaboration-additional">（ 引用 ）</segment>
+		<segment id="113" parent="237" relname="joint-list">「 ヘルダー から 一 冊 の 著書 を 手わたさ れ まし た 。</segment>
+		<segment id="114" parent="237" relname="joint-list">その 表題 は 『 神 』 と いう もの です 。</segment>
+		<segment id="115" parent="237" relname="joint-list">スピノザ に つい て 扱わ れ た はじめ の ところ は 私 の 気 に 入り まし た 。</segment>
+		<segment id="116" parent="237" relname="joint-list">他 の ところ は 私 に とっ て は 明瞭 で は あり ませ ん</segment>
+		<segment id="117" parent="237" relname="explanation-evidence">-LSB- ７ -RSB- 」</segment>
+		<segment id="118" parent="238" relname="attribution-positive">（ Schiller , 1787 ） 。</segment>
+		<segment id="119" parent="250" relname="organization-preparation">また さらに 翌月 の ８ 月 ８ ［ および ９ ］ 日 の ケルナー 宛て の 手紙 に は 、 その 後 ま も なく 別 の 機会 に ヘルダー と 交わし た 次 の よう な やり取り が 記さ れ て いる 。</segment>
+		<segment id="120" parent="249" relname="elaboration-additional">（ 引用 ）</segment>
+		<segment id="121" parent="122" relname="mode-means">「 私 は 彼 の 最新 の 著書 『 神 』 を 話題 に し 、</segment>
+		<segment id="122" parent="242" relname="span">この テーマ に つい て 私 が 考え た いくつ か の こと を 彼 に 話し まし た 。</segment>
+		<segment id="123" parent="247" relname="joint-other">そして 私 なら 神 の 理念 から 全 哲学 を 導き出す で あろう と 話し まし た 。</segment>
+		<segment id="124" parent="243" relname="joint-list">彼 は 私 の 一連 の 考え の なか に 何 か 特異 な もの を 見いだし 、</segment>
+		<segment id="125" parent="243" relname="joint-list">この 著書 を 私 が 読む こと を 願う と 私 に 言い まし た 。</segment>
+		<segment id="126" parent="244" relname="joint-list">この 著書 は 私 の ため に なる で あろう し 、</segment>
+		<segment id="127" parent="244" relname="joint-list">また 神 に つい て の 彼 の 十全 な 説得力 ある 理念 を 内容 と し て 含ん で いる で あろう と 。</segment>
+		<segment id="128" parent="129" relname="contingency-condition">もし それ を 私 が 捉え て い た なら ば 、</segment>
+		<segment id="129" parent="245" relname="span">私 は 多く の 光 を 手 に 入れ て い た でしょう 。</segment>
+		<segment id="130" parent="246" relname="joint-list">どう か 君 も それ を 読み 、</segment>
+		<segment id="131" parent="246" relname="joint-list">私 に 君 の 意見 を 書い て ください 。</segment>
+		<segment id="132" parent="247" relname="joint-other">私 に とっ て は この 著書 は あまり に も 多く 形而上学 的 な もの を 含ん で い ます 。</segment>
+		<segment id="133" parent="247" relname="joint-other">スピノザ に 関する はじめ の ところ は とても 興味 深い です</segment>
+		<segment id="134" parent="247" relname="explanation-evidence">-LSB- ８ -RSB- 」</segment>
+		<segment id="135" parent="248" relname="attribution-positive">（ Schiller , 1787 ） 。</segment>
+		<segment id="136" parent="252" relname="span">これ は シラー と スピノザ 思想 と の 明らか な 接点 を 示す 数 少ない 事例 の 一 つ で ある</segment>
+		<segment id="137" parent="136" relname="explanation-evidence">-LSB- ９ -RSB- 。</segment>
+		<segment id="138" parent="254" relname="same-unit">他 に は 、</segment>
+		<segment id="139" parent="254" relname="same-unit">1782 年 に 友人 たち と 共同 で 出版 し た 『 1782 年 詞華集 』 の なか に 、</segment>
+		<segment id="140" parent="253" relname="span">「 スピノザ 」 と 題する ６ 行 から なる エピグラム</segment>
+		<segment id="141" parent="140" relname="elaboration-additional">（ 寸鉄 詩 ）</segment>
+		<segment id="142" parent="254" relname="same-unit">が 掲載 さ れ て いる が 、</segment>
+		<segment id="143" parent="255" relname="span">これ は 1781 年 に シラー に よっ て 書か れ た 作品 と さ れ て いる 。</segment>
+		<segment id="144" parent="256" relname="span">それ は 以下 の よう な もの で ある</segment>
+		<segment id="145" parent="144" relname="explanation-evidence">-LSB- 10 -RSB- 。</segment>
+		<segment id="146" parent="256" relname="attribution-positive">（ Schiller , 1782 ）</segment>
+		<group id="147" type="multinuc" parent="3" relname="restatement-partial"/>
+		<group id="148" type="span" parent="267" relname="attribution-positive"/>
+		<group id="149" type="span" parent="268" relname="organization-heading"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="151" type="span" parent="152" relname="same-unit"/>
+		<group id="152" type="multinuc" parent="164" relname="span"/>
+		<group id="153" type="multinuc" parent="163" relname="span"/>
+		<group id="154" type="span" parent="156" relname="same-unit"/>
+		<group id="155" type="multinuc" parent="162" relname="span"/>
+		<group id="156" type="multinuc" parent="155" relname="joint-list"/>
+		<group id="157" type="span" parent="158" relname="same-unit"/>
+		<group id="158" type="multinuc" parent="161" relname="joint-list"/>
+		<group id="159" type="multinuc" parent="160" relname="same-unit"/>
+		<group id="160" type="multinuc" parent="161" relname="joint-list"/>
+		<group id="161" type="multinuc" parent="155" relname="elaboration-additional"/>
+		<group id="162" type="span" parent="153" relname="elaboration-additional"/>
+		<group id="163" type="span" parent="152" relname="elaboration-additional"/>
+		<group id="164" type="span" parent="165" relname="span"/>
+		<group id="165" type="span" parent="266" relname="joint-other"/>
+		<group id="166" type="span" parent="168" relname="same-unit"/>
+		<group id="167" type="span" parent="168" relname="same-unit"/>
+		<group id="168" type="multinuc" parent="176" relname="organization-preparation"/>
+		<group id="169" type="span" parent="170" relname="same-unit"/>
+		<group id="170" type="multinuc" parent="172" relname="span"/>
+		<group id="171" type="multinuc" parent="170" relname="same-unit"/>
+		<group id="172" type="span" parent="176" relname="joint-list"/>
+		<group id="173" type="span" parent="174" relname="same-unit"/>
+		<group id="174" type="multinuc" parent="175" relname="span"/>
+		<group id="175" type="span" parent="176" relname="joint-list"/>
+		<group id="176" type="multinuc" parent="177" relname="span"/>
+		<group id="177" type="span" parent="264" relname="joint-other"/>
+		<group id="178" type="multinuc" parent="44" relname="context-background"/>
+		<group id="179" type="span" parent="187" relname="span"/>
+		<group id="180" type="span" parent="182" relname="adversative-concession"/>
+		<group id="181" type="multinuc" parent="49" relname="context-background"/>
+		<group id="182" type="span" parent="183" relname="span"/>
+		<group id="183" type="span" parent="185" relname="context-background"/>
+		<group id="184" type="multinuc" parent="52" relname="adversative-concession"/>
+		<group id="185" type="span" parent="186" relname="span"/>
+		<group id="186" type="span" parent="179" relname="elaboration-additional"/>
+		<group id="187" type="span" parent="264" relname="joint-other"/>
+		<group id="188" type="span" parent="189" relname="same-unit"/>
+		<group id="189" type="multinuc" parent="190" relname="span"/>
+		<group id="190" type="span" parent="191" relname="same-unit"/>
+		<group id="191" type="multinuc" parent="198" relname="joint-list"/>
+		<group id="192" type="span" parent="193" relname="same-unit"/>
+		<group id="193" type="multinuc" parent="195" relname="same-unit"/>
+		<group id="194" type="span" parent="195" relname="same-unit"/>
+		<group id="195" type="multinuc" parent="196" relname="joint-sequence"/>
+		<group id="196" type="multinuc" parent="197" relname="same-unit"/>
+		<group id="197" type="multinuc" parent="198" relname="joint-list"/>
+		<group id="198" type="multinuc" parent="199" relname="span"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" parent="211" relname="context-background"/>
+		<group id="201" type="span" parent="203" relname="same-unit"/>
+		<group id="202" type="span" parent="203" relname="same-unit"/>
+		<group id="203" type="multinuc" parent="204" relname="span"/>
+		<group id="204" type="span" parent="210" relname="elaboration-additional"/>
+		<group id="205" type="span" parent="206" relname="same-unit"/>
+		<group id="206" type="multinuc" parent="208" relname="same-unit"/>
+		<group id="207" type="span" parent="208" relname="same-unit"/>
+		<group id="208" type="multinuc" parent="209" relname="span"/>
+		<group id="209" type="span" parent="210" relname="span"/>
+		<group id="210" type="span" parent="211" relname="span"/>
+		<group id="211" type="span" parent="212" relname="span"/>
+		<group id="212" type="span" parent="264" relname="joint-other"/>
+		<group id="213" type="span" parent="214" relname="same-unit"/>
+		<group id="214" type="multinuc" parent="223" relname="joint-list"/>
+		<group id="215" type="span" parent="216" relname="span"/>
+		<group id="216" type="span" parent="217" relname="span"/>
+		<group id="217" type="span" parent="225" relname="adversative-concession"/>
+		<group id="218" type="span" parent="219" relname="adversative-contrast"/>
+		<group id="219" type="multinuc" parent="221" relname="span"/>
+		<group id="220" type="span" parent="219" relname="adversative-contrast"/>
+		<group id="221" type="span" parent="222" relname="same-unit"/>
+		<group id="222" type="multinuc" parent="223" relname="joint-list"/>
+		<group id="223" type="multinuc" parent="224" relname="same-unit"/>
+		<group id="224" type="multinuc" parent="225" relname="span"/>
+		<group id="225" type="span" parent="260" relname="span"/>
+		<group id="226" type="span" parent="229" relname="same-unit"/>
+		<group id="227" type="span" parent="228" relname="same-unit"/>
+		<group id="228" type="multinuc" parent="230" relname="joint-list"/>
+		<group id="229" type="multinuc" parent="230" relname="joint-list"/>
+		<group id="230" type="multinuc" parent="231" relname="context-circumstance"/>
+		<group id="231" type="span" parent="232" relname="span"/>
+		<group id="232" type="span" parent="106" relname="adversative-concession"/>
+		<group id="233" type="span" parent="236" relname="context-background"/>
+		<group id="234" type="span" parent="235" relname="joint-list"/>
+		<group id="235" type="multinuc" parent="236" relname="same-unit"/>
+		<group id="236" type="multinuc" parent="262" relname="span"/>
+		<group id="237" type="multinuc" parent="238" relname="span"/>
+		<group id="238" type="span" parent="239" relname="span"/>
+		<group id="239" type="span" parent="240" relname="span"/>
+		<group id="240" type="span" parent="241" relname="span"/>
+		<group id="241" type="span" parent="261" relname="joint-list"/>
+		<group id="242" type="span" parent="247" relname="joint-other"/>
+		<group id="243" type="multinuc" parent="247" relname="joint-other"/>
+		<group id="244" type="multinuc" parent="247" relname="joint-other"/>
+		<group id="245" type="span" parent="247" relname="joint-other"/>
+		<group id="246" type="multinuc" parent="247" relname="joint-other"/>
+		<group id="247" type="multinuc" parent="248" relname="span"/>
+		<group id="248" type="span" parent="249" relname="span"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="251" relname="span"/>
+		<group id="251" type="span" parent="261" relname="joint-list"/>
+		<group id="252" type="span" parent="255" relname="context-background"/>
+		<group id="253" type="span" parent="254" relname="same-unit"/>
+		<group id="254" type="multinuc" parent="143" relname="adversative-concession"/>
+		<group id="255" type="span" parent="258" relname="span"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" parent="258" relname="explanation-evidence"/>
+		<group id="258" type="span" parent="259" relname="span"/>
+		<group id="259" type="span" parent="264" relname="joint-other"/>
+		<group id="260" type="span" parent="264" relname="joint-other"/>
+		<group id="261" type="multinuc" parent="262" relname="elaboration-additional"/>
+		<group id="262" type="span" parent="263" relname="span"/>
+		<group id="263" type="span" parent="264" relname="joint-other"/>
+		<group id="264" type="multinuc" parent="265" relname="span"/>
+		<group id="265" type="span" parent="266" relname="joint-other"/>
+		<group id="266" type="multinuc" parent="267" relname="span"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" />
+	</body>
+</rst>

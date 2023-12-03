@@ -1,0 +1,388 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="327" relname="organization-heading">生涯</segment>
+		<segment id="2" parent="232" relname="organization-heading">生い立ち</segment>
+		<segment id="3" parent="195" relname="same-unit">1769 年 、</segment>
+		<segment id="4" parent="5" relname="elaboration-attribute">イタリア 半島 の 西 に 位置 する</segment>
+		<segment id="5" parent="191" relname="span">フランス 領 の 島 コルシカ 島 の アジャクシオ に おい て 、</segment>
+		<segment id="6" parent="192" relname="span">父 カルロ ・ マリア ・ ブオナパルテ</segment>
+		<segment id="7" parent="6" relname="explanation-evidence">-LSB- 注釈 1 -RSB-</segment>
+		<segment id="8" parent="329" relname="span">と 母 マリア ・ レティツィア ・ ラモリーノ の 間 に 、 12 人 の 子ども</segment>
+		<segment id="9" parent="8" relname="elaboration-additional">（ 4 人 は 夭折 ）</segment>
+		<segment id="10" parent="193" relname="same-unit">の うち 4 番目 と し て 生まれ た 。</segment>
+		<segment id="11" parent="197" relname="span">出生時 の 洗礼名 は ナブリオーネ ・ ブオナパルテ</segment>
+		<segment id="12" parent="196" relname="joint-list">-LSB- 注釈 2 -RSB-</segment>
+		<segment id="13" parent="196" relname="joint-list">-LSB- 注釈 3 -RSB- 。</segment>
+		<segment id="14" parent="199" relname="joint-other">島 を 追わ れ 、</segment>
+		<segment id="15" parent="199" relname="joint-other">フランス で 一生 を 暮らす と 決め て 、</segment>
+		<segment id="16" parent="17" relname="elaboration-attribute">25 歳 と なる</segment>
+		<segment id="17" parent="200" relname="span">1794 年 頃 より 、 ナポレオーネ ・ ディ ・ ブオナパルテ と いう イタリア人 名 の 綴り から 、 フランス 風 の ナポレオン ・ ボナパルト へ 改名 し 、</segment>
+		<segment id="18" parent="201" relname="joint-sequence">署名 も 改め た 。</segment>
+		<segment id="19" parent="20" relname="elaboration-attribute">ブオナパルテ 家 の 先祖 は 中部 イタリア の トスカーナ州 に 起源 を 持つ 、</segment>
+		<segment id="20" parent="203" relname="span">古い 血統 貴族 。</segment>
+		<segment id="21" parent="204" relname="joint-sequence">それ が ジェノヴァ 共和国 の 傭兵 隊 長 と し て コルシカ 島 に 渡り 、</segment>
+		<segment id="22" parent="204" relname="joint-sequence">16 世紀 頃 に 土着 し た 。</segment>
+		<segment id="23" parent="24" relname="elaboration-attribute">判事 で あっ た</segment>
+		<segment id="24" parent="206" relname="span">父 カルロ は 、</segment>
+		<segment id="25" parent="26" relname="elaboration-attribute">1729 年 に 始まっ て い た</segment>
+		<segment id="26" parent="207" relname="span">コルシカ 独立 闘争 の 指導者 パスカル ・ パオリ の 副官 を 務め て い た が 、</segment>
+		<segment id="27" parent="208" relname="joint-sequence">ナポレオン が 生まれる 直前 に フランス 側 に 転向 し 、</segment>
+		<segment id="28" parent="208" relname="joint-sequence">戦後 に 寝返り へ の 見返り と し て 報奨 を 受け 、</segment>
+		<segment id="29" parent="208" relname="joint-sequence">フランス 貴族 と 同等 の 権利 を 得 た 。</segment>
+		<segment id="30" parent="31" relname="elaboration-attribute">旧 ジェノヴァ 共和 国領 で ある</segment>
+		<segment id="31" parent="211" relname="span">コルシカ 島 に は 貴族 制度 が なかっ た が 、</segment>
+		<segment id="32" parent="33" relname="context-circumstance">新 貴族 と し て の 身分 を 晴れ て</segment>
+		<segment id="33" parent="212" relname="span">認め られ た こと で 特権 を 得 て 、</segment>
+		<segment id="34" parent="214" relname="span">フランス 本国 へ の 足がかり を 得 た</segment>
+		<segment id="35" parent="215" relname="span">父 カルロ は やがて コルシカ 総督 とも 懇意 に なり 、</segment>
+		<segment id="36" parent="330" relname="span">その 援助 で ナポレオン と 兄 の ジュゼッペ</segment>
+		<segment id="37" parent="36" relname="elaboration-additional">（ ジョゼフ ） を</segment>
+		<segment id="38" parent="39" relname="purpose-goal">教育 を 受け させる ため に</segment>
+		<segment id="39" parent="216" relname="span">フランス 本国 へ と 送っ た 。</segment>
+		<segment id="40" parent="219" relname="adversative-concession">ナポレオン は 当初 、 修道院 付属 学校 に 短期間 だけ 入っ て い た が 、</segment>
+		<segment id="41" parent="332" relname="span">1779 年 に 貴族 の 子弟 が 学ぶ ブリエンヌ 陸軍 幼年 学校</segment>
+		<segment id="42" parent="41" relname="elaboration-additional">（ fr ）</segment>
+		<segment id="43" parent="331" relname="same-unit">へ 国費 で 入学 し 、</segment>
+		<segment id="44" parent="219" relname="joint-sequence">数学 で 抜群 の 成績 を 修め た と いう 。</segment>
+		<segment id="45" parent="334" relname="span">1784 年 に パリ の 陸軍士官学校</segment>
+		<segment id="46" parent="45" relname="elaboration-additional">（ fr ）</segment>
+		<segment id="47" parent="333" relname="same-unit">に 入学 。</segment>
+		<segment id="48" parent="223" relname="adversative-concession">士官 学校 に は 騎兵 科 、 歩兵 科 、 砲兵 科 の 3 つ が あっ た が 、</segment>
+		<segment id="49" parent="223" relname="same-unit">彼 が 専門 と し て 選ん だ の は 、</segment>
+		<segment id="50" parent="51" relname="elaboration-attribute">伝統 も あり 花形 で 人気 の あっ た</segment>
+		<segment id="51" parent="221" relname="span">騎兵 科 で は なく 、</segment>
+		<segment id="52" parent="222" relname="span">砲兵 科 で あっ た</segment>
+		<segment id="53" parent="224" relname="explanation-evidence">-LSB- 注釈 4 -RSB- 。</segment>
+		<segment id="54" parent="55" relname="elaboration-attribute">大砲 を 用い た</segment>
+		<segment id="55" parent="227" relname="span">戦術 は 、 のち の 彼 の 命運 を 大きく 左右 する こと に なる 。</segment>
+		<segment id="56" parent="228" relname="adversative-concession">卒業 試験 の 成績 は 58 人 中 42 位 で あっ た もの の 、</segment>
+		<segment id="57" parent="58" relname="adversative-concession">通常 の 在籍期間 が 4 年 前後 で ある ところ を 、</segment>
+		<segment id="58" parent="228" relname="span">わずか 11 か月 で 必要 な 全 課程 を 修了 し た こと を 考えれ ば 、</segment>
+		<segment id="59" parent="229" relname="evaluation-comment">むしろ 非常 に 優秀 な 成績 と 言える 。</segment>
+		<segment id="60" parent="230" relname="elaboration-additional">実際 、 この 11 か月 で の 卒業 は 開校 以来 の 最短 記録 で あっ た 。</segment>
+		<segment id="61" parent="241" relname="same-unit">この 時期 の エピソード と し て 、</segment>
+		<segment id="62" parent="63" relname="context-circumstance">クラス で 雪合戦 を し た 際 に</segment>
+		<segment id="63" parent="239" relname="span">ナポレオン の 見事 な 指揮 と 陣地 構築 で 快勝 し た と いう 話 が 有名 で 、</segment>
+		<segment id="64" parent="240" relname="span">この頃 から 指揮官 と し て の 才能 が あっ た と さ れる が 、</segment>
+		<segment id="65" parent="242" relname="span">実話 か は 定か で は ない 。</segment>
+		<segment id="66" parent="236" relname="joint-list">幼年 時 の ナポレオン は 、</segment>
+		<segment id="67" parent="236" relname="joint-list">節約 を かねて</segment>
+		<segment id="68" parent="236" relname="joint-list">読書 に 明け暮れ 、</segment>
+		<segment id="69" parent="237" relname="span">特に プルタルコス の 『 英雄 伝 』 や ルソー の 著作</segment>
+		<segment id="70" parent="69" relname="elaboration-attribute">-LSB- 注釈 5 -RSB-</segment>
+		<segment id="71" parent="243" relname="same-unit">など を 精読 し 、</segment>
+		<segment id="72" parent="236" relname="joint-list">無口 で 友達 の 少ない 少年 で あっ た 。</segment>
+		<segment id="73" parent="244" relname="span">学校 で は コルシカ なまり</segment>
+		<segment id="74" parent="73" relname="explanation-evidence">-LSB- 注釈 6 -RSB-</segment>
+		<segment id="75" parent="245" relname="same-unit">を 馬鹿 に さ れ 、</segment>
+		<segment id="76" parent="335" relname="span">ナポレオーネ に 近い 音 で ラパイヨネ</segment>
+		<segment id="77" parent="76" relname="elaboration-additional">（ la paille au nez , 藁 鼻 ）</segment>
+		<segment id="78" parent="336" relname="same-unit">と あだ名 さ れ た 。</segment>
+		<segment id="79" parent="246" relname="causal-cause">裕福 な 貴族 子弟 と 折り合い が 悪かっ た ため で ある 。</segment>
+		<segment id="80" parent="248" relname="adversative-concession">その 頃 の 数 少ない 友人 の 一人 が 、</segment>
+		<segment id="81" parent="82" relname="elaboration-attribute">のち に 秘書官 を 務める</segment>
+		<segment id="82" parent="248" relname="span">ルイ ・ アントワーヌ ・ フォヴレ ・ ド ・ ブーリエンヌ で あっ た 。</segment>
+		<segment id="83" parent="84" relname="causal-cause">一方 で 、 癇癪持ち で も あり 、</segment>
+		<segment id="84" parent="250" relname="span">喧嘩 っ早く 短気 な 一面 も あっ た 。</segment>
+		<segment id="85" parent="86" relname="causal-cause">また 十 代 の 後半 は 小説家 に も 憧れ 、</segment>
+		<segment id="86" parent="251" relname="span">その 頃 から 断続的 に 文学 活動 も し て い た 。</segment>
+		<segment id="87" parent="325" relname="organization-heading">軍人 ナポレオン</segment>
+		<segment id="88" parent="325" relname="joint-sequence">16 歳 の とき 1785 年 に 砲兵 士官 と し て 任官 。</segment>
+		<segment id="89" parent="90" relname="elaboration-attribute">20 歳 を 迎える</segment>
+		<segment id="90" parent="255" relname="span">1789 年 、 フランス 革命 が 勃発 し 、</segment>
+		<segment id="91" parent="256" relname="joint-sequence">フランス 国内 の 情勢 は 不穏 な もの と なっ て いく が 、</segment>
+		<segment id="92" parent="93" relname="elaboration-attribute">コルシカ 民族主義者 で あっ た</segment>
+		<segment id="93" parent="257" relname="span">当時 の ナポレオン は 革命 に は 無関心 だっ た 。</segment>
+		<segment id="94" parent="259" relname="joint-other">ナポレオン は しばしば コルシカ 島 へ と 長期 帰郷 し て いる 。</segment>
+		<segment id="95" parent="96" relname="elaboration-attribute">23 歳 と なる</segment>
+		<segment id="96" parent="260" relname="span">1792 年 、 故郷 アジャクシオ の 国民 衛兵 隊 中佐 に 選ば れる が 、</segment>
+		<segment id="97" parent="262" relname="causal-cause">ブオナパルテ 家 が 親仏 派 で あっ た こと から 、</segment>
+		<segment id="98" parent="99" relname="elaboration-attribute">英国 に 逃れ て いる</segment>
+		<segment id="99" parent="261" relname="span">コルシカ 島 独立 指導者 パスカル ・ パオリ の 腹心 で ナポレオン と 遠い 縁戚 関係 に も ある</segment>
+		<segment id="100" parent="262" relname="span">ポッツォ ・ ディ ・ ボルゴ ら 親英 派 に よっ て ブオナパルテ 家 弾劾 決議 を 下さ れる 。</segment>
+		<segment id="101" parent="266" relname="joint-sequence">軍人 ナポレオン と 家族 は コルシカ 島 から 追放 さ れ 、</segment>
+		<segment id="102" parent="103" relname="elaboration-attribute">船 で 脱出 する と いう</segment>
+		<segment id="103" parent="265" relname="span">逃避行 に よっ て コルシカ 島 に 近い 南仏 マルセイユ に 移住 し た 。</segment>
+		<segment id="104" parent="268" relname="same-unit">マルセイユ で は 、 ブオナパルテ 家 は</segment>
+		<segment id="105" parent="106" relname="elaboration-attribute">裕福 な 商家 で ある</segment>
+		<segment id="106" parent="267" relname="span">クラリー 家 と 親交 を 深め 、</segment>
+		<segment id="107" parent="268" relname="same-unit">ナポレオン の 兄 の ジョゼフ は 、 クラリー 家 の 娘 ・ ジュリー と 結婚 し た 。</segment>
+		<segment id="108" parent="269" relname="joint-sequence">ナポレオン も クラリー 家 の 末娘 ・ デジレ と 恋仲 と なり 、</segment>
+		<segment id="109" parent="269" relname="joint-sequence">婚約 する 。</segment>
+		<segment id="110" parent="272" relname="causal-cause">この頃 、 ナポレオン は 、 己 の 政治 信条 を 語る 小冊子 『 ボーケール の 晩餐 』 を 著し て 、</segment>
+		<segment id="111" parent="338" relname="span">当時 の フランス 政府</segment>
+		<segment id="112" parent="111" relname="elaboration-additional">（ 革命 政府 ）</segment>
+		<segment id="113" parent="337" relname="same-unit">の 中心 に い た</segment>
+		<segment id="114" parent="272" relname="span">有力 者 ロベスピエール の 弟 ・ オーギュスタン の 知遇 を 得 て い た</segment>
+		<segment id="115" parent="116" relname="mode-manner">（ この 小冊子 は のち に 、 ロベスピエール と ジャコバン 派 の 独裁 を 支持 する もの で ある と し て 、</segment>
+		<segment id="116" parent="273" relname="span">後述 する ナポレオン 逮捕 の 口実 と も なっ た ） 。</segment>
+		<segment id="117" parent="118" relname="elaboration-attribute">24 歳 と なる</segment>
+		<segment id="118" parent="276" relname="span">1793 年 、 原隊 に 復帰 する と 、</segment>
+		<segment id="119" parent="120" relname="mode-means">貴族 士官 の 亡命 と いう 恩恵 を 得 て 、</segment>
+		<segment id="120" parent="277" relname="span">特に 何 も せ ず に 大尉 に 昇進 。</segment>
+		<segment id="121" parent="122" relname="elaboration-attribute">ナポレオン は フランス 軍 の 中 で も 主に 王 党派 蜂起 の 鎮圧 を 行っ て い た</segment>
+		<segment id="122" parent="279" relname="span">カルトー 将軍 の 南方 軍 に 所属 し 、</segment>
+		<segment id="123" parent="280" relname="span">トゥーロン 攻囲 戦 に 出征 。</segment>
+		<segment id="124" parent="281" relname="joint-sequence">前任 者 の 負傷 を 受け て 、</segment>
+		<segment id="125" parent="281" relname="joint-sequence">新た に 砲兵 司令官 と なり 、</segment>
+		<segment id="126" parent="281" relname="joint-sequence">少佐 に 昇格 する 。</segment>
+		<segment id="127" parent="340" relname="span">当時 の 欧州 情勢 と し て は 、 「 フランス 革命 政府 」 対 「 反革命 側 反乱軍</segment>
+		<segment id="128" parent="127" relname="elaboration-additional">（ および それ に 介入 する 第 一 次 対仏 大 同盟 諸国 ）</segment>
+		<segment id="129" parent="339" relname="same-unit">」 の 図式 が あり 、</segment>
+		<segment id="130" parent="131" relname="elaboration-attribute">近代的 城郭 を 備え た</segment>
+		<segment id="131" parent="282" relname="span">港湾 都市 トゥーロン は フランス 地中海 艦隊 の 母港 で 、</segment>
+		<segment id="132" parent="133" relname="elaboration-attribute">イギリス ・ スペイン 艦隊 の 支援 を 受け た</segment>
+		<segment id="133" parent="283" relname="span">反革命 側 が 鉄壁 の 防御 を 築い て い た 。</segment>
+		<segment id="134" parent="287" relname="same-unit">革命 後 の 混乱 で 人材 の 乏しい フランス 側 は 、 元 画家 の カルトー 将軍 ら の 指揮 で 、 要塞 都市 へ の</segment>
+		<segment id="135" parent="136" relname="elaboration-attribute">無謀 と も いえる</segment>
+		<segment id="136" parent="286" relname="span">突撃 を 繰り返し て</segment>
+		<segment id="137" parent="288" relname="span">自ら 大 損害 を 被っ て いる よう な 状況 で あっ た 。</segment>
+		<segment id="138" parent="290" relname="joint-sequence">ここ で ナポレオン は 、 まず は 港 を 見下ろす 二 つ の 高地 を 奪取 し て 、</segment>
+		<segment id="139" parent="290" relname="joint-sequence">次 に そこ から 大砲 で 敵 艦隊 を 狙い撃ち に する 、</segment>
+		<segment id="140" parent="290" relname="attribution-positive">と いう 作戦 を 進言 する 。</segment>
+		<segment id="141" parent="142" relname="elaboration-attribute">次 の 次 の 司令官 で あっ た</segment>
+		<segment id="142" parent="292" relname="span">デュゴミエ 将軍 が これ を 採用 し 、</segment>
+		<segment id="143" parent="293" relname="joint-sequence">豪雨 を つい て 作戦 は 決行 さ れ 成功 、</segment>
+		<segment id="144" parent="293" relname="joint-sequence">外国 艦隊 を 追い払い 反革命 軍 を 降伏 に 追い込ん だ 。</segment>
+		<segment id="145" parent="146" relname="adversative-concession">ナポレオン 自身 は 足 を 負傷 し た が 、</segment>
+		<segment id="146" parent="299" relname="span">この 功績 に より 国民 公会 の 議員 の 推薦 を 受け 、</segment>
+		<segment id="147" parent="341" relname="span">当時 24 歳 の 彼 は 一挙 に 旅団 将軍</segment>
+		<segment id="148" parent="147" relname="elaboration-additional">（ 少将 相当 ）</segment>
+		<segment id="149" parent="341" relname="explanation-evidence">-LSB- 注釈 7 -RSB-</segment>
+		<segment id="150" parent="295" relname="same-unit">に 昇進 し 、</segment>
+		<segment id="151" parent="297" relname="same-unit">一躍</segment>
+		<segment id="152" parent="153" relname="elaboration-attribute">フランス 軍 を 代表 する</segment>
+		<segment id="153" parent="296" relname="span">若き 英雄 へ と 祭り上げ られ た 。</segment>
+		<segment id="154" parent="303" relname="context-background">1794 年 、 革命 政府 内 で ロベスピエール が テルミドール 9 日 の クーデタ で 失脚 し て 処刑 さ れ た 。</segment>
+		<segment id="155" parent="302" relname="adversative-concession">ナポレオン は イタリア 方面 軍 の 砲兵 司令官 と なっ て い た が 、</segment>
+		<segment id="156" parent="300" relname="joint-list">ロベスピエール の 弟 オーギュスタン と つながり が あっ た こと 、</segment>
+		<segment id="157" parent="300" relname="joint-list">および イタリア 戦線 で の 方針 対立 など</segment>
+		<segment id="158" parent="301" relname="joint-list">に より 逮捕 、</segment>
+		<segment id="159" parent="301" relname="joint-list">収監 さ れ た 。</segment>
+		<segment id="160" parent="305" relname="adversative-concession">短期 拘留 で あっ た もの の</segment>
+		<segment id="161" parent="305" relname="joint-list">軍務 から 外さ れ 、</segment>
+		<segment id="162" parent="305" relname="joint-list">降格 処分 と なっ た 。</segment>
+		<segment id="163" parent="308" relname="joint-list">その後 も 転属 を 拒否 する など し て 、</segment>
+		<segment id="164" parent="308" relname="joint-list">公安委員 の オーブリ と 対立 し た ため に</segment>
+		<segment id="165" parent="309" relname="span">予備 役 と さ れ て しまっ た 。</segment>
+		<segment id="166" parent="343" relname="span">しかし 1795 年 、 パリ に おい て 王 党派 の 蜂起</segment>
+		<segment id="167" parent="166" relname="elaboration-additional">（ ヴァンデミエール の 反乱 ）</segment>
+		<segment id="168" parent="342" relname="same-unit">が 起こっ た 。</segment>
+		<segment id="169" parent="170" relname="elaboration-attribute">この とき に 国民 公会 軍 司令官 と なっ た</segment>
+		<segment id="170" parent="311" relname="span">ポール ・ バラス は 、</segment>
+		<segment id="171" parent="172" relname="causal-cause">トゥーロン 攻囲 戦 の とき の 派遣 議員 で あっ た ため 、</segment>
+		<segment id="172" parent="312" relname="span">知り合い の ナポレオン を 副官 と し て 登用 し た 。</segment>
+		<segment id="173" parent="316" relname="same-unit">実際 の 鎮圧 作戦 を</segment>
+		<segment id="174" parent="175" relname="elaboration-attribute">この 副官 と なっ た</segment>
+		<segment id="175" parent="315" relname="span">ナポレオン に ほぼ 一任 し た 結果 、</segment>
+		<segment id="176" parent="345" relname="span">首都 の 市街地 で 一般 市民 に 対し て 大砲</segment>
+		<segment id="177" parent="176" relname="elaboration-additional">（ しかも 広範囲 に 被害 が 及ぶ ぶどう 弾 ）</segment>
+		<segment id="178" parent="344" relname="same-unit">を 撃つ と いう 大胆 な 戦法 を とっ て</segment>
+		<segment id="179" parent="317" relname="span">鎮圧 に 成功 し た 。</segment>
+		<segment id="180" parent="346" relname="span">これ に よっ て ナポレオン は 師団 将軍</segment>
+		<segment id="181" parent="180" relname="elaboration-additional">（ 中将 相当 ）</segment>
+		<segment id="182" parent="346" relname="explanation-evidence">-LSB- 注釈 8 -RSB-</segment>
+		<segment id="183" parent="320" relname="same-unit">に 昇進 。</segment>
+		<segment id="184" parent="321" relname="span">国内 軍 副 司令官 、 ついで 国内 軍 司令官</segment>
+		<segment id="185" parent="184" relname="explanation-evidence">-LSB- 注釈 9 -RSB-</segment>
+		<segment id="186" parent="322" relname="same-unit">の 役職 を 手 に 入れ 、</segment>
+		<segment id="187" parent="348" relname="span">「 ヴァンデミエール</segment>
+		<segment id="188" parent="187" relname="elaboration-additional">（ 葡萄 月 ）</segment>
+		<segment id="189" parent="347" relname="same-unit">将軍 」 の 異名 を とっ た 。</segment>
+		<segment id="190" parent="323" relname="elaboration-additional">月 の 呼称 に つい て は 「 フランス 革命暦 」 参照 。</segment>
+		<group id="191" type="span" parent="193" relname="context-background"/>
+		<group id="192" type="span" parent="193" relname="same-unit"/>
+		<group id="193" type="multinuc" parent="194" relname="span"/>
+		<group id="194" type="span" parent="195" relname="same-unit"/>
+		<group id="195" type="multinuc" parent="198" relname="span"/>
+		<group id="196" type="multinuc" parent="11" relname="explanation-evidence"/>
+		<group id="197" type="span" parent="195" relname="elaboration-additional"/>
+		<group id="198" type="span" parent="232" relname="joint-sequence"/>
+		<group id="199" type="multinuc" parent="201" relname="causal-cause"/>
+		<group id="200" type="span" parent="201" relname="joint-sequence"/>
+		<group id="201" type="multinuc" parent="202" relname="span"/>
+		<group id="202" type="span" parent="232" relname="joint-sequence"/>
+		<group id="203" type="span" parent="205" relname="span"/>
+		<group id="204" type="multinuc" parent="203" relname="elaboration-additional"/>
+		<group id="205" type="span" parent="210" relname="context-background"/>
+		<group id="206" type="span" parent="210" relname="same-unit"/>
+		<group id="207" type="span" parent="208" relname="adversative-concession"/>
+		<group id="208" type="multinuc" parent="209" relname="span"/>
+		<group id="209" type="span" parent="210" relname="same-unit"/>
+		<group id="210" type="multinuc" parent="233" relname="span"/>
+		<group id="211" type="span" parent="212" relname="adversative-concession"/>
+		<group id="212" type="span" parent="213" relname="span"/>
+		<group id="213" type="span" parent="34" relname="mode-manner"/>
+		<group id="214" type="span" parent="35" relname="elaboration-attribute"/>
+		<group id="215" type="span" parent="218" relname="joint-sequence"/>
+		<group id="216" type="span" parent="217" relname="same-unit"/>
+		<group id="217" type="multinuc" parent="218" relname="joint-sequence"/>
+		<group id="218" type="multinuc" parent="232" relname="joint-sequence"/>
+		<group id="219" type="multinuc" parent="220" relname="span"/>
+		<group id="220" type="span" parent="238" relname="joint-list"/>
+		<group id="221" type="span" parent="52" relname="adversative-antithesis"/>
+		<group id="222" type="span" parent="223" relname="same-unit"/>
+		<group id="223" type="multinuc" parent="224" relname="span"/>
+		<group id="224" type="span" parent="225" relname="span"/>
+		<group id="225" type="span" parent="226" relname="span"/>
+		<group id="226" type="span" parent="234" relname="span"/>
+		<group id="227" type="span" parent="226" relname="elaboration-additional"/>
+		<group id="228" type="span" parent="229" relname="span"/>
+		<group id="229" type="span" parent="230" relname="span"/>
+		<group id="230" type="span" parent="231" relname="span"/>
+		<group id="231" type="span" parent="234" relname="elaboration-additional"/>
+		<group id="232" type="multinuc" parent="254" relname="span"/>
+		<group id="233" type="span" parent="232" relname="joint-sequence"/>
+		<group id="234" type="span" parent="235" relname="span"/>
+		<group id="235" type="span" parent="238" relname="joint-list"/>
+		<group id="236" type="multinuc" parent="252" relname="joint-other"/>
+		<group id="237" type="span" parent="243" relname="same-unit"/>
+		<group id="238" type="multinuc" parent="253" relname="span"/>
+		<group id="239" type="span" parent="64" relname="context-background"/>
+		<group id="240" type="span" parent="241" relname="same-unit"/>
+		<group id="241" type="multinuc" parent="65" relname="adversative-concession"/>
+		<group id="242" type="span" parent="252" relname="joint-other"/>
+		<group id="243" type="multinuc" parent="236" relname="joint-list"/>
+		<group id="244" type="span" parent="245" relname="same-unit"/>
+		<group id="245" type="multinuc" parent="336" relname="causal-cause"/>
+		<group id="246" type="span" parent="247" relname="span"/>
+		<group id="247" type="span" parent="252" relname="joint-other"/>
+		<group id="248" type="span" parent="249" relname="span"/>
+		<group id="249" type="span" parent="252" relname="joint-other"/>
+		<group id="250" type="span" parent="252" relname="joint-other"/>
+		<group id="251" type="span" parent="252" relname="joint-other"/>
+		<group id="252" type="multinuc" parent="238" relname="elaboration-additional"/>
+		<group id="253" type="span" parent="232" relname="joint-sequence"/>
+		<group id="254" type="span" parent="327" relname="joint-sequence"/>
+		<group id="255" type="span" parent="256" relname="joint-sequence"/>
+		<group id="256" type="multinuc" parent="257" relname="adversative-concession"/>
+		<group id="257" type="span" parent="258" relname="span"/>
+		<group id="258" type="span" parent="259" relname="joint-other"/>
+		<group id="259" type="multinuc" parent="325" relname="joint-sequence"/>
+		<group id="260" type="span" parent="263" relname="adversative-concession"/>
+		<group id="261" type="span" parent="100" relname="elaboration-attribute"/>
+		<group id="262" type="span" parent="263" relname="span"/>
+		<group id="263" type="span" parent="264" relname="span"/>
+		<group id="264" type="span" parent="325" relname="joint-sequence"/>
+		<group id="265" type="span" parent="266" relname="joint-sequence"/>
+		<group id="266" type="multinuc" parent="271" relname="span"/>
+		<group id="267" type="span" parent="268" relname="same-unit"/>
+		<group id="268" type="multinuc" parent="270" relname="joint-list"/>
+		<group id="269" type="multinuc" parent="270" relname="joint-list"/>
+		<group id="270" type="multinuc" parent="266" relname="elaboration-additional"/>
+		<group id="271" type="span" parent="325" relname="joint-sequence"/>
+		<group id="272" type="span" parent="274" relname="span"/>
+		<group id="273" type="span" parent="274" relname="elaboration-additional"/>
+		<group id="274" type="span" parent="275" relname="span"/>
+		<group id="275" type="span" parent="325" relname="joint-sequence"/>
+		<group id="276" type="span" parent="278" relname="joint-sequence"/>
+		<group id="277" type="span" parent="278" relname="joint-sequence"/>
+		<group id="278" type="multinuc" parent="325" relname="joint-sequence"/>
+		<group id="279" type="span" parent="123" relname="context-background"/>
+		<group id="280" type="span" parent="325" relname="joint-sequence"/>
+		<group id="281" type="multinuc" parent="325" relname="joint-sequence"/>
+		<group id="282" type="span" parent="284" relname="same-unit"/>
+		<group id="283" type="span" parent="284" relname="same-unit"/>
+		<group id="284" type="multinuc" parent="285" relname="span"/>
+		<group id="285" type="span" parent="288" relname="elaboration-additional"/>
+		<group id="286" type="span" parent="287" relname="same-unit"/>
+		<group id="287" type="multinuc" parent="137" relname="causal-cause"/>
+		<group id="288" type="span" parent="289" relname="span"/>
+		<group id="289" type="span" parent="325" relname="joint-sequence"/>
+		<group id="290" type="multinuc" parent="291" relname="span"/>
+		<group id="291" type="span" parent="325" relname="joint-sequence"/>
+		<group id="292" type="span" parent="293" relname="joint-sequence"/>
+		<group id="293" type="multinuc" parent="325" relname="joint-sequence"/>
+		<group id="294" type="span" parent="295" relname="same-unit"/>
+		<group id="295" type="multinuc" parent="298" relname="joint-sequence"/>
+		<group id="296" type="span" parent="297" relname="same-unit"/>
+		<group id="297" type="multinuc" parent="298" relname="joint-sequence"/>
+		<group id="298" type="multinuc" parent="325" relname="joint-sequence"/>
+		<group id="299" type="span" parent="298" relname="joint-sequence"/>
+		<group id="300" type="multinuc" parent="301" relname="causal-cause"/>
+		<group id="301" type="multinuc" parent="302" relname="span"/>
+		<group id="302" type="span" parent="303" relname="span"/>
+		<group id="303" type="span" parent="304" relname="span"/>
+		<group id="304" type="span" parent="307" relname="span"/>
+		<group id="305" type="multinuc" parent="306" relname="span"/>
+		<group id="306" type="span" parent="304" relname="elaboration-additional"/>
+		<group id="307" type="span" parent="310" relname="span"/>
+		<group id="308" type="multinuc" parent="165" relname="causal-cause"/>
+		<group id="309" type="span" parent="307" relname="elaboration-additional"/>
+		<group id="310" type="span" parent="325" relname="joint-sequence"/>
+		<group id="311" type="span" parent="313" relname="same-unit"/>
+		<group id="312" type="span" parent="313" relname="same-unit"/>
+		<group id="313" type="multinuc" parent="314" relname="span"/>
+		<group id="314" type="span" parent="325" relname="joint-sequence"/>
+		<group id="315" type="span" parent="316" relname="same-unit"/>
+		<group id="316" type="multinuc" parent="317" relname="causal-cause"/>
+		<group id="317" type="span" parent="318" relname="span"/>
+		<group id="318" type="span" parent="325" relname="joint-sequence"/>
+		<group id="319" type="span" parent="320" relname="same-unit"/>
+		<group id="320" type="multinuc" parent="325" relname="joint-sequence"/>
+		<group id="321" type="span" parent="322" relname="same-unit"/>
+		<group id="322" type="multinuc" parent="323" relname="joint-sequence"/>
+		<group id="323" type="multinuc" parent="324" relname="span"/>
+		<group id="324" type="span" parent="325" relname="joint-sequence"/>
+		<group id="325" type="multinuc" parent="326" relname="span"/>
+		<group id="326" type="span" parent="327" relname="joint-sequence"/>
+		<group id="327" type="multinuc" parent="328" relname="span"/>
+		<group id="328" type="span" />
+		<group id="329" type="span" parent="193" relname="same-unit"/>
+		<group id="330" type="span" parent="217" relname="same-unit"/>
+		<group id="331" type="multinuc" parent="219" relname="joint-sequence"/>
+		<group id="332" type="span" parent="331" relname="same-unit"/>
+		<group id="333" type="multinuc" parent="225" relname="context-background"/>
+		<group id="334" type="span" parent="333" relname="same-unit"/>
+		<group id="335" type="span" parent="336" relname="same-unit"/>
+		<group id="336" type="multinuc" parent="246" relname="span"/>
+		<group id="337" type="multinuc" parent="114" relname="elaboration-attribute"/>
+		<group id="338" type="span" parent="337" relname="same-unit"/>
+		<group id="339" type="multinuc" parent="284" relname="context-background"/>
+		<group id="340" type="span" parent="339" relname="same-unit"/>
+		<group id="341" type="span" parent="294" relname="span"/>
+		<group id="342" type="multinuc" parent="313" relname="context-background"/>
+		<group id="343" type="span" parent="342" relname="same-unit"/>
+		<group id="344" type="multinuc" parent="179" relname="mode-means"/>
+		<group id="345" type="span" parent="344" relname="same-unit"/>
+		<group id="346" type="span" parent="319" relname="span"/>
+		<group id="347" type="multinuc" parent="323" relname="joint-sequence"/>
+		<group id="348" type="span" parent="347" relname="same-unit"/>
+	</body>
+</rst>

@@ -1,0 +1,322 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="155" relname="span">ら抜き 言葉 と 〈 れ れる 言葉 〉 と 可能 動詞 に み られる</segment>
+		<segment id="2" parent="1" relname="elaboration-additional">自発 ・ 受身 ・ 尊敬 の 用法 に つい て</segment>
+		<segment id="3" parent="155" relname="elaboration-additional">振れ れる の も いや だ し ・ いじめれ れる 子供 ・ 女性 に ことわれ 続け</segment>
+		<segment id="4" parent="280" relname="context-circumstance">（ 『 言語 の 研究 』 ２ 号 2016 年 ７ 月 ）</segment>
+		<segment id="5" parent="279" relname="attribution-positive">浅川 哲也</segment>
+		<segment id="6" parent="276" relname="adversative-antithesis">はじめ に</segment>
+		<segment id="7" parent="159" relname="same-unit">ら抜き 言葉 と は 、</segment>
+		<segment id="8" parent="9" relname="mode-means">五 段 活用 以外 の 上 一段 ・ 下 一 段 ・ カ変 ・ サ変 に 「 られる 」 を 下 接さ せ て</segment>
+		<segment id="9" parent="157" relname="span">可能 の 意味 を 表わす 場合 に 「 ら 」 を 抜い て 「 見れる ・ 出れる ・ 来れる ・ 信じ れる 」 の よう に 使う</segment>
+		<segment id="10" parent="158" relname="span">事象 の こと で ある</segment>
+		<segment id="11" parent="159" relname="attribution-positive">（ 佐藤 2007 ） 。</segment>
+		<segment id="12" parent="161" relname="span">ただし 、 この 場合 「 信じる 」 の よう な 漢語 サ変 動詞 は 上 一段 化 し て いる</segment>
+		<segment id="13" parent="12" relname="attribution-positive">（ 浅川 ・ 竹部 2014 ） 。</segment>
+		<segment id="14" parent="167" relname="same-unit">本来 、 江戸 語 ・ 東京 語 に おい て は 、</segment>
+		<segment id="15" parent="162" relname="span">原則 と し て ら抜き 言葉 が 使用 さ れる こと は なく 、</segment>
+		<segment id="16" parent="15" relname="explanation-evidence">-LSB- １ -RSB-</segment>
+		<segment id="17" parent="165" relname="same-unit">東京 語 で ら抜き 言葉 が 広まっ た の は 、</segment>
+		<segment id="18" parent="163" relname="span">関東 大震災</segment>
+		<segment id="19" parent="18" relname="elaboration-additional">（ 大正 12 年 ・ 1923 年 ）</segment>
+		<segment id="20" parent="164" relname="span">以降 に 、 地方 出身者 に よる 東京 へ の 大規模 な 人口 流入 が 発生 し て から の こと で ある</segment>
+		<segment id="21" parent="20" relname="elaboration-additional">（ 田中 1983 ） 。</segment>
+		<segment id="22" parent="170" relname="same-unit">現代 日本語 の 共通語 は 、</segment>
+		<segment id="23" parent="24" relname="elaboration-additional">一定 の 教育 を 受け た</segment>
+		<segment id="24" parent="168" relname="span">階層 の 間 で 使用 さ れる</segment>
+		<segment id="25" parent="169" relname="span">東京 語 の 話し言葉 を 基盤 と し て いる</segment>
+		<segment id="26" parent="170" relname="attribution-positive">（ 国語 調査 委員会 1916 ） 。</segment>
+		<segment id="27" parent="175" relname="same-unit">従っ て 、</segment>
+		<segment id="28" parent="29" relname="elaboration-attribute">東京 語 を 基盤 と し た</segment>
+		<segment id="29" parent="172" relname="span">規範 的 な 共通語 の 運用 から 逸脱 し た</segment>
+		<segment id="30" parent="173" relname="span">言語 表現 一般 を 「 誤用 」 で ある と 定義 すれ ば 、</segment>
+		<segment id="31" parent="174" relname="span">ら抜き 言葉 は 「 誤用 」 と いう こと が できる</segment>
+		<segment id="32" parent="175" relname="attribution-positive">（ 浅川 2011 ， 浅川 ・ 竹部 2014 ） 。</segment>
+		<segment id="33" parent="181" relname="same-unit">本稿 で 扱おう と する の は 、</segment>
+		<segment id="34" parent="180" relname="joint-list">規範 的 な 共通語 の 使用 に おけ る 問題 で あっ て 、</segment>
+		<segment id="35" parent="180" relname="joint-list">各 地域 に おけ る 方言 使用 の 実態 に つい て で は ない 。</segment>
+		<segment id="36" parent="215" relname="span">“ ら抜き 言葉 は 日本語 の 合理的 な 言語 変化 で ある ” と 積極的 に 評価 する 説 が ある 。</segment>
+		<segment id="37" parent="38" relname="mode-manner">管見 の 限り で その 類 の 説 を 要約 し て</segment>
+		<segment id="38" parent="183" relname="span">年代 順 に 挙げ て みる と</segment>
+		<segment id="39" parent="184" relname="span">次 の とおり で ある 。</segment>
+		<segment id="40" parent="185" relname="span">可能 の 意味 だけ に 専用 の 語形 「 ら抜き 言葉 」 が 発明 さ れ た</segment>
+		<segment id="41" parent="40" relname="attribution-positive">（ 城生 1994 ） 。</segment>
+		<segment id="42" parent="186" relname="joint-sequence">ら抜き 言葉 の 誕生 に よっ て 可能 の 言い方 が 別 に なり</segment>
+		<segment id="43" parent="186" relname="joint-sequence">助動詞 レル ・ ラレル の 機能 が 軽減 さ れ て</segment>
+		<segment id="44" parent="186" relname="joint-sequence">受身 と 尊敬 だけ の 役割 に なる</segment>
+		<segment id="45" parent="186" relname="attribution-positive">（ 井上 1998 ） 。</segment>
+		<segment id="46" parent="191" relname="joint-list">助動詞 ラレル の 可能 用法 が レル に 移行 し 、</segment>
+		<segment id="47" parent="189" relname="span">レル 型 可能 動詞</segment>
+		<segment id="48" parent="188" relname="span">（ 可能 動詞 と ら抜き 言葉 の こと ：</segment>
+		<segment id="49" parent="48" relname="attribution-positive">浅川 注 ）</segment>
+		<segment id="50" parent="190" relname="same-unit">が 形成 さ れ て 「 コラレル ／ ミラレル 」 の 可能 用法 と 尊敬 用法 の 衝突 が 回避 さ れる</segment>
+		<segment id="51" parent="191" relname="attribution-positive">（ 小松 1999 ） 。</segment>
+		<segment id="52" parent="193" relname="purpose-goal">「 可能 型 」 と 「 受身 型 」 に 意味 が 区別 し やすい よう に</segment>
+		<segment id="53" parent="54" relname="elaboration-attribute">一段 活用 動詞 が 変化 し た</segment>
+		<segment id="54" parent="193" relname="span">日本語 が より 進化 し た 形 で ある</segment>
+		<segment id="55" parent="194" relname="attribution-positive">（ 岩松 2001 ） 。</segment>
+		<segment id="56" parent="57" relname="context-circumstance">五 段 活用 動詞 で 起こっ た 変化 が 一段 活用 動詞 で も 起こり</segment>
+		<segment id="57" parent="196" relname="span">尊敬 や 受身 の 場合 に ら抜き ことば は 使わ れ ない</segment>
+		<segment id="58" parent="196" relname="attribution-positive">（ 庵 2003 ） 。</segment>
+		<segment id="59" parent="198" relname="joint-list">ら抜き 言葉 は 可能 の 意 に とどまり</segment>
+		<segment id="60" parent="198" relname="joint-list">受身 の 意 に は 用い ない</segment>
+		<segment id="61" parent="199" relname="span">史的 流れ の 中 で の 正統 な ある べき 日本語 の 姿 で ある</segment>
+		<segment id="62" parent="199" relname="attribution-positive">（ 杉本 2007 ） 。</segment>
+		<segment id="63" parent="64" relname="adversative-concession">「 られ 」 は 《 可能 ・ 受身 ・ 尊敬 》 の 三 つ の 意味 を 持っ て いる が</segment>
+		<segment id="64" parent="201" relname="span">「 ら 」 が 落とさ れる の は 《 可能 》 の 意味 の 場合 だけ で ある</segment>
+		<segment id="65" parent="201" relname="attribution-positive">（ 国広 2010 ） 。</segment>
+		<segment id="66" parent="202" relname="explanation-evidence">-LSB- ２ -RSB-</segment>
+		<segment id="67" parent="205" relname="joint-list">ら抜き 言葉 は 合理化 で ある 、</segment>
+		<segment id="68" parent="69" relname="purpose-goal">受身 の 意味 と 可能 の 意味 を 区別 する ため に</segment>
+		<segment id="69" parent="204" relname="span">自ずと そう なっ た</segment>
+		<segment id="70" parent="205" relname="attribution-positive">（ 水谷 2011 ） 。</segment>
+		<segment id="71" parent="72" relname="contingency-condition">「 来れる 」 の よう な 可能 表現 専用 の 形 が 作ら れる と</segment>
+		<segment id="72" parent="207" relname="span">「 来 られる 」 と 言え ば 尊敬 表現 で 「 来れる 」 は 可能 表現 と いう よう に 役割 が 分担 さ れ 混乱 が なくなる</segment>
+		<segment id="73" parent="207" relname="attribution-positive">（ 竹林 2011 ） 。</segment>
+		<segment id="74" parent="209" relname="joint-list">また 、 「 ら抜き の 後 に 来る の はれ 足す と 予想 さ れる 。</segment>
+		<segment id="75" parent="209" relname="joint-list">ら抜き で ぐずぐず し て いる 東京 語 で は まだ ま だれ 足す こと の 一般 化 は 遠い 未来</segment>
+		<segment id="76" parent="209" relname="attribution-positive">（ 松田 2012 ） 」</segment>
+		<segment id="77" parent="211" relname="span">と いう 東京 語 で の ら抜き 言葉 の 使用 拡大 を 助長 する か の よう な</segment>
+		<segment id="78" parent="212" relname="span">発言 すら ある 。</segment>
+		<segment id="79" parent="218" relname="contingency-condition">これ ら の 説 を 要約 すれ ば</segment>
+		<segment id="80" parent="217" relname="joint-list">“ ら抜き 言葉 は 五 段 活用 動詞 以外 の 活用 へ の 可能 動詞 の 拡大 で あり 、</segment>
+		<segment id="81" parent="217" relname="joint-list">ら抜き 言葉 に よっ て 「 自発 ・ 受身 ・ 可能 ・ 尊敬 」 の 四 つ の 意味 用法 を 有する 助動詞 「 れる ・ られる 」 型 の 文 から 可能 の 意味 用法 だけ が 分出 さ れ 、</segment>
+		<segment id="82" parent="217" relname="joint-list">助動詞 「 れる ・ られる 」 の 負担 する 意味 用法 が 軽減 さ れる の で 、</segment>
+		<segment id="83" parent="218" relname="span">ら抜き 言葉 は 合理的 な 言語 変化 で ある ” と いう こと に なろう 。</segment>
+		<segment id="84" parent="223" relname="same-unit">ら抜き 言葉 が さらに 拡大 し た 「 誤用 」 と し て 、</segment>
+		<segment id="85" parent="86" relname="elaboration-attribute">可能 動詞 に 「 れる 」 が 接続 し た</segment>
+		<segment id="86" parent="221" relname="span">「 行け れる ・ 飛べ れる 」 など の よう な 例 が ある が 、</segment>
+		<segment id="87" parent="222" relname="span">これ を 「 れ 足す 言葉 」 と いう こと が ある 。</segment>
+		<segment id="88" parent="223" relname="explanation-evidence">-LSB- ３ -RSB-</segment>
+		<segment id="89" parent="226" relname="same-unit">れ 足す 言葉 」 に つい て 、</segment>
+		<segment id="90" parent="225" relname="span">真田</segment>
+		<segment id="91" parent="90" relname="attribution-positive">（ 2000 ）</segment>
+		<segment id="92" parent="226" relname="same-unit">は 、</segment>
+		<segment id="93" parent="94" relname="causal-cause">ラ行 五 段 動詞 の 可能 動詞 形 「 切れる ・ 走れる 」 や 一 段 動詞 の 可能 動詞 形 「 見れる 」 に は すでに 「 れる 」 が 入っ て いる の で</segment>
+		<segment id="94" parent="227" relname="span">新た な 「 れる 」 の 挿入 に 歯止め を かけ て いる 、</segment>
+		<segment id="95" parent="227" relname="attribution-positive">と 述べ て いる 。</segment>
+		<segment id="96" parent="232" relname="same-unit">しかし 、 本稿 で 取り上げる 〈 れ れる ・ ｅ れる 〉 形式 は 、</segment>
+		<segment id="97" parent="231" relname="joint-list">「 思わ れ れる ・ 見れ れる 」 など の よう な 例 で あり 、</segment>
+		<segment id="98" parent="99" relname="adversative-antithesis">その 形態 から 見 て 「 れ 足す 言葉 」 の 定義 の 範囲 内 に 収まる もの で は なく 、</segment>
+		<segment id="99" parent="229" relname="span">敢えて 通称 を つけれ ば 、</segment>
+		<segment id="100" parent="230" relname="span">〈 れ れる 言葉 〉 と 言う べき 形態 変化 の 様相 を 呈し て いる 。</segment>
+		<segment id="101" parent="232" relname="explanation-evidence">-LSB- ４ -RSB-</segment>
+		<segment id="102" parent="238" relname="same-unit">さて 、 近年 に なっ て 、</segment>
+		<segment id="103" parent="104" relname="elaboration-attribute">（ 1 ） ～ （ 4 ） に 挙げる よう な 、 ら抜き 言葉 の 変種 と み られる</segment>
+		<segment id="104" parent="237" relname="span">〈 れ れる ・ ｅ れる 〉 など を 使用 する 文 に 、</segment>
+		<segment id="105" parent="106" relname="adversative-antithesis">可能 の 意味 で は なく 、</segment>
+		<segment id="106" parent="236" relname="span">受身 の 意味 を 表わす 例 が インターネット 上 で 見受け られる よう に なっ た 。</segment>
+		<segment id="107" parent="239" relname="span">例文 末 の （ ） 内 に 検索 方法 ・ インターネット 上 の 出典 ・ 年月日 を 示す 。</segment>
+		<segment id="108" parent="107" relname="elaboration-additional">用例 文中 の ／ は 改行 箇所 で ある 。</segment>
+		<segment id="109" parent="240" relname="span">（ 1 ） 告白 しよう って いつも 思っ てる の です が … ／ 振れ れる の も いや だ し … 恥ずかしい し</segment>
+		<segment id="110" parent="109" relname="attribution-positive">（ グーグル ・ Yahoo! 知恵袋 ・ 2011 . 8 . 26 ）</segment>
+		<segment id="111" parent="241" relname="span">（ 2 ） いじめ の 仲間 に 入ら ない と いじめれ れる 子供たち</segment>
+		<segment id="112" parent="111" relname="attribution-positive">（ グーグル ・ 松本 祐 の ブログ ・ 2007 . 3 . 30 ）</segment>
+		<segment id="113" parent="242" relname="joint-other">（ 3 ） 現代 社会 で 突然 得たい の 知れ ない もの に 家 と いう パーソナル な 敷居 を またが れ たら 拒否 する の が 通常 で ある 。</segment>
+		<segment id="114" parent="242" relname="joint-other">よく 考え て 欲しい 。</segment>
+		<segment id="115" parent="242" relname="joint-other">しかも 天理教 人 は そこ に なん の 疑問 も 感じ ない 。</segment>
+		<segment id="116" parent="242" relname="joint-other">むしろ 、 ことわれ 続け て も 行う こと に 美徳 を 見出す ほど で ある 。</segment>
+		<segment id="117" parent="242" relname="attribution-positive">（ グーグル ・ 天理教 社会学 研究所 ・ 神名 流し に つい て ・ 2007 . 9 . 11 ）</segment>
+		<segment id="118" parent="119" relname="mode-manner">（ 4 ） また 、 嫌 な 思い を さ せれ れる の か と 、</segment>
+		<segment id="119" parent="244" relname="span">予感 どうり カルビ 焼肉 御 膳 を 注文 、 …</segment>
+		<segment id="120" parent="244" relname="attribution-positive">（ グーグル ・ ガスト 訪問 、 神戸 FXP 店 ・ 2006 . 9 . 5 ）</segment>
+		<segment id="121" parent="251" relname="same-unit">インターネット 上 で の 書き込み の 扱い は 、</segment>
+		<segment id="122" parent="249" relname="adversative-concession">ネット 上 の なりすまし や 、 キャラクター の 演出 など に よる 影響 を 考慮 し なけれ ば なら ない が 、</segment>
+		<segment id="123" parent="124" relname="elaboration-attribute">日本語 文 を 入力 する</segment>
+		<segment id="124" parent="249" relname="span">人物 の 通常 の 話しことば や 話しことば に 対する 意識 が かなり の 程度 反映 さ れ て いる もの と 考え られる 。</segment>
+		<segment id="125" parent="251" relname="explanation-evidence">-LSB- ５ -RSB-</segment>
+		<segment id="126" parent="127" relname="elaboration-attribute">インターネット 上 の 書き込み に み られる</segment>
+		<segment id="127" parent="253" relname="span">「 誤用 表現 」 が キーボード 操作 上 の 誤入力 で ある 可能性 は ある が 、</segment>
+		<segment id="128" parent="254" relname="contingency-condition">同種 の 例 が 異なる サイト や 、 複数 の 種類 の コーパス など で 一定 数 を 確認 する こと が できれ ば 、</segment>
+		<segment id="129" parent="254" relname="joint-list">この 現象 が 単なる 誤入力 で ある こと の 蓋然性 は 下がり 、</segment>
+		<segment id="130" parent="254" relname="joint-list">現代 日本語 の 共通語 使用 に おい て 発生 し て いる 現象 で ある と 考え られる 。</segment>
+		<segment id="131" parent="261" relname="same-unit">本稿 は 、</segment>
+		<segment id="132" parent="259" relname="joint-list">〈 れ れる ・ ｅ れる 〉 など の 表現 形式 を 〈 れ れる 言葉 〉 と 総称 し て 、</segment>
+		<segment id="133" parent="259" relname="joint-list">ら抜き 言葉 の 使用 拡大 に よっ て 発生 し た 言語 変種 の ひと つ と し て 捉え 、</segment>
+		<segment id="134" parent="259" relname="joint-list">可能 動詞 ・ ら抜き 言葉 ・ 〈 れ れる 言葉 〉 など の 使用 状況 を インターネット 上 の 検索 サイト を 利用 し て 明らか に し 、</segment>
+		<segment id="135" parent="258" relname="same-unit">従来 、</segment>
+		<segment id="136" parent="137" relname="elaboration-attribute">可能 の 意味 のみ を 表わす もの と さ れ て き た</segment>
+		<segment id="137" parent="257" relname="span">可能 動詞 と ら抜き 言葉 が 〈 れ れる 言葉 〉 など に よっ て 意味 用法 を 可能 以外 に 拡大 さ せ た 要因 に つい て 考察 する こと</segment>
+		<segment id="138" parent="258" relname="same-unit">を 目的 と する 。</segment>
+		<segment id="139" parent="264" relname="purpose-goal">この 問題 を できるだけ 広汎 に 捉える ため に 、</segment>
+		<segment id="140" parent="263" relname="mode-means">本稿 で 扱う 「 受身 ・ 可能 」 は いずれ も 広義 で の 意味 用法 と し 、</segment>
+		<segment id="141" parent="262" relname="span">意味 用法 の さらに 詳細 な 用法 の 分類</segment>
+		<segment id="142" parent="141" relname="elaboration-additional">（ 直接 受身 ・ 間接 受身 、 能力 可能 ・ 状況 可能 な ど ）</segment>
+		<segment id="143" parent="263" relname="same-unit">に よる 分析 に は 踏み込ま ない 。</segment>
+		<segment id="144" parent="271" relname="same-unit">調査 に 当たっ て は 、</segment>
+		<segment id="145" parent="266" relname="span">『 現代 日本語 書き言葉 均衡 コーパス 中納言 （ BCCWJ - NT ） 』</segment>
+		<segment id="146" parent="145" relname="explanation-evidence">-LSB- ６ -RSB-</segment>
+		<segment id="147" parent="266" relname="elaboration-additional">（ 以下 、 『 均衡 コーパス 』 ） を 主な 資料 と し 、</segment>
+		<segment id="148" parent="269" relname="same-unit">これ に</segment>
+		<segment id="149" parent="150" relname="mode-means">グーグル に よっ て 検索 さ れる 用例 を 加え て</segment>
+		<segment id="150" parent="268" relname="span">分析 の 対象 と し た 。</segment>
+		<segment id="151" parent="272" relname="span">また 、 補足 資料 と し て 『 国会 会議録 検索 システム 』</segment>
+		<segment id="152" parent="151" relname="attribution-positive">（ ７ ）</segment>
+		<segment id="153" parent="272" relname="elaboration-additional">（ 以下 、 『 国会 会議録 』 ）</segment>
+		<segment id="154" parent="274" relname="same-unit">を 使用 し た 。</segment>
+		<group id="155" type="span" parent="156" relname="span"/>
+		<group id="156" type="span" parent="281" relname="organization-heading"/>
+		<group id="157" type="span" parent="10" relname="elaboration-attribute"/>
+		<group id="158" type="span" parent="159" relname="same-unit"/>
+		<group id="159" type="multinuc" parent="160" relname="span"/>
+		<group id="160" type="span" parent="178" relname="adversative-contrast"/>
+		<group id="161" type="span" parent="178" relname="adversative-contrast"/>
+		<group id="162" type="span" parent="166" relname="joint-list"/>
+		<group id="163" type="span" parent="165" relname="same-unit"/>
+		<group id="164" type="span" parent="165" relname="same-unit"/>
+		<group id="165" type="multinuc" parent="166" relname="joint-list"/>
+		<group id="166" type="multinuc" parent="167" relname="same-unit"/>
+		<group id="167" type="multinuc" parent="178" relname="elaboration-additional"/>
+		<group id="168" type="span" parent="25" relname="elaboration-attribute"/>
+		<group id="169" type="span" parent="170" relname="same-unit"/>
+		<group id="170" type="multinuc" parent="171" relname="span"/>
+		<group id="171" type="span" parent="176" relname="causal-cause"/>
+		<group id="172" type="span" parent="30" relname="elaboration-attribute"/>
+		<group id="173" type="span" parent="31" relname="contingency-condition"/>
+		<group id="174" type="span" parent="175" relname="same-unit"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="176" type="span" parent="177" relname="span"/>
+		<group id="177" type="span" parent="181" relname="context-background"/>
+		<group id="178" type="multinuc" parent="179" relname="span"/>
+		<group id="179" type="span" parent="276" relname="joint-other"/>
+		<group id="180" type="multinuc" parent="181" relname="same-unit"/>
+		<group id="181" type="multinuc" parent="182" relname="span"/>
+		<group id="182" type="span" parent="276" relname="joint-other"/>
+		<group id="183" type="span" parent="39" relname="contingency-condition"/>
+		<group id="184" type="span" parent="213" relname="organization-preparation"/>
+		<group id="185" type="span" parent="213" relname="joint-list"/>
+		<group id="186" type="multinuc" parent="187" relname="span"/>
+		<group id="187" type="span" parent="213" relname="joint-list"/>
+		<group id="188" type="span" parent="47" relname="elaboration-additional"/>
+		<group id="189" type="span" parent="190" relname="same-unit"/>
+		<group id="190" type="multinuc" parent="191" relname="joint-list"/>
+		<group id="191" type="multinuc" parent="192" relname="span"/>
+		<group id="192" type="span" parent="213" relname="joint-list"/>
+		<group id="193" type="span" parent="194" relname="span"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="195" type="span" parent="213" relname="joint-list"/>
+		<group id="196" type="span" parent="197" relname="span"/>
+		<group id="197" type="span" parent="213" relname="joint-list"/>
+		<group id="198" type="multinuc" parent="61" relname="elaboration-attribute"/>
+		<group id="199" type="span" parent="200" relname="span"/>
+		<group id="200" type="span" parent="213" relname="joint-list"/>
+		<group id="201" type="span" parent="202" relname="span"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="203" type="span" parent="213" relname="joint-list"/>
+		<group id="204" type="span" parent="205" relname="joint-list"/>
+		<group id="205" type="multinuc" parent="206" relname="span"/>
+		<group id="206" type="span" parent="213" relname="joint-list"/>
+		<group id="207" type="span" parent="208" relname="span"/>
+		<group id="208" type="span" parent="213" relname="joint-list"/>
+		<group id="209" type="multinuc" parent="210" relname="span"/>
+		<group id="210" type="span" parent="77" relname="elaboration-attribute"/>
+		<group id="211" type="span" parent="78" relname="elaboration-attribute"/>
+		<group id="212" type="span" parent="216" relname="joint-list"/>
+		<group id="213" type="multinuc" parent="214" relname="span"/>
+		<group id="214" type="span" parent="36" relname="explanation-evidence"/>
+		<group id="215" type="span" parent="216" relname="joint-list"/>
+		<group id="216" type="multinuc" parent="219" relname="context-background"/>
+		<group id="217" type="multinuc" parent="83" relname="causal-cause"/>
+		<group id="218" type="span" parent="219" relname="span"/>
+		<group id="219" type="span" parent="220" relname="span"/>
+		<group id="220" type="span" parent="276" relname="joint-other"/>
+		<group id="221" type="span" parent="87" relname="adversative-concession"/>
+		<group id="222" type="span" parent="223" relname="same-unit"/>
+		<group id="223" type="multinuc" parent="224" relname="span"/>
+		<group id="224" type="span" parent="235" relname="span"/>
+		<group id="225" type="span" parent="226" relname="same-unit"/>
+		<group id="226" type="multinuc" parent="234" relname="adversative-contrast"/>
+		<group id="227" type="span" parent="228" relname="span"/>
+		<group id="228" type="span" parent="226" relname="same-unit"/>
+		<group id="229" type="span" parent="100" relname="contingency-condition"/>
+		<group id="230" type="span" parent="231" relname="joint-list"/>
+		<group id="231" type="multinuc" parent="232" relname="same-unit"/>
+		<group id="232" type="multinuc" parent="233" relname="span"/>
+		<group id="233" type="span" parent="234" relname="adversative-contrast"/>
+		<group id="234" type="multinuc" parent="224" relname="elaboration-additional"/>
+		<group id="235" type="span" parent="276" relname="joint-other"/>
+		<group id="236" type="span" parent="238" relname="same-unit"/>
+		<group id="237" type="span" parent="238" relname="same-unit"/>
+		<group id="238" type="multinuc" parent="248" relname="span"/>
+		<group id="239" type="span" parent="246" relname="organization-preparation"/>
+		<group id="240" type="span" parent="246" relname="joint-list"/>
+		<group id="241" type="span" parent="246" relname="joint-list"/>
+		<group id="242" type="multinuc" parent="243" relname="span"/>
+		<group id="243" type="span" parent="246" relname="joint-list"/>
+		<group id="244" type="span" parent="245" relname="span"/>
+		<group id="245" type="span" parent="246" relname="joint-list"/>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="247" type="span" parent="238" relname="explanation-evidence"/>
+		<group id="248" type="span" parent="276" relname="joint-other"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="251" relname="same-unit"/>
+		<group id="251" type="multinuc" parent="252" relname="span"/>
+		<group id="252" type="span" parent="277" relname="joint-list"/>
+		<group id="253" type="span" parent="255" relname="adversative-concession"/>
+		<group id="254" type="multinuc" parent="255" relname="span"/>
+		<group id="255" type="span" parent="256" relname="span"/>
+		<group id="256" type="span" parent="277" relname="joint-list"/>
+		<group id="257" type="span" parent="258" relname="same-unit"/>
+		<group id="258" type="multinuc" parent="260" relname="span"/>
+		<group id="259" type="multinuc" parent="258" relname="mode-means"/>
+		<group id="260" type="span" parent="261" relname="same-unit"/>
+		<group id="261" type="multinuc" parent="278" relname="span"/>
+		<group id="262" type="span" parent="263" relname="same-unit"/>
+		<group id="263" type="multinuc" parent="264" relname="span"/>
+		<group id="264" type="span" parent="265" relname="span"/>
+		<group id="265" type="span" parent="261" relname="elaboration-additional"/>
+		<group id="266" type="span" parent="267" relname="span"/>
+		<group id="267" type="span" parent="269" relname="mode-means"/>
+		<group id="268" type="span" parent="269" relname="same-unit"/>
+		<group id="269" type="multinuc" parent="270" relname="span"/>
+		<group id="270" type="span" parent="271" relname="same-unit"/>
+		<group id="271" type="multinuc" parent="275" relname="joint-list"/>
+		<group id="272" type="span" parent="273" relname="span"/>
+		<group id="273" type="span" parent="274" relname="same-unit"/>
+		<group id="274" type="multinuc" parent="275" relname="joint-list"/>
+		<group id="275" type="multinuc" parent="276" relname="joint-other"/>
+		<group id="276" type="multinuc" parent="279" relname="span"/>
+		<group id="277" type="multinuc" parent="276" relname="joint-other"/>
+		<group id="278" type="span" parent="276" relname="joint-other"/>
+		<group id="279" type="span" parent="280" relname="span"/>
+		<group id="280" type="span" parent="281" relname="span"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" />
+	</body>
+</rst>

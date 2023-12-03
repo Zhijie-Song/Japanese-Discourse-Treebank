@@ -1,0 +1,155 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="105" relname="organization-heading">岸田 首相 「 心 から 哀悼 の 誠 ささげる 」 、 細田 博之 氏 死去 で</segment>
+		<segment id="2" parent="107" relname="span">2023 年 11 月 10 日 13 : 39</segment>
+		<segment id="3" parent="2" relname="elaboration-additional">( 2023 年 11 月 10 日 17 : 56 更新 )</segment>
+		<segment id="4" parent="67" relname="same-unit">岸田 文雄 首相 は</segment>
+		<segment id="5" parent="65" relname="context-circumstance">10 日 、 前 衆院 議長 の 細田 博之 氏 が 死去 し た こと に つい て</segment>
+		<segment id="6" parent="65" relname="span">「 心 から 哀悼 の 誠 を ささげ たい 」</segment>
+		<segment id="7" parent="6" relname="attribution-positive">と 述べ た 。</segment>
+		<segment id="8" parent="9" relname="context-background">細田 氏 が 官房長官 や 自民党 幹事長 など 要職 を 務め た の を 踏まえ</segment>
+		<segment id="9" parent="69" relname="span">「 今日 まで の ご 努力 に 心 から 敬意 を 表し たい 」</segment>
+		<segment id="10" parent="69" relname="attribution-positive">と 語っ た 。</segment>
+		<segment id="11" parent="70" relname="span">細田 氏 と 同じ 中国 地方 の 出身 で ある 点 や 派閥 の トップ と し て 意見 交換 し た</segment>
+		<segment id="12" parent="11" relname="attribution-positive">と 発言 し た 。</segment>
+		<segment id="13" parent="71" relname="joint-list">「 様々 な ご 縁 で 親しく し て いただき 、</segment>
+		<segment id="14" parent="71" relname="joint-list">先輩 と し て アドバイス を いただい た こと を 思い返し て いる 」</segment>
+		<segment id="15" parent="71" relname="attribution-positive">と 話し た 。</segment>
+		<segment id="16" parent="73" relname="joint-list">首相 官邸 で 記者団 の 質問 に 答え た 。</segment>
+		<segment id="17" parent="77" relname="same-unit">額賀 福志郎 衆院 議長 は</segment>
+		<segment id="18" parent="74" relname="joint-list">「 与野党 を 問わ ず 数多く の 議員 から 信頼 さ れ 、</segment>
+		<segment id="19" parent="74" relname="joint-list">尊敬 さ れる</segment>
+		<segment id="20" parent="75" relname="span">政治家 だっ た 」</segment>
+		<segment id="21" parent="75" relname="attribution-positive">と の 談話 を 発表 し た 。</segment>
+		<segment id="22" parent="85" relname="span">与野党 から も 反応 が 相 次い だ 。</segment>
+		<segment id="23" parent="79" relname="same-unit">自民党 の 茂木 敏充 幹事長 は</segment>
+		<segment id="24" parent="78" relname="span">「 悲しみ で いっぱい だ 」</segment>
+		<segment id="25" parent="24" relname="attribution-positive">と 表現 し た 。</segment>
+		<segment id="26" parent="80" relname="span">「 議長 を 勇退 さ れ て 健康 回復 に お 努め だ と 聞い て い た 」</segment>
+		<segment id="27" parent="26" relname="attribution-positive">と 語っ た 。</segment>
+		<segment id="28" parent="108" relname="elaboration-attribute">細田 氏 が かつて 会長 を 務め た</segment>
+		<segment id="29" parent="109" relname="span">清和 政策 研究会</segment>
+		<segment id="30" parent="29" relname="elaboration-additional">（ 現 安倍 派 ）</segment>
+		<segment id="31" parent="108" relname="same-unit">の 塩谷 立 座長 は</segment>
+		<segment id="32" parent="82" relname="span">「 頼り に し て い た 存在 で 残念 で なら ない 」</segment>
+		<segment id="33" parent="32" relname="attribution-positive">と 述べ た 。</segment>
+		<segment id="34" parent="87" relname="same-unit">公明党 の 山口 那津男 代表 は</segment>
+		<segment id="35" parent="86" relname="span">「 自公 連立 政権 を より 強固 な もの に する 過程 で 大きな 役割 を 果たし て もらっ た 」</segment>
+		<segment id="36" parent="35" relname="attribution-positive">と 感謝 し た 。</segment>
+		<segment id="37" parent="89" relname="same-unit">立憲民主党 の 安住 淳 国会 対策 委員長 は</segment>
+		<segment id="38" parent="88" relname="span">細田 氏 が 旧 通商 産業省 の 職員 だっ た とき から 接点 が あっ た</segment>
+		<segment id="39" parent="38" relname="attribution-positive">と 明かし た 。</segment>
+		<segment id="40" parent="90" relname="joint-list">「 ざっくばらん な 人柄 で 楽しい 人 で 、</segment>
+		<segment id="41" parent="90" relname="joint-list">今時 使わ ない が 『 ネアカ 』 な 人 だっ た 」</segment>
+		<segment id="42" parent="90" relname="attribution-positive">と 振り返っ た 。</segment>
+		<segment id="43" parent="94" relname="same-unit">日本維新の会 の 馬場 伸幸 代表 は 書面 の コメント で</segment>
+		<segment id="44" parent="111" relname="span">「 選挙 制度 改革 や カジノ を 含む 統合型リゾート</segment>
+		<segment id="45" parent="44" relname="elaboration-attribute">（ IR ）</segment>
+		<segment id="46" parent="110" relname="same-unit">の 法制 化 など に 尽力 し た 功績 に 感謝 と 敬意 を 表する 」</segment>
+		<segment id="47" parent="110" relname="attribution-positive">と 記し た 。</segment>
+		<segment id="48" parent="113" relname="span">細田 氏 が 追及 を 受け て き た 世界 平和 統一 家庭 連合</segment>
+		<segment id="49" parent="48" relname="elaboration-additional">（ 旧 統一 教会 ）</segment>
+		<segment id="50" parent="112" relname="same-unit">と の 接点 など の 問題 に 関する 言及 も 出 た 。</segment>
+		<segment id="51" parent="96" relname="same-unit">塩谷 氏 は</segment>
+		<segment id="52" parent="114" relname="same-unit">「 基本的 に は</segment>
+		<segment id="53" parent="54" relname="elaboration-additional">（ 生前 に ）</segment>
+		<segment id="54" parent="115" relname="span">記者 会見 を し た こと が 説明責任 に なる と 思う 」</segment>
+		<segment id="55" parent="114" relname="attribution-positive">と 触れ た 。</segment>
+		<segment id="56" parent="98" relname="same-unit">安住 氏 は</segment>
+		<segment id="57" parent="97" relname="span">「 立法府 の 最高 責任者 と し て 説明責任 は ぜひ 果たして もらい たかっ た 」</segment>
+		<segment id="58" parent="57" relname="attribution-positive">と 指摘 し た 。</segment>
+		<segment id="59" parent="101" relname="same-unit">国民民主党 の 玉木 雄一郎 代表 は</segment>
+		<segment id="60" parent="99" relname="joint-list">「 十分 な 説明責任 を 果たさ れ て い ない と いう 指摘 が あり 、</segment>
+		<segment id="61" parent="99" relname="joint-list">すっきり し ない 形 で 終わっ て しまっ た 」</segment>
+		<segment id="62" parent="99" relname="attribution-positive">と 話し た 。</segment>
+		<segment id="63" parent="102" relname="joint-sequence">細田 氏 は 2021 年 11 月 に 衆院 議長 に 就き 、</segment>
+		<segment id="64" parent="102" relname="joint-sequence">体調不良 を 理由 に 23 年 10 月 に 辞任 し た 。</segment>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="66" type="span" parent="67" relname="same-unit"/>
+		<group id="67" type="multinuc" parent="73" relname="joint-list"/>
+		<group id="68" type="span" parent="73" relname="joint-list"/>
+		<group id="69" type="span" parent="68" relname="span"/>
+		<group id="70" type="span" parent="73" relname="joint-list"/>
+		<group id="71" type="multinuc" parent="72" relname="span"/>
+		<group id="72" type="span" parent="73" relname="joint-list"/>
+		<group id="73" type="multinuc" parent="103" relname="joint-list"/>
+		<group id="74" type="multinuc" parent="20" relname="elaboration-attribute"/>
+		<group id="75" type="span" parent="76" relname="span"/>
+		<group id="76" type="span" parent="77" relname="same-unit"/>
+		<group id="77" type="multinuc" parent="103" relname="joint-list"/>
+		<group id="78" type="span" parent="79" relname="same-unit"/>
+		<group id="79" type="multinuc" parent="84" relname="joint-list"/>
+		<group id="80" type="span" parent="84" relname="joint-list"/>
+		<group id="81" type="span" parent="83" relname="same-unit"/>
+		<group id="82" type="span" parent="83" relname="same-unit"/>
+		<group id="83" type="multinuc" parent="103" relname="joint-list"/>
+		<group id="84" type="multinuc" parent="22" relname="explanation-evidence"/>
+		<group id="85" type="span" parent="103" relname="joint-list"/>
+		<group id="86" type="span" parent="87" relname="same-unit"/>
+		<group id="87" type="multinuc" parent="103" relname="joint-list"/>
+		<group id="88" type="span" parent="89" relname="same-unit"/>
+		<group id="89" type="multinuc" parent="92" relname="joint-list"/>
+		<group id="90" type="multinuc" parent="91" relname="span"/>
+		<group id="91" type="span" parent="92" relname="joint-list"/>
+		<group id="92" type="multinuc" parent="103" relname="joint-list"/>
+		<group id="93" type="span" parent="94" relname="same-unit"/>
+		<group id="94" type="multinuc" parent="103" relname="joint-list"/>
+		<group id="95" type="span" parent="96" relname="same-unit"/>
+		<group id="96" type="multinuc" parent="103" relname="joint-list"/>
+		<group id="97" type="span" parent="98" relname="same-unit"/>
+		<group id="98" type="multinuc" parent="103" relname="joint-list"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="100" type="span" parent="101" relname="same-unit"/>
+		<group id="101" type="multinuc" parent="103" relname="joint-list"/>
+		<group id="102" type="multinuc" parent="103" relname="context-background"/>
+		<group id="103" type="multinuc" parent="104" relname="span"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="105" type="span" parent="106" relname="span"/>
+		<group id="106" type="span" />
+		<group id="107" type="span" parent="104" relname="context-circumstance"/>
+		<group id="108" type="multinuc" parent="81" relname="span"/>
+		<group id="109" type="span" parent="108" relname="same-unit"/>
+		<group id="110" type="multinuc" parent="93" relname="span"/>
+		<group id="111" type="span" parent="110" relname="same-unit"/>
+		<group id="112" type="multinuc" parent="103" relname="joint-list"/>
+		<group id="113" type="span" parent="112" relname="same-unit"/>
+		<group id="114" type="multinuc" parent="95" relname="span"/>
+		<group id="115" type="span" parent="114" relname="same-unit"/>
+	</body>
+</rst>

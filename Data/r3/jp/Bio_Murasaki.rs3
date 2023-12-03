@@ -1,0 +1,272 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="204" relname="organization-heading">略伝</segment>
+		<segment id="2" parent="127" relname="joint-list">藤原 北家 良 門流 の 越後 守 ・ 藤原 為時 の 娘 で 、</segment>
+		<segment id="3" parent="127" relname="joint-list">母 は 摂津 守 ・ 藤原 為信 女 で ある が 、</segment>
+		<segment id="4" parent="128" relname="span">幼少期 に 母 を 亡くし た と さ れる 。</segment>
+		<segment id="5" parent="130" relname="span">同母 の 兄弟 に 藤原 惟 規 が いる</segment>
+		<segment id="6" parent="129" relname="joint-list">（ 同人 の 生年 も 不明 で あり 、</segment>
+		<segment id="7" parent="129" relname="joint-list">式部 と どちら が 年長 か に つい て は 両説 が 存在 する</segment>
+		<segment id="8" parent="129" relname="explanation-evidence">-LSB- 8 -RSB- ）</segment>
+		<segment id="9" parent="131" relname="same-unit">ほか 、</segment>
+		<segment id="10" parent="132" relname="span">姉 が い た こと も わかっ て いる 。</segment>
+		<segment id="11" parent="134" relname="context-background">三条 右 大臣 ・ 藤原 定方 、 堤中 納言 ・ 藤原 兼輔 は とも に 父方 の 曽 祖父 で 、</segment>
+		<segment id="12" parent="134" relname="same-unit">一族 に は</segment>
+		<segment id="13" parent="14" relname="elaboration-attribute">文辞 を 以っ て 聞こえ た</segment>
+		<segment id="14" parent="133" relname="span">人 が 多い 。</segment>
+		<segment id="15" parent="138" relname="same-unit">幼少 の 頃 より</segment>
+		<segment id="16" parent="17" relname="mode-manner">当時 の 女性 に 求め られる 以上 の 才能 で</segment>
+		<segment id="17" parent="136" relname="span">漢文 を 読み こなし た など 、</segment>
+		<segment id="18" parent="137" relname="span">才女 と し て の 逸話 が 多い 。</segment>
+		<segment id="19" parent="20" relname="elaboration-attribute">54 帖 に わたる</segment>
+		<segment id="20" parent="139" relname="span">大作 『 源氏 物語 』 、 宮仕え 中 の 日記 『 紫式部 日記 』 を 著し た と いう の が 通説 で 、</segment>
+		<segment id="21" parent="140" relname="span">和歌集 『 紫式部 集 』 が 伝わっ て いる 。</segment>
+		<segment id="22" parent="143" relname="same-unit">父 ・ 為時 は 30 代 に 東宮 の 読書 役 を 始め と し て</segment>
+		<segment id="23" parent="24" relname="context-circumstance">東宮 が 花山 天皇 に なる と</segment>
+		<segment id="24" parent="141" relname="span">蔵人 、 式部 大 丞 と 出世 し た が 、</segment>
+		<segment id="25" parent="26" relname="context-circumstance">花山 天皇 が 出家 する と</segment>
+		<segment id="26" parent="145" relname="span">散 位 と なる</segment>
+		<segment id="27" parent="145" relname="elaboration-additional">（ 位 禄 は ある ） 。</segment>
+		<segment id="28" parent="147" relname="same-unit">10 年 後 、</segment>
+		<segment id="29" parent="30" relname="causal-cause">一条 天皇 に 詩 を 奉じ た 結果 、</segment>
+		<segment id="30" parent="146" relname="span">越前 国 の 受領 と なる 。</segment>
+		<segment id="31" parent="198" relname="joint-sequence">紫式部 は 娘 時代 の 約 2 年 を 父 の 任国 で 過ごす 。</segment>
+		<segment id="32" parent="215" relname="span">長徳 4 年</segment>
+		<segment id="33" parent="32" relname="elaboration-additional">（ 998 年 ）</segment>
+		<segment id="34" parent="214" relname="same-unit">頃 、 親子 ほど も 年 の 差 が あり 、</segment>
+		<segment id="35" parent="148" relname="joint-list">又従兄 妹 で も ある</segment>
+		<segment id="36" parent="148" relname="explanation-evidence">-LSB- 注釈 6 -RSB-</segment>
+		<segment id="37" parent="149" relname="span">山城 守 ・ 藤原 宣孝 と 結婚 し て</segment>
+		<segment id="38" parent="216" relname="span">長保 元年</segment>
+		<segment id="39" parent="38" relname="elaboration-additional">（ 999 年 ）</segment>
+		<segment id="40" parent="218" relname="span">に 一女 ・ 藤原 賢子</segment>
+		<segment id="41" parent="40" relname="elaboration-additional">（ 大弐 三 位 ）</segment>
+		<segment id="42" parent="217" relname="same-unit">を 儲け た 。</segment>
+		<segment id="43" parent="220" relname="context-background">この 結婚 生活 は 長く 続か ず 、</segment>
+		<segment id="44" parent="219" relname="span">間 も なく 長保 3 年 4 月 15 日</segment>
+		<segment id="45" parent="44" relname="elaboration-additional">（ 1001 年 5 月 10 日 ）</segment>
+		<segment id="46" parent="220" relname="same-unit">に 宣孝 と 死別 し た 。</segment>
+		<segment id="47" parent="222" relname="span">寛弘 2 年 12 月 29 日</segment>
+		<segment id="48" parent="47" relname="elaboration-additional">（ 1006 年 1 月 31 日 ） 、</segment>
+		<segment id="49" parent="221" relname="span">もしくは 寛弘 3 年 の 同日</segment>
+		<segment id="50" parent="49" relname="elaboration-additional">（ 1007 年 1 月 20 日 ）</segment>
+		<segment id="51" parent="156" relname="same-unit">より 、</segment>
+		<segment id="52" parent="152" relname="span">一条 天皇 の 中宮 ・ 彰子</segment>
+		<segment id="53" parent="52" relname="elaboration-additional">（ 藤原 道長 の 長女 、 のち 院号 宣下 し て 上東 門院 ）</segment>
+		<segment id="54" parent="154" relname="same-unit">に 女房 兼</segment>
+		<segment id="55" parent="56" relname="elaboration-additional">（ 現代 で いえ ば ）</segment>
+		<segment id="56" parent="153" relname="span">家庭 教師 役 と し て 仕え 、</segment>
+		<segment id="57" parent="223" relname="span">少なく とも 寛弘 8 年</segment>
+		<segment id="58" parent="57" relname="elaboration-additional">（ 1012 年 ）</segment>
+		<segment id="59" parent="224" relname="same-unit">頃 まで 奉仕 し 続け た よう で ある 。</segment>
+		<segment id="60" parent="225" relname="span">なお これ に 先立ち 、 永延 元年</segment>
+		<segment id="61" parent="60" relname="elaboration-additional">（ 987 年 ）</segment>
+		<segment id="62" parent="226" relname="same-unit">の 藤原 道長 と 源 倫子 の 結婚 の 際 に 、 倫子 付き の 女房 と し て 出仕 し た</segment>
+		<segment id="63" parent="159" relname="span">可能性 が 指摘 さ れ て いる 。</segment>
+		<segment id="64" parent="157" relname="attribution-positive">『 源氏 物語 』 解説書 の 『 河海 抄 』 『 紫明 抄 』 や 歴史書 『 今鏡 』 に は</segment>
+		<segment id="65" parent="66" relname="elaboration-attribute">紫式部 の 経歴 と し て 倫子 付き 女房 で あっ た</segment>
+		<segment id="66" parent="157" relname="span">こと が 記さ れ て いる 。</segment>
+		<segment id="67" parent="68" relname="causal-cause">それ ら は 伝承 の 類 で あり</segment>
+		<segment id="68" parent="160" relname="span">信憑性 に は 乏しい が 、</segment>
+		<segment id="69" parent="161" relname="elaboration-attribute">他 に も 『 紫式部 日記 』 から うかがえる 、</segment>
+		<segment id="70" parent="161" relname="joint-list">新参 の 女房 に 対する もの と は 思え ぬ 道 長 や 倫子 から の 格別 な 信頼 ・ 配慮 が ある こと 、</segment>
+		<segment id="71" parent="161" relname="joint-list">永延 元年 当時 は 為時 が 散 位 で あっ た こと 、</segment>
+		<segment id="72" parent="161" relname="joint-list">倫子 と 紫式部 は いずれ も 曽 祖父 に 藤原 定方 を 持ち 遠縁 に 当たる こと など</segment>
+		<segment id="73" parent="163" relname="same-unit">が 挙げ られる 。</segment>
+		<segment id="74" parent="172" relname="same-unit">また 女房 名 から も 、</segment>
+		<segment id="75" parent="76" relname="elaboration-attribute">為時 が 式部 丞 だっ た</segment>
+		<segment id="76" parent="165" relname="span">時期 は 彰子 へ の 出仕 の 20 年 も 前 で あり 、</segment>
+		<segment id="77" parent="167" relname="causal-cause">さらに その 間 に 越前 国 の 国司 に 任じ られ て いる ため 、</segment>
+		<segment id="78" parent="166" relname="contingency-condition">寛弘 2 年 に 初 出仕 し た の で あれ ば</segment>
+		<segment id="79" parent="80" relname="elaboration-attribute">父 の 任国 「 越前 」 や 亡夫 の 任国 ・ 役職 の 「 山城 」 「 右衛門 権 佐 」 に ちなん だ</segment>
+		<segment id="80" parent="166" relname="span">名 を 名乗る の が 自然 で 、</segment>
+		<segment id="81" parent="82" relname="elaboration-attribute">地位 と し て も それ ら より 劣る</segment>
+		<segment id="82" parent="169" relname="span">「 式部 」 を 女房 名 に 用いる の は 考え がたく 、</segment>
+		<segment id="83" parent="170" relname="span">その こと から も</segment>
+		<segment id="84" parent="174" relname="span">初 出仕 の 時期 は 寛弘 2 年 以前 で ある と いう</segment>
+		<segment id="85" parent="171" relname="span">説 で ある</segment>
+		<segment id="86" parent="171" relname="evaluation-comment">-LSB- 9 -RSB- 。</segment>
+		<segment id="87" parent="88" relname="elaboration-attribute">『 詞花集 』 に 収め られ た</segment>
+		<segment id="88" parent="175" relname="span">伊勢 大輔 の 「 いにしへ の 奈良 の 都 の 八重桜 けふ 九 重 に にほ ひ ぬる か な 」 と いう</segment>
+		<segment id="89" parent="176" relname="span">和歌 は</segment>
+		<segment id="90" parent="91" relname="elaboration-attribute">宮廷 に 献上 さ れ た</segment>
+		<segment id="91" parent="177" relname="span">八重桜 を 受け取り 中宮 に 奉る</segment>
+		<segment id="92" parent="178" relname="span">際 に 詠ん だ もの だ が 、</segment>
+		<segment id="93" parent="182" relname="attribution-positive">『 伊勢 大輔 集 』 に よれ ば</segment>
+		<segment id="94" parent="182" relname="same-unit">この 役目 は</segment>
+		<segment id="95" parent="96" relname="elaboration-attribute">当初 紫式部 の 役目 だっ た</segment>
+		<segment id="96" parent="180" relname="span">もの を 式部 が 新参 の 大輔 に 譲っ た</segment>
+		<segment id="97" parent="181" relname="span">もの だっ た 。</segment>
+		<segment id="98" parent="227" relname="span">藤原 実資 の 日記 『 小 右記 』 長和 2 年 5 月 25 日</segment>
+		<segment id="99" parent="98" relname="elaboration-additional">（ 1014 年 6 月 25 日 ）</segment>
+		<segment id="100" parent="228" relname="same-unit">条 で</segment>
+		<segment id="101" parent="102" relname="elaboration-attribute">「 実資 の 甥 で 養子 で ある</segment>
+		<segment id="102" parent="184" relname="span">藤原 資平 が 実資 の 代理 で 皇太后 彰子 の もと を 訪れ た</segment>
+		<segment id="103" parent="185" relname="span">際 『 越後 守 為時 女 』 なる 女房 が 取り次ぎ 役 を 務め た 」</segment>
+		<segment id="104" parent="189" relname="span">旨 の 記述 が</segment>
+		<segment id="105" parent="106" relname="elaboration-attribute">紫式部 で 残さ れ た</segment>
+		<segment id="106" parent="187" relname="span">最後 の もの と し 、</segment>
+		<segment id="107" parent="229" relname="span">よっ て 三 条 天皇 の 長和 年間</segment>
+		<segment id="108" parent="107" relname="elaboration-additional">（ 1012 年 - 1016 年 ）</segment>
+		<segment id="109" parent="230" relname="same-unit">に 没し た と する の が 昭和 40 年 代 まで の 通説 だっ た が 、</segment>
+		<segment id="110" parent="197" relname="same-unit">現在 で は 、</segment>
+		<segment id="111" parent="231" relname="span">『 小 右記 』 寛仁 3 年 正月 5 日</segment>
+		<segment id="112" parent="111" relname="elaboration-additional">（ 1019 年 2 月 18 日 ）</segment>
+		<segment id="113" parent="232" relname="same-unit">条 で 、</segment>
+		<segment id="114" parent="115" relname="elaboration-attribute">実資 に 応対 し た</segment>
+		<segment id="115" parent="191" relname="span">「 女房 」 を 紫式部 本人 と 認め</segment>
+		<segment id="116" parent="192" relname="explanation-evidence">-LSB- 10 -RSB- 、</segment>
+		<segment id="117" parent="194" relname="same-unit">さらに 、 西 本願 寺本 『 平 兼盛 集 』 巻末 逸文 に 「 おなじ 宮 の 藤 式部 、 … 式部 の 君 亡くなり … 」 と ある 詞書 と 和歌 を 、</segment>
+		<segment id="118" parent="210" relname="span">岡 一男 説</segment>
+		<segment id="119" parent="118" relname="explanation-evidence">-LSB- 11 -RSB-</segment>
+		<segment id="120" parent="211" relname="same-unit">の 『 頼宗 集 』 の 逸文 で は なく 、</segment>
+		<segment id="121" parent="193" relname="span">『 定頼 集 』 の 逸文 と 推定 し 、</segment>
+		<segment id="122" parent="195" relname="joint-list">この 直後 に 死亡 し た と する</segment>
+		<segment id="123" parent="196" relname="span">萩谷 朴 説</segment>
+		<segment id="124" parent="123" relname="explanation-evidence">-LSB- 12 -RSB-</segment>
+		<segment id="125" parent="212" relname="same-unit">、 今井 源衛 説 が 存在 する 。</segment>
+		<segment id="126" parent="204" relname="joint-other">現在 、 日本銀行券 の D 号 券 の 2000 円 札 の 裏 に は 小さな 肖像画 と 『 源氏 物語 絵巻 』 の 一部 を 使用 し て いる 。</segment>
+		<group id="127" type="multinuc" parent="4" relname="adversative-concession"/>
+		<group id="128" type="span" parent="203" relname="joint-list"/>
+		<group id="129" type="multinuc" parent="207" relname="span"/>
+		<group id="130" type="span" parent="131" relname="same-unit"/>
+		<group id="131" type="multinuc" parent="10" relname="context-background"/>
+		<group id="132" type="span" parent="203" relname="joint-list"/>
+		<group id="133" type="span" parent="134" relname="same-unit"/>
+		<group id="134" type="multinuc" parent="135" relname="span"/>
+		<group id="135" type="span" parent="204" relname="joint-other"/>
+		<group id="136" type="span" parent="18" relname="elaboration-attribute"/>
+		<group id="137" type="span" parent="138" relname="same-unit"/>
+		<group id="138" type="multinuc" parent="204" relname="joint-other"/>
+		<group id="139" type="span" parent="21" relname="context-background"/>
+		<group id="140" type="span" parent="204" relname="joint-other"/>
+		<group id="141" type="span" parent="143" relname="same-unit"/>
+		<group id="142" type="span" parent="144" relname="span"/>
+		<group id="143" type="multinuc" parent="142" relname="adversative-concession"/>
+		<group id="144" type="span" parent="198" relname="joint-sequence"/>
+		<group id="145" type="span" parent="142" relname="span"/>
+		<group id="146" type="span" parent="147" relname="same-unit"/>
+		<group id="147" type="multinuc" parent="198" relname="joint-sequence"/>
+		<group id="148" type="multinuc" parent="206" relname="span"/>
+		<group id="149" type="span" parent="217" relname="context-background"/>
+		<group id="150" type="span" parent="198" relname="joint-sequence"/>
+		<group id="151" type="span" parent="198" relname="joint-sequence"/>
+		<group id="152" type="span" parent="154" relname="same-unit"/>
+		<group id="153" type="span" parent="154" relname="same-unit"/>
+		<group id="154" type="multinuc" parent="224" relname="mode-means"/>
+		<group id="155" type="span" parent="156" relname="same-unit"/>
+		<group id="156" type="multinuc" parent="198" relname="joint-sequence"/>
+		<group id="157" type="span" parent="158" relname="span"/>
+		<group id="158" type="span" parent="159" relname="explanation-evidence"/>
+		<group id="159" type="span" parent="199" relname="span"/>
+		<group id="160" type="span" parent="163" relname="adversative-concession"/>
+		<group id="161" type="multinuc" parent="162" relname="span"/>
+		<group id="162" type="span" parent="163" relname="same-unit"/>
+		<group id="163" type="multinuc" parent="164" relname="span"/>
+		<group id="164" type="span" parent="200" relname="joint-list"/>
+		<group id="165" type="span" parent="172" relname="same-unit"/>
+		<group id="166" type="span" parent="167" relname="span"/>
+		<group id="167" type="span" parent="168" relname="span"/>
+		<group id="168" type="span" parent="173" relname="joint-list"/>
+		<group id="169" type="span" parent="83" relname="elaboration-attribute"/>
+		<group id="170" type="span" parent="173" relname="joint-list"/>
+		<group id="171" type="span" parent="208" relname="span"/>
+		<group id="172" type="multinuc" parent="173" relname="joint-list"/>
+		<group id="173" type="multinuc" parent="84" relname="explanation-justify"/>
+		<group id="174" type="span" parent="85" relname="elaboration-attribute"/>
+		<group id="175" type="span" parent="89" relname="elaboration-attribute"/>
+		<group id="176" type="span" parent="179" relname="same-unit"/>
+		<group id="177" type="span" parent="92" relname="elaboration-attribute"/>
+		<group id="178" type="span" parent="179" relname="same-unit"/>
+		<group id="179" type="multinuc" parent="183" relname="adversative-concession"/>
+		<group id="180" type="span" parent="97" relname="elaboration-attribute"/>
+		<group id="181" type="span" parent="182" relname="same-unit"/>
+		<group id="182" type="multinuc" parent="183" relname="span"/>
+		<group id="183" type="span" parent="201" relname="span"/>
+		<group id="184" type="span" parent="103" relname="elaboration-attribute"/>
+		<group id="185" type="span" parent="104" relname="elaboration-attribute"/>
+		<group id="186" type="span" parent="188" relname="same-unit"/>
+		<group id="187" type="span" parent="188" relname="same-unit"/>
+		<group id="188" type="multinuc" parent="230" relname="context-background"/>
+		<group id="189" type="span" parent="186" relname="span"/>
+		<group id="190" type="span" parent="197" relname="adversative-concession"/>
+		<group id="191" type="span" parent="192" relname="span"/>
+		<group id="192" type="span" parent="209" relname="span"/>
+		<group id="193" type="span" parent="194" relname="same-unit"/>
+		<group id="194" type="multinuc" parent="195" relname="joint-list"/>
+		<group id="195" type="multinuc" parent="212" relname="elaboration-attribute"/>
+		<group id="196" type="span" parent="212" relname="same-unit"/>
+		<group id="197" type="multinuc" parent="202" relname="span"/>
+		<group id="198" type="multinuc" parent="204" relname="joint-other"/>
+		<group id="199" type="span" parent="200" relname="joint-list"/>
+		<group id="200" type="multinuc" parent="204" relname="joint-other"/>
+		<group id="201" type="span" parent="204" relname="joint-other"/>
+		<group id="202" type="span" parent="204" relname="joint-other"/>
+		<group id="203" type="multinuc" parent="204" relname="joint-other"/>
+		<group id="204" type="multinuc" parent="205" relname="span"/>
+		<group id="205" type="span" />
+		<group id="206" type="span" parent="37" relname="elaboration-attribute"/>
+		<group id="207" type="span" parent="5" relname="elaboration-attribute"/>
+		<group id="208" type="span" parent="204" relname="joint-other"/>
+		<group id="209" type="span" parent="195" relname="joint-list"/>
+		<group id="210" type="span" parent="211" relname="same-unit"/>
+		<group id="211" type="multinuc" parent="121" relname="adversative-antithesis"/>
+		<group id="212" type="multinuc" parent="213" relname="span"/>
+		<group id="213" type="span" parent="197" relname="same-unit"/>
+		<group id="214" type="multinuc" parent="148" relname="joint-list"/>
+		<group id="215" type="span" parent="214" relname="same-unit"/>
+		<group id="216" type="span" parent="217" relname="same-unit"/>
+		<group id="217" type="multinuc" parent="150" relname="span"/>
+		<group id="218" type="span" parent="217" relname="same-unit"/>
+		<group id="219" type="span" parent="220" relname="same-unit"/>
+		<group id="220" type="multinuc" parent="151" relname="span"/>
+		<group id="221" type="span" parent="156" relname="same-unit"/>
+		<group id="222" type="span" parent="156" relname="same-unit"/>
+		<group id="223" type="span" parent="224" relname="same-unit"/>
+		<group id="224" type="multinuc" parent="155" relname="span"/>
+		<group id="225" type="span" parent="226" relname="same-unit"/>
+		<group id="226" type="multinuc" parent="63" relname="elaboration-attribute"/>
+		<group id="227" type="span" parent="228" relname="same-unit"/>
+		<group id="228" type="multinuc" parent="189" relname="attribution-positive"/>
+		<group id="229" type="span" parent="230" relname="same-unit"/>
+		<group id="230" type="multinuc" parent="190" relname="span"/>
+		<group id="231" type="span" parent="232" relname="same-unit"/>
+		<group id="232" type="multinuc" parent="191" relname="attribution-positive"/>
+	</body>
+</rst>

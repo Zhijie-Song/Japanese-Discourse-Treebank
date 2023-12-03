@@ -1,0 +1,243 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="204" relname="span">ものづくり 、 DX で バージョンアップ する に は ？</segment>
+		<segment id="2" parent="192" relname="span">柿木 厚司 ・ JFEホールディングス 社長</segment>
+		<segment id="3" parent="2" relname="context-circumstance">（ 11 月 6 日 ）</segment>
+		<segment id="4" parent="189" relname="context-circumstance">2023 年 11 月 6 日 2 : 00</segment>
+		<segment id="5" parent="6" relname="context-circumstance">労働力人口 が ますます 減っ て いく なか で 、</segment>
+		<segment id="6" parent="111" relname="span">国際競争力 を どう 高める か</segment>
+		<segment id="7" parent="112" relname="same-unit">が 日本 の 製造業 に 問わ れ て い ます 。</segment>
+		<segment id="8" parent="113" relname="joint-list">生産性 を 向上 し 、</segment>
+		<segment id="9" parent="113" relname="joint-list">より 高度 な 製品 を ミス なく つくっ て いく こと が 重要 に なり ます 。</segment>
+		<segment id="10" parent="194" relname="span">その 際 に 有効 な の が デジタルトランスフォーメーション</segment>
+		<segment id="11" parent="10" relname="elaboration-additional">（ DX ）</segment>
+		<segment id="12" parent="193" relname="same-unit">です 。</segment>
+		<segment id="13" parent="14" relname="context-circumstance">2024 年度 まで の 4 年間 の 第 7 次 中期経営計画 で 、</segment>
+		<segment id="14" parent="116" relname="span">1200億 円 の 予算 を 組ん で DX を 推進 し て い ます 。</segment>
+		<segment id="15" parent="132" relname="span">その 1 つ が 製鉄 の 基幹 設備 で ある 高炉 の 操業 の 自動化 です 。</segment>
+		<segment id="16" parent="17" relname="causal-cause">炉 内 の 反応 は 非常 に 複雑 で</segment>
+		<segment id="17" parent="117" relname="span">熟練 技術者 の 経験 に 頼っ て い た</segment>
+		<segment id="18" parent="118" relname="span">面 が あり ます 。</segment>
+		<segment id="19" parent="119" relname="joint-list">様々 な センサー や カメラ で データ を 集め 、</segment>
+		<segment id="20" parent="119" relname="joint-list">仮想 の 高炉 を デジタル 空間 に つくり 、</segment>
+		<segment id="21" parent="196" relname="span">人工知能</segment>
+		<segment id="22" parent="21" relname="elaboration-attribute">（ AI ）</segment>
+		<segment id="23" parent="195" relname="same-unit">で 解析 し て トラブル を 未然 に 防ぐ</segment>
+		<segment id="24" parent="120" relname="span">試み を 始め まし た 。</segment>
+		<segment id="25" parent="121" relname="joint-list">技術 継承 や 生産性 の 向上 に つながり 、</segment>
+		<segment id="26" parent="121" relname="joint-list">製鉄所 の 他 の 設備 に も 導入 対象 を 広げ て い ます 。</segment>
+		<segment id="27" parent="127" relname="joint-list">エンジニアリング 事業 で は 世界 88 カ所 の 廃棄物 発電 プラント の 操業 データ を 、 横浜市鶴見区 の グローバル リモート センター で リアルタイム に 遠隔 監視 し て い ます 。</segment>
+		<segment id="28" parent="127" relname="joint-list">AI の 活用 で 発電 効率 も 高め られ ます 。</segment>
+		<segment id="29" parent="128" relname="span">鉄鋼 事業 で は 日本IBM と 共同 で 、 生産 設備 の 復旧 支援 システム の 外販 も 始め まし た 。</segment>
+		<segment id="30" parent="31" relname="elaboration-attribute">過去 に 起き た 故障 と 対処方法 に 関する</segment>
+		<segment id="31" parent="124" relname="span">膨大 な データ を AI で 解析 し 、</segment>
+		<segment id="32" parent="125" relname="span">発生 し た トラブル の 原因 を 絞り込み 早期 復旧 に つなげる と いう もの です 。</segment>
+		<segment id="33" parent="34" relname="elaboration-attribute">実際 に 製鉄 の 現場 で 運用 し て き た</segment>
+		<segment id="34" parent="126" relname="span">ノウハウ が 生かさ れ て い ます 。</segment>
+		<segment id="35" parent="36" relname="adversative-concession">DX で 日本 企業 は 後れ を 取っ た と 言わ れ て い ます が 、</segment>
+		<segment id="36" parent="134" relname="span">ものづくり の 伝統 と 蓄積 さ れ た 固有 データ は 日本 の 強み だ と 思っ て い ます 。</segment>
+		<segment id="37" parent="136" relname="same-unit">日本 の 鉄鋼業 は</segment>
+		<segment id="38" parent="39" relname="elaboration-attribute">設備 の 大型 化 や オートメーション 化 で 先行 し て き た</segment>
+		<segment id="39" parent="135" relname="span">歴史 が あり ます 。</segment>
+		<segment id="40" parent="138" relname="context-background">今後 世界 の 同業他社 も 設備 の 老朽化 や 操業 問題 に 直面 する でしょう 。</segment>
+		<segment id="41" parent="138" relname="same-unit">その とき に</segment>
+		<segment id="42" parent="43" relname="contingency-condition">日本 企業 が 持つ データ と ノウハウ を 生かせ ば</segment>
+		<segment id="43" parent="137" relname="span">大きな ビジネス に なり 得 ます 。</segment>
+		<segment id="44" parent="142" relname="joint-list">デジタル 技術 で 技術 開発 や 高品質 な 製品 づくり を 進化 さ せ 、</segment>
+		<segment id="45" parent="142" relname="joint-list">有効 な 蓄積 データ を 活用 できれ ば</segment>
+		<segment id="46" parent="143" relname="span">今まで と 違っ た ものづくり の 世界 が 開け て き ます 。</segment>
+		<segment id="47" parent="148" relname="span">DX で 海外 に 追いつき 追い抜く こと は 十分 可能 だ と 考え て い ます 。</segment>
+		<segment id="48" parent="144" relname="explanation-justify">DX を 成功 さ せる うえ で カギ に なる の は 人 です 。</segment>
+		<segment id="49" parent="50" relname="contingency-condition">データ サイエンティスト など 専門 人材 を 増やし て い ます が 、</segment>
+		<segment id="50" parent="144" relname="span">全社員 に DX マインド を 持っ て もらう こと が 重要 に なり ます 。</segment>
+		<segment id="51" parent="52" relname="elaboration-attribute">現場 の 若い 社員 の アイデア で DX が 進ん だ</segment>
+		<segment id="52" parent="145" relname="span">うれしい 事例 が あり ます 。</segment>
+		<segment id="53" parent="147" relname="same-unit">安全確保 の ため に 作業環境 など の 情報 を 共有 する システム で 、</segment>
+		<segment id="54" parent="55" relname="elaboration-attribute">紙 に 書い て い た</segment>
+		<segment id="55" parent="146" relname="span">報告 を スマートフォン の 音声 入力 に 切り替え まし た 。</segment>
+		<segment id="56" parent="150" relname="joint-list">より 確実 に 危険 予知 が でき 、</segment>
+		<segment id="57" parent="150" relname="joint-list">作業員 の 負担 も 軽く なり まし た 。</segment>
+		<segment id="58" parent="59" relname="adversative-concession">ベテラン 社員 に は なかなか 思いつき ませ ん が 、</segment>
+		<segment id="59" parent="151" relname="span">若い 人 は 音声 入力 が スマホ や ゲーム で は 当たり前 だ と いい ます 。</segment>
+		<segment id="60" parent="61" relname="causal-cause">技能 の 高い 人 たち は 従来 の やり方 に 縛ら れ て しまう ところ が あり 、</segment>
+		<segment id="61" parent="156" relname="span">設備 投資 を 伴う 大きな システム を 求め がち です 。</segment>
+		<segment id="62" parent="158" relname="joint-list">コスト に 成果 が 見合わ ない こと も あり ます 。</segment>
+		<segment id="63" parent="64" relname="elaboration-attribute">デジタル に 慣れ親しん だ</segment>
+		<segment id="64" parent="157" relname="span">若い 人 たち の 発想 は 、 それ を 補完 し て くれる こと が 多い の で は ない でしょう か 。</segment>
+		<segment id="65" parent="159" relname="evaluation-comment">DX で は 柔軟 な 発想 や 挑戦心 も 求め られる の だ と 思い ます 。</segment>
+		<segment id="66" parent="162" relname="joint-other">そこ で 皆 さん に お 聞き し ます 。</segment>
+		<segment id="67" parent="68" relname="purpose-goal">ものづくり を DX で バージョンアップ する に は 、</segment>
+		<segment id="68" parent="161" relname="span">どんな 方法 が 考え られる でしょう か 。</segment>
+		<segment id="69" parent="162" relname="joint-other">日本 の 製造業 を より 強く する 大胆 な アイデア を 期待 し て い ます 。</segment>
+		<segment id="70" parent="181" relname="organization-heading">編集 委員 から</segment>
+		<segment id="71" parent="72" relname="mode-manner">ドイツ は 2011 年 に 「 インダストリー 4 ・ 0 」 と 銘打っ て 、</segment>
+		<segment id="72" parent="164" relname="span">官民 挙げ て 製造業 の デジタル 革命 を 推し進め て き まし た 。</segment>
+		<segment id="73" parent="167" relname="same-unit">インタビュー で 柿木 社長 は</segment>
+		<segment id="74" parent="75" relname="context-background">「 国 を 挙げ て 先行 さ れ た こと に つい て 、</segment>
+		<segment id="75" parent="165" relname="span">製造業 の 一員 と し て 危機感 は 非常 に ある 」</segment>
+		<segment id="76" parent="165" relname="attribution-positive">と 語っ て い まし た 。</segment>
+		<segment id="77" parent="178" relname="span">日本 企業 が DX を 急ぐ の も 、 こう し た 強い 危機感 が 背景 に あり ます 。</segment>
+		<segment id="78" parent="168" relname="joint-list">単に デジタル 技術 を 活用 する だけ で なく 、</segment>
+		<segment id="79" parent="168" relname="joint-list">業務 その もの を 変革 し 、</segment>
+		<segment id="80" parent="169" relname="joint-list">事業 戦略 に 結びつける こと が DX の 要諦 だ と さ れ て い ます 。</segment>
+		<segment id="81" parent="179" relname="joint-list">AI や ロボット の 進歩 は 最近 めざましい もの が あり ます 。</segment>
+		<segment id="82" parent="170" relname="joint-list">効率化 など 従来 の 延長線 上 の 改革 に とどまら ず 、</segment>
+		<segment id="83" parent="170" relname="joint-list">ものづくり の あり 方 が 大きく 変わる</segment>
+		<segment id="84" parent="171" relname="span">可能性 が ある でしょう 。</segment>
+		<segment id="85" parent="172" relname="joint-list">製造 現場 で 長年 蓄積 し て き た データ を 活用 し 、</segment>
+		<segment id="86" parent="172" relname="joint-list">他社 向け に ソリューション ビジネス を 展開 する と いう</segment>
+		<segment id="87" parent="173" relname="span">JFE グループ の 取り組み は 、 製造業 の サービス 化 と いう 観点 から も 興味 深い もの です 。</segment>
+		<segment id="88" parent="176" relname="same-unit">重厚 長大 産業 が</segment>
+		<segment id="89" parent="198" relname="span">IT</segment>
+		<segment id="90" parent="89" relname="elaboration-additional">（ 情報 技術 ）</segment>
+		<segment id="91" parent="197" relname="same-unit">企業 や スタートアップ と 組ん で</segment>
+		<segment id="92" parent="174" relname="span">新 事業 に 進出 する</segment>
+		<segment id="93" parent="175" relname="span">ケース が 今後 ますます 増え て いく と 思い ます 。</segment>
+		<segment id="94" parent="180" relname="attribution-positive">（ 編集 委員 半沢 二 喜 ）</segment>
+		<segment id="95" parent="188" relname="joint-other">今回 の 課題 は 「 ものづくり 、 DX で バージョンアップ する に は ？ 」 です 。</segment>
+		<segment id="96" parent="97" relname="elaboration-attribute">400 字 程度 に まとめ た</segment>
+		<segment id="97" parent="183" relname="span">皆 さん から の 投稿 を 募集 し ます 。</segment>
+		<segment id="98" parent="200" relname="span">締め切り は 11 月 14 日</segment>
+		<segment id="99" parent="98" relname="elaboration-additional">（ 火 ）</segment>
+		<segment id="100" parent="199" relname="same-unit">正午 です 。</segment>
+		<segment id="101" parent="185" relname="joint-list">優れ た アイデア を トップ が 選ん で 、</segment>
+		<segment id="102" parent="202" relname="span">11 月 27 日</segment>
+		<segment id="103" parent="102" relname="elaboration-additional">（ 月 ）</segment>
+		<segment id="104" parent="203" relname="span">付 の 未来 面 や 日経 電子 版 の 未来 面 サイト</segment>
+		<segment id="105" parent="104" relname="elaboration-additional">（ https : / / www . nikkei . com / business / mirai / ）</segment>
+		<segment id="106" parent="201" relname="same-unit">で 紹介 し ます 。</segment>
+		<segment id="107" parent="186" relname="span">投稿 は 日経 電子 版 で 受け付け ます 。</segment>
+		<segment id="108" parent="107" relname="elaboration-additional">電子 版 トップページ → ビジネス → 未来 面 と たどり 、</segment>
+		<segment id="109" parent="188" relname="joint-other">今回 の 課題 を 選ん で ご 応募 ください 。</segment>
+		<group id="111" type="span" parent="112" relname="same-unit"/>
+		<group id="112" type="multinuc" parent="113" relname="context-background"/>
+		<group id="113" type="multinuc" parent="114" relname="span"/>
+		<group id="114" type="span" parent="193" relname="topic-solutionhood"/>
+		<group id="115" type="span" parent="163" relname="joint-other"/>
+		<group id="116" type="span" parent="133" relname="span"/>
+		<group id="117" type="span" parent="18" relname="elaboration-attribute"/>
+		<group id="118" type="span" parent="122" relname="context-background"/>
+		<group id="119" type="multinuc" parent="24" relname="elaboration-attribute"/>
+		<group id="120" type="span" parent="122" relname="span"/>
+		<group id="121" type="multinuc" parent="120" relname="explanation-evidence"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="123" type="span" parent="130" relname="context-background"/>
+		<group id="124" type="span" parent="32" relname="mode-means"/>
+		<group id="125" type="span" parent="29" relname="elaboration-additional"/>
+		<group id="126" type="span" parent="128" relname="causal-result"/>
+		<group id="127" type="multinuc" parent="130" relname="span"/>
+		<group id="128" type="span" parent="129" relname="span"/>
+		<group id="129" type="span" parent="127" relname="explanation-evidence"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="131" type="span" parent="15" relname="elaboration-additional"/>
+		<group id="132" type="span" parent="116" relname="explanation-evidence"/>
+		<group id="133" type="span" parent="163" relname="joint-other"/>
+		<group id="134" type="span" parent="139" relname="span"/>
+		<group id="135" type="span" parent="136" relname="same-unit"/>
+		<group id="136" type="multinuc" parent="134" relname="explanation-evidence"/>
+		<group id="137" type="span" parent="138" relname="same-unit"/>
+		<group id="138" type="multinuc" parent="140" relname="span"/>
+		<group id="139" type="span" parent="141" relname="span"/>
+		<group id="140" type="span" parent="139" relname="causal-result"/>
+		<group id="141" type="span" parent="163" relname="joint-other"/>
+		<group id="142" type="multinuc" parent="46" relname="contingency-condition"/>
+		<group id="143" type="span" parent="47" relname="causal-cause"/>
+		<group id="144" type="span" parent="149" relname="span"/>
+		<group id="145" type="span" parent="153" relname="span"/>
+		<group id="146" type="span" parent="147" relname="same-unit"/>
+		<group id="147" type="multinuc" parent="150" relname="causal-cause"/>
+		<group id="148" type="span" parent="163" relname="joint-other"/>
+		<group id="149" type="span" parent="155" relname="span"/>
+		<group id="150" type="multinuc" parent="152" relname="span"/>
+		<group id="151" type="span" parent="153" relname="evaluation-comment"/>
+		<group id="152" type="span" parent="145" relname="elaboration-attribute"/>
+		<group id="153" type="span" parent="154" relname="span"/>
+		<group id="154" type="span" parent="149" relname="explanation-evidence"/>
+		<group id="155" type="span" parent="163" relname="joint-other"/>
+		<group id="156" type="span" parent="158" relname="joint-list"/>
+		<group id="157" type="span" parent="159" relname="span"/>
+		<group id="158" type="multinuc" parent="157" relname="context-background"/>
+		<group id="159" type="span" parent="160" relname="span"/>
+		<group id="160" type="span" parent="163" relname="joint-other"/>
+		<group id="161" type="span" parent="162" relname="joint-other"/>
+		<group id="162" type="multinuc" parent="163" relname="joint-other"/>
+		<group id="163" type="multinuc" parent="189" relname="joint-other"/>
+		<group id="164" type="span" parent="167" relname="context-background"/>
+		<group id="165" type="span" parent="166" relname="span"/>
+		<group id="166" type="span" parent="167" relname="same-unit"/>
+		<group id="167" type="multinuc" parent="177" relname="span"/>
+		<group id="168" type="multinuc" parent="169" relname="joint-list"/>
+		<group id="169" type="multinuc" parent="179" relname="joint-list"/>
+		<group id="170" type="multinuc" parent="84" relname="elaboration-attribute"/>
+		<group id="171" type="span" parent="179" relname="joint-list"/>
+		<group id="172" type="multinuc" parent="87" relname="elaboration-attribute"/>
+		<group id="173" type="span" parent="180" relname="joint-other"/>
+		<group id="174" type="span" parent="176" relname="same-unit"/>
+		<group id="175" type="span" parent="180" relname="joint-other"/>
+		<group id="176" type="multinuc" parent="93" relname="elaboration-attribute"/>
+		<group id="177" type="span" parent="77" relname="elaboration-additional"/>
+		<group id="178" type="span" parent="180" relname="joint-other"/>
+		<group id="179" type="multinuc" parent="180" relname="joint-other"/>
+		<group id="180" type="multinuc" parent="181" relname="span"/>
+		<group id="181" type="span" parent="182" relname="span"/>
+		<group id="182" type="span" parent="189" relname="joint-other"/>
+		<group id="183" type="span" parent="184" relname="span"/>
+		<group id="184" type="span" parent="188" relname="joint-other"/>
+		<group id="185" type="multinuc" parent="187" relname="joint-list"/>
+		<group id="186" type="span" parent="187" relname="joint-list"/>
+		<group id="187" type="multinuc" parent="183" relname="elaboration-additional"/>
+		<group id="188" type="multinuc" parent="189" relname="joint-other"/>
+		<group id="189" type="multinuc" parent="190" relname="span"/>
+		<group id="190" type="span" parent="205" relname="span"/>
+		<group id="192" type="span" parent="1" relname="elaboration-additional"/>
+		<group id="193" type="multinuc" parent="115" relname="span"/>
+		<group id="194" type="span" parent="193" relname="same-unit"/>
+		<group id="195" type="multinuc" parent="119" relname="joint-list"/>
+		<group id="196" type="span" parent="195" relname="same-unit"/>
+		<group id="197" type="multinuc" parent="92" relname="mode-means"/>
+		<group id="198" type="span" parent="197" relname="same-unit"/>
+		<group id="199" type="multinuc" parent="187" relname="joint-list"/>
+		<group id="200" type="span" parent="199" relname="same-unit"/>
+		<group id="201" type="multinuc" parent="185" relname="joint-list"/>
+		<group id="202" type="span" parent="201" relname="same-unit"/>
+		<group id="203" type="span" parent="201" relname="same-unit"/>
+		<group id="204" type="span" parent="190" relname="organization-heading"/>
+		<group id="205" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,242 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="112" relname="span">開発途上国 に おけ る これ から の 理学 療法 の ニーズ</segment>
+		<segment id="2" parent="1" relname="elaboration-additional">東アフリカ ・ タンザニア連合共和国 の 高齢者 を 事例 に</segment>
+		<segment id="3" parent="203" relname="attribution-positive">笠井 歩</segment>
+		<segment id="4" parent="158" relname="adversative-antithesis">はじめ に</segment>
+		<segment id="5" parent="113" relname="context-background">保健 ・ 医療 は 生命 や 健康 、 生活 の 質 に 直接 関わる 分野 で あり 、</segment>
+		<segment id="6" parent="7" relname="mode-means">世界 各国 で 様々 な 取組み が なさ れ 、</segment>
+		<segment id="7" parent="113" relname="span">平均 余命 や 乳幼児 死亡率 の 改善 など の 成果 を 挙げ て き た 。</segment>
+		<segment id="8" parent="115" relname="context-background">その 一方 で 、 世界 は 今 人口 転換 の 過程 の 真っ只中 に あり 、</segment>
+		<segment id="9" parent="10" relname="causal-cause">出生率 の 低下 と 平均 余命 の 上昇 に よっ て 、</segment>
+		<segment id="10" parent="115" relname="span">アフリカ 諸国 に おい て も 人口 の 高齢化 が 見 られ て いる 。</segment>
+		<segment id="11" parent="118" relname="joint-list">世界的 に 高齢化 が 進み 、</segment>
+		<segment id="12" parent="118" relname="joint-list">2050 年 まで に は 5 人 に 1人 が 60 歳 以上 に なる と 予測 さ れ て おり 、</segment>
+		<segment id="13" parent="119" relname="span">人々 が 十分 な 保健 ・ 医療サービス を 受ける ため に は 、</segment>
+		<segment id="14" parent="120" relname="joint-list">医療施設 の 整備 や 医療 資材 と 医療 従事者 の 確保 のみ なら ず 、</segment>
+		<segment id="15" parent="120" relname="joint-list">医療 の 国家 的 政策 や 法 整備 も 必要不可欠 と なる 。</segment>
+		<segment id="16" parent="124" relname="same-unit">開発途上国 に おい て は 、</segment>
+		<segment id="17" parent="123" relname="joint-list">近年 の 急速 な 高齢化 の 波 に 対応 でき ず 、</segment>
+		<segment id="18" parent="123" relname="joint-list">高齢者 に 対応 する 法的 整備 や 社会的 整備 が 対応 でき て い ない 国 も 多い 。</segment>
+		<segment id="19" parent="129" relname="span">また 、 人口 の 高齢化 に 伴い 、 開発途上国 の 疾患 傾向 も 感染症 から 非 感染性 疾患 へ と 移行 し つつ ある 。</segment>
+		<segment id="20" parent="125" relname="span">非 感染性 疾患</segment>
+		<segment id="21" parent="20" relname="elaboration-additional">（ Non - communicable Diseases ： 以下 、 NCDs ）</segment>
+		<segment id="22" parent="126" relname="same-unit">と は 慢性疾患 で あり 、</segment>
+		<segment id="23" parent="126" relname="explanation-evidence">代表的 な もの と し て 心血 管 疾患 、 悪性 新 生物 、 慢性 呼吸器 疾患 、 糖尿病 など が あり 、</segment>
+		<segment id="24" parent="128" relname="same-unit">全 世界 の 死者 の 71 % に 相当 する 4,100万 人 が 毎年 亡くなっ て いる 。</segment>
+		<segment id="25" parent="134" relname="same-unit">NCDs は その 特性 上 、</segment>
+		<segment id="26" parent="131" relname="causal-cause">罹病 期間 が 長く なり 、</segment>
+		<segment id="27" parent="28" relname="elaboration-attribute">治療費 や 医薬品 に かかる</segment>
+		<segment id="28" parent="131" relname="span">費用 など 、 NCDs に 関連 する 社会 ・ 経済的 コスト の 大きさ から 、</segment>
+		<segment id="29" parent="133" relname="span">21 世紀 の 主要 な 開発 課題 と し て 、 これ ら の 疾患 の 予防 と 制御 が 不可欠 な もの に なる と 言わ れ て いる 。</segment>
+		<segment id="30" parent="135" relname="joint-list">国連 の 掲げる 持続的 な 開発 SDGs 3 — あらゆる 年齢 の すべて の 人々 の 健康 な 生活 を 確保 し 、</segment>
+		<segment id="31" parent="135" relname="joint-list">福祉 を 促進 する</segment>
+		<segment id="32" parent="136" relname="span">— で は 、 健康 寿命 の 延伸 、 すなわち 「 長く 生き 、 より よく 暮らす こと 」 の 重要性 が 明確 に 述べ られ て いる 。</segment>
+		<segment id="33" parent="34" relname="elaboration-attribute">NCDs に 起因 する</segment>
+		<segment id="34" parent="139" relname="span">死者 の うち 77 % は 、 低 ・ 中 所得 国 の 人々 で あり 、</segment>
+		<segment id="35" parent="141" relname="joint-list">開発途上国 に おい て も NCDs の 流行 は 、 社会的 な 問題 と なっ て いる 。</segment>
+		<segment id="36" parent="140" relname="span">世界保健機関</segment>
+		<segment id="37" parent="36" relname="elaboration-additional">（ World Health Organization ： 以下 、 WHO ）</segment>
+		<segment id="38" parent="142" relname="same-unit">は 、 アフリカ 地域 の NCDs に よる 死亡者数 は 、</segment>
+		<segment id="39" parent="143" relname="joint-list">2030 年 まで に 27 % 増加 し 、</segment>
+		<segment id="40" parent="143" relname="joint-list">更なる 2,800万 人 が NCDs に より 死亡 する</segment>
+		<segment id="41" parent="142" relname="same-unit">と 推定 し て いる 。</segment>
+		<segment id="42" parent="145" relname="attribution-positive">世界 の 人口 予測 に よれ ば 、</segment>
+		<segment id="43" parent="144" relname="span">エチオピア 、 タンザニア 連合 共和国</segment>
+		<segment id="44" parent="43" relname="elaboration-additional">（ 以下 、 タンザニア ）</segment>
+		<segment id="45" parent="145" relname="same-unit">など の 東アフリカ の 国々 で 1990 年 代 前半 に 40 代 後半 ～ 50 代 前半 だっ た 出生時 平均 余命 は 、 2015 年 に は 60 歳 前後 に 延伸 し て いる が 、</segment>
+		<segment id="46" parent="151" relname="joint-list">2050 年 に は 70 歳 代 、 2100 年 に は 80 歳 代 に 届く と 推測 さ れ て おり 、</segment>
+		<segment id="47" parent="146" relname="span">JICA 研究所</segment>
+		<segment id="48" parent="47" relname="elaboration-additional">（ 2013 ）</segment>
+		<segment id="49" parent="147" relname="same-unit">に よる 報告 に おい て も</segment>
+		<segment id="50" parent="150" relname="span">西暦 2050 年 を 見据え た アフリカ の 開発 を 検討 する に あたり 、</segment>
+		<segment id="51" parent="152" relname="span">人口 増加 と 人口 高齢化 は 押さえ て おか なけれ ば なら ない 前提 と さ れ て いる 。</segment>
+		<segment id="52" parent="53" relname="contingency-condition">保健 と 栄養 状態 の 改善 が 進め ば 、</segment>
+		<segment id="53" parent="154" relname="span">アフリカ に おけ る 長寿 化 は 必然 で ある と 言える で あろう 。</segment>
+		<segment id="54" parent="158" relname="joint-other">本稿 で は 、 開発途上国 に おけ る 理学 療法 の 支援 や 今後 の 展望 に つい て 、 タンザニア の 高齢化 問題 を 事例 に 日常生活 機能 と 日常生活 範囲 の 観点 から 述べる 。</segment>
+		<segment id="55" parent="175" relname="organization-heading">タンザニア の 現状</segment>
+		<segment id="56" parent="161" relname="same-unit">タンザニア は 、 アフリカ 東部 に 位置 する 国土 面積 94.5 平方キロメートル 、</segment>
+		<segment id="57" parent="58" relname="elaboration-attribute">国 の 東側 を インド洋 に 面し た</segment>
+		<segment id="58" parent="160" relname="span">沿岸 国 で ある 。</segment>
+		<segment id="59" parent="166" relname="joint-list">国 は 大きく 北東部 、 北西部 、 南東部 、 南西部 の 4 つ の 地域 に 分類 さ れ 、</segment>
+		<segment id="60" parent="162" relname="span">行政 区分 は 31 の 州</segment>
+		<segment id="61" parent="60" relname="elaboration-additional">（ Region ）</segment>
+		<segment id="62" parent="163" relname="span">と 、 184 の 県</segment>
+		<segment id="63" parent="62" relname="elaboration-additional">（ District ）</segment>
+		<segment id="64" parent="164" relname="span">と 市</segment>
+		<segment id="65" parent="64" relname="elaboration-additional">（ Municipality ）</segment>
+		<segment id="66" parent="165" relname="same-unit">に 分類 さ れ 、</segment>
+		<segment id="67" parent="166" relname="joint-list">州 政府 は 中央 政府 に 、 県 以下 の 自治体 は 地方 行政府 の 管轄 下 に 置か れる 。</segment>
+		<segment id="68" parent="168" relname="same-unit">経済 は 、 観光 や 情報通信業 を 含め た</segment>
+		<segment id="69" parent="169" relname="span">サービス業 が 国内総生産</segment>
+		<segment id="70" parent="69" relname="elaboration-additional">（ Gross Domestic Product : GDP ）</segment>
+		<segment id="71" parent="168" relname="same-unit">の 37.2 % 、</segment>
+		<segment id="72" parent="170" relname="joint-list">鉱業 ・ 製造 ・ 建設業 が 30.3 % 、</segment>
+		<segment id="73" parent="170" relname="joint-list">農林 水産業 が 26.9 % を 占め て いる 。</segment>
+		<segment id="74" parent="75" relname="elaboration-attribute">2022 年 8 月 に 実施 さ れ た</segment>
+		<segment id="75" parent="171" relname="span">タンザニア の 国政 調査 で は 、</segment>
+		<segment id="76" parent="173" relname="joint-list">人口 は 6,147万1,120 人 に 達し て おり 、</segment>
+		<segment id="77" parent="78" relname="elaboration-attribute">前回 の 2012 年 に 実施 さ れ た</segment>
+		<segment id="78" parent="172" relname="span">国政 調査 時 より も 1,700万 人 増 で あり 、</segment>
+		<segment id="79" parent="173" relname="joint-list">年間 3.2 % の 人口 増加率 で ある 。</segment>
+		<segment id="80" parent="175" relname="joint-other">また 、 合計 特殊 出生率 は 4.8 % 、 人口 千 人 当たり の 出生率 は 37 、 新生児 死亡率 は 35 % と なっ て いる 。</segment>
+		<segment id="81" parent="201" relname="organization-heading">タンザニア の 医療 体制</segment>
+		<segment id="82" parent="201" relname="span">タンザニア の 地方 自治 政策 で は 1 村 1 簡易 診療所 、 1 郡 1 診療所 、 1 県 1 病院 を 設置 する こと が 推進 さ れ て いる 。</segment>
+		<segment id="83" parent="177" relname="joint-list">タンザニア の 医療 は 、 1 次 、 2 次 、 3 次 の 3 つ の レベル で 構成 さ れ て おり 、</segment>
+		<segment id="84" parent="177" relname="joint-list">多く は タンザニア 政府 の 管轄 下 に ある 公立 の 施設 が 占める</segment>
+		<segment id="85" parent="177" relname="explanation-evidence">（ 図 1 ） 。</segment>
+		<segment id="86" parent="180" relname="same-unit">3 次 レベル の 医療機関 は</segment>
+		<segment id="87" parent="88" relname="elaboration-attribute">国内 に 4 か所 設置 さ れ て いる</segment>
+		<segment id="88" parent="179" relname="span">Zonal Referral Hospital と 呼ば れる 施設 で ある 。</segment>
+		<segment id="89" parent="184" relname="same-unit">2 次 レベル の 医療施設 は 、</segment>
+		<segment id="90" parent="181" relname="span">県 に 一 つ 以上 設置 する こと が 求め られる 県立 病院</segment>
+		<segment id="91" parent="90" relname="elaboration-additional">（ District Hospital ）</segment>
+		<segment id="92" parent="182" relname="same-unit">で あり 、</segment>
+		<segment id="93" parent="183" relname="joint-list">入院 棟 や 病床 数 、 レントゲン 機器 の 設置 や 、 職員数 の 規定 が 設け られ て おり 、</segment>
+		<segment id="94" parent="183" relname="joint-list">入院 機能 や 手術 の 役割 を 果たす 最低限 の 医療 設備 が 設け られ て いる 。</segment>
+		<segment id="95" parent="193" relname="same-unit">1 次 レベル は 、</segment>
+		<segment id="96" parent="189" relname="span">各 郡 に 設置 さ れる 診療所</segment>
+		<segment id="97" parent="96" relname="elaboration-additional">（ Health Centre ）</segment>
+		<segment id="98" parent="188" relname="same-unit">や 、</segment>
+		<segment id="99" parent="186" relname="elaboration-attribute">各村 に 設置 さ れる</segment>
+		<segment id="100" parent="186" relname="span">簡易 診療所</segment>
+		<segment id="101" parent="100" relname="elaboration-attribute">（ Dispensary ）</segment>
+		<segment id="102" parent="188" relname="same-unit">で あり 、</segment>
+		<segment id="103" parent="104" relname="adversative-concession">プライマリ ヘルスケア や 、 簡易 的 な 外科 処置 、 予防接種 や 外来 診療 を 行っ て いる が 、</segment>
+		<segment id="104" parent="190" relname="span">医師 を 含め た 医療 従事者 の 不足 や 機材 、 薬剤 不足 など に より 、</segment>
+		<segment id="105" parent="191" relname="span">的確 で 迅速 な 医療 が 実施 さ れ て いる と は 言い 難い 状況 で ある 。</segment>
+		<segment id="106" parent="197" relname="same-unit">公立 の 医療施設 に おい て は 、</segment>
+		<segment id="107" parent="195" relname="same-unit">Zonal Referral Hospital および</segment>
+		<segment id="108" parent="194" relname="span">州 病院</segment>
+		<segment id="109" parent="108" relname="elaboration-additional">（ Regional Referral Hospital ）</segment>
+		<segment id="110" parent="195" relname="same-unit">は 中央 政府 が 管轄 し 、</segment>
+		<segment id="111" parent="196" relname="joint-list">県立 病院 、 診療所 、 簡易 診療所 は 地方 自治 政府 が 管轄 し て いる 。</segment>
+		<group id="112" type="span" parent="204" relname="organization-heading"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="114" type="span" parent="117" relname="adversative-contrast"/>
+		<group id="115" type="span" parent="116" relname="span"/>
+		<group id="116" type="span" parent="117" relname="adversative-contrast"/>
+		<group id="117" type="multinuc" parent="121" relname="context-background"/>
+		<group id="118" type="multinuc" parent="13" relname="context-background"/>
+		<group id="119" type="span" parent="120" relname="topic-solutionhood"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="122" type="span" parent="124" relname="context-background"/>
+		<group id="123" type="multinuc" parent="124" relname="same-unit"/>
+		<group id="124" type="multinuc" parent="130" relname="span"/>
+		<group id="125" type="span" parent="126" relname="same-unit"/>
+		<group id="126" type="multinuc" parent="127" relname="span"/>
+		<group id="127" type="span" parent="128" relname="same-unit"/>
+		<group id="128" type="multinuc" parent="19" relname="elaboration-additional"/>
+		<group id="129" type="span" parent="137" relname="span"/>
+		<group id="130" type="span" parent="158" relname="joint-other"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="132" type="span" parent="29" relname="causal-cause"/>
+		<group id="133" type="span" parent="134" relname="same-unit"/>
+		<group id="134" type="multinuc" parent="129" relname="elaboration-additional"/>
+		<group id="135" type="multinuc" parent="32" relname="elaboration-attribute"/>
+		<group id="136" type="span" parent="137" relname="elaboration-additional"/>
+		<group id="137" type="span" parent="138" relname="span"/>
+		<group id="138" type="span" parent="158" relname="joint-other"/>
+		<group id="139" type="span" parent="141" relname="joint-list"/>
+		<group id="140" type="span" parent="142" relname="same-unit"/>
+		<group id="141" type="multinuc" parent="142" relname="context-background"/>
+		<group id="142" type="multinuc" parent="156" relname="span"/>
+		<group id="143" type="multinuc" parent="142" relname="same-unit"/>
+		<group id="144" type="span" parent="145" relname="same-unit"/>
+		<group id="145" type="multinuc" parent="148" relname="span"/>
+		<group id="146" type="span" parent="147" relname="same-unit"/>
+		<group id="147" type="multinuc" parent="50" relname="attribution-positive"/>
+		<group id="148" type="span" parent="152" relname="adversative-concession"/>
+		<group id="150" type="span" parent="151" relname="joint-list"/>
+		<group id="151" type="multinuc" parent="51" relname="context-background"/>
+		<group id="152" type="span" parent="153" relname="span"/>
+		<group id="153" type="span" parent="155" relname="span"/>
+		<group id="154" type="span" parent="153" relname="elaboration-additional"/>
+		<group id="155" type="span" parent="157" relname="span"/>
+		<group id="156" type="span" parent="155" relname="context-background"/>
+		<group id="157" type="span" parent="158" relname="joint-other"/>
+		<group id="158" type="multinuc" parent="159" relname="span"/>
+		<group id="159" type="span" parent="203" relname="joint-other"/>
+		<group id="160" type="span" parent="161" relname="same-unit"/>
+		<group id="161" type="multinuc" parent="175" relname="joint-other"/>
+		<group id="162" type="span" parent="165" relname="same-unit"/>
+		<group id="163" type="span" parent="165" relname="same-unit"/>
+		<group id="164" type="span" parent="165" relname="same-unit"/>
+		<group id="165" type="multinuc" parent="166" relname="joint-list"/>
+		<group id="166" type="multinuc" parent="175" relname="joint-other"/>
+		<group id="168" type="multinuc" parent="170" relname="joint-list"/>
+		<group id="169" type="span" parent="168" relname="same-unit"/>
+		<group id="170" type="multinuc" parent="175" relname="joint-other"/>
+		<group id="171" type="span" parent="173" relname="attribution-positive"/>
+		<group id="172" type="span" parent="173" relname="joint-list"/>
+		<group id="173" type="multinuc" parent="174" relname="span"/>
+		<group id="174" type="span" parent="175" relname="joint-other"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="176" type="span" parent="203" relname="joint-other"/>
+		<group id="177" type="multinuc" parent="178" relname="span"/>
+		<group id="178" type="span" parent="200" relname="span"/>
+		<group id="179" type="span" parent="180" relname="same-unit"/>
+		<group id="180" type="multinuc" parent="198" relname="joint-list"/>
+		<group id="181" type="span" parent="182" relname="same-unit"/>
+		<group id="182" type="multinuc" parent="183" relname="joint-list"/>
+		<group id="183" type="multinuc" parent="184" relname="same-unit"/>
+		<group id="184" type="multinuc" parent="198" relname="joint-list"/>
+		<group id="186" type="span" parent="187" relname="span"/>
+		<group id="187" type="span" parent="188" relname="same-unit"/>
+		<group id="188" type="multinuc" parent="192" relname="joint-list"/>
+		<group id="189" type="span" parent="188" relname="same-unit"/>
+		<group id="190" type="span" parent="105" relname="causal-cause"/>
+		<group id="191" type="span" parent="192" relname="joint-list"/>
+		<group id="192" type="multinuc" parent="193" relname="same-unit"/>
+		<group id="193" type="multinuc" parent="198" relname="joint-list"/>
+		<group id="194" type="span" parent="195" relname="same-unit"/>
+		<group id="195" type="multinuc" parent="196" relname="joint-list"/>
+		<group id="196" type="multinuc" parent="197" relname="same-unit"/>
+		<group id="197" type="multinuc" parent="198" relname="elaboration-additional"/>
+		<group id="198" type="multinuc" parent="199" relname="span"/>
+		<group id="199" type="span" parent="178" relname="elaboration-additional"/>
+		<group id="200" type="span" parent="82" relname="elaboration-additional"/>
+		<group id="201" type="span" parent="202" relname="span"/>
+		<group id="202" type="span" parent="203" relname="joint-other"/>
+		<group id="203" type="multinuc" parent="204" relname="span"/>
+		<group id="204" type="span" parent="205" relname="span"/>
+		<group id="205" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,165 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="67" relname="joint-list">対 フィリピン 、 南 シナ 海 協力 を 拡大</segment>
+		<segment id="2" parent="67" relname="joint-list">日比 首脳 が 会談</segment>
+		<segment id="3" parent="117" relname="context-circumstance">2023 年 11 月 4 日 1 : 30</segment>
+		<segment id="4" parent="116" relname="attribution-positive">【 マニラ = 馬場 加奈 、 志賀 優一 】</segment>
+		<segment id="5" parent="68" relname="context-circumstance">岸田 文雄 首相 は 3 日 の フィリピン の マルコス 大統領 と の 首脳 会談 で</segment>
+		<segment id="6" parent="7" relname="elaboration-attribute">両国 部隊 の 相互 往来 を 促す</segment>
+		<segment id="7" parent="68" relname="span">「 円滑 化 協定 」 の 交渉 開始 で 合意 し た 。</segment>
+		<segment id="8" parent="121" relname="span">「 政府 安全 保障 能力 強化 支援</segment>
+		<segment id="9" parent="8" relname="elaboration-additional">（ OSA ）</segment>
+		<segment id="10" parent="120" relname="same-unit">」 の 制度 を 活用 し た</segment>
+		<segment id="11" parent="70" relname="span">沿岸 監視 レーダー の 無償 供与 と あわせ 、</segment>
+		<segment id="12" parent="13" relname="elaboration-attribute">南 シナ 海 で 軍事 拠点 化 を 進める</segment>
+		<segment id="13" parent="71" relname="span">中国 を 念頭 に 抑止力 を 高める 狙い が ある 。</segment>
+		<segment id="14" parent="75" relname="same-unit">円滑 化 協定 は</segment>
+		<segment id="15" parent="16" relname="context-circumstance">部隊 が 相手 国 へ 入国 する 際 、</segment>
+		<segment id="16" parent="74" relname="span">装備 を 持ち込む 手続き を 簡素 に する ため の 取り決め だ 。</segment>
+		<segment id="17" parent="77" relname="joint-list">合同 演習 を より 頻繁 に 実施 できる よう に なる 。</segment>
+		<segment id="18" parent="19" relname="contingency-condition">締結 すれ ば</segment>
+		<segment id="19" parent="76" relname="span">英国 と オーストラリア に 続い て 3 カ国 目 と なる 。</segment>
+		<segment id="20" parent="82" relname="span">首脳 会談 で 両国 の 同盟国 で ある 米国 を 加え た 枠組み の 重要性 を 確認 し た 。</segment>
+		<segment id="21" parent="81" relname="span">6 月 に 日米 比 の 安全 保障 担当 の 政府 高官 が 都内 で 初めて 会談 し た 。</segment>
+		<segment id="22" parent="80" relname="joint-list">年内 に も 東 ・ 南 シナ 海 で の 安保 戦略 に 関する 戦略 文書 を 策定 し 、</segment>
+		<segment id="23" parent="80" relname="joint-list">南 シナ 海 で の 合同 演習 を 定例 化 する と 決め た 。</segment>
+		<segment id="24" parent="123" relname="span">9 月 に は インドネシア で 東南アジア諸国連合</segment>
+		<segment id="25" parent="24" relname="elaboration-additional">（ ASEAN ）</segment>
+		<segment id="26" parent="122" relname="same-unit">関連 首脳 会議 に あわせ 日米 比 の 首脳 級 で 短時間 懇談 し 、</segment>
+		<segment id="27" parent="83" relname="joint-list">3 カ国 で 一層 連携 する と 確認 し た 。</segment>
+		<segment id="28" parent="84" relname="joint-sequence">3 日 の 日 フィリピン 首脳 会談 で も 3 カ国 協力 の 強化 を 申し合わせ た 。</segment>
+		<segment id="29" parent="86" relname="same-unit">日本 が</segment>
+		<segment id="30" parent="31" relname="mode-means">南 シナ 海 で の 協力 に 引きつけ て</segment>
+		<segment id="31" parent="85" relname="span">フィリピン と の 関係 強化 を 狙う の は 、</segment>
+		<segment id="32" parent="33" relname="elaboration-attribute">東南 アジア で の 影響力 を 強める</segment>
+		<segment id="33" parent="87" relname="span">中国 へ の 明確 な 対抗 軸 に なる から だ 。</segment>
+		<segment id="34" parent="94" relname="span">フィリピン を はじめ ASEAN の 一部 加盟国 は 南 シナ 海 の 領有権 を めぐっ て 中国 と 争う 。</segment>
+		<segment id="35" parent="90" relname="same-unit">フィリピン 政府 は 10 月 22 日 、</segment>
+		<segment id="36" parent="89" relname="span">南 シナ 海 で 同国 の 船 が 中国 船 に 衝突 さ れ た</segment>
+		<segment id="37" parent="36" relname="attribution-positive">と 発表 し た 。</segment>
+		<segment id="38" parent="92" relname="same-unit">中国 の 行動 を</segment>
+		<segment id="39" parent="91" relname="span">「 挑発的 で 無責任 、 違法 」</segment>
+		<segment id="40" parent="39" relname="attribution-positive">と 非難 し た 。</segment>
+		<segment id="41" parent="96" relname="same-unit">8 月 下旬 に 中国 が</segment>
+		<segment id="42" parent="43" relname="elaboration-attribute">南 シナ 海 の 大半 を 自国領 と 改めて 主張 し た</segment>
+		<segment id="43" parent="95" relname="span">新しい 地図 を 公表 し た 際 に も 、 ASEAN 各国 は 一斉 に 反発 し た 。</segment>
+		<segment id="44" parent="104" relname="span">首相 と マルコス 氏 は 首脳 会談 で 東 シナ 海 ・ 南 シナ 海 の 状況 へ の 深刻 な 懸念 を 共有 し た 。</segment>
+		<segment id="45" parent="46" relname="elaboration-attribute">国連 海洋 法 条約 に 基づく</segment>
+		<segment id="46" parent="97" relname="span">仲裁 裁判 は 16 年 、 中国 の 南 シナ 海 で の 主張 を 全面的 に 退け た 経緯 が ある 。</segment>
+		<segment id="47" parent="98" relname="span">中国 は 判決 を 無視 し て いる 。</segment>
+		<segment id="48" parent="115" relname="span">フィリピン の 歴代 政権 は 対 中国 と 対 米国 の 外交 姿勢 で 揺れ動い て き た 。</segment>
+		<segment id="49" parent="50" relname="adversative-concession">もともと 米軍 は フィリピン に 南 シナ 海 に 接する スービック など の 基地 に 駐留 し て い た が 、</segment>
+		<segment id="50" parent="99" relname="span">比 上院 は 1990 年 代 初め に 米軍 の 基地 利用 を 延長 する 条約 の 批准 を 拒否 し た 。</segment>
+		<segment id="51" parent="100" relname="joint-list">それ 以降 、 比 政府 は 米軍 の 駐留 は 巡回 のみ 認め 、</segment>
+		<segment id="52" parent="100" relname="joint-list">地域 で の プレゼンス の 低下 に つながっ た 。</segment>
+		<segment id="53" parent="103" relname="same-unit">ドゥテルテ 前 大統領 も</segment>
+		<segment id="54" parent="55" relname="causal-cause">通商 関係 を 優先 し て</segment>
+		<segment id="55" parent="101" relname="span">中国 に 融和 的 な 姿勢 を とる 一方 、</segment>
+		<segment id="56" parent="102" relname="adversative-contrast">米国 と は 任期 の 大半 で 距離 を 置い た 。</segment>
+		<segment id="57" parent="58" relname="elaboration-attribute">共同 訓練 など で 訪れる</segment>
+		<segment id="58" parent="106" relname="span">米軍 の 法的 地位 を 定め た</segment>
+		<segment id="59" parent="125" relname="span">「 訪問 軍 地位 協定 」</segment>
+		<segment id="60" parent="59" relname="elaboration-additional">（ VFA ）</segment>
+		<segment id="61" parent="124" relname="same-unit">の 破棄 を 米 政府 に 通告 し た 。</segment>
+		<segment id="62" parent="108" relname="joint-sequence">その 後 、 撤回 し た 。</segment>
+		<segment id="63" parent="112" relname="span">22 年 6 月 に マルコス 氏 が 大統領 に 就任 し て から は 米国 と 安保 を 軸 に 連携 を 深め て いる 。</segment>
+		<segment id="64" parent="65" relname="elaboration-attribute">東 シナ 海 で の 中国 の 海洋 進出 に 直面 する</segment>
+		<segment id="65" parent="110" relname="span">日本 に とっ て 、 マルコス 政権 の 米国 へ の 歩み寄り は 追い風 だ 。</segment>
+		<segment id="66" parent="111" relname="joint-list">同氏 の 任期 中 に 防衛 協力 を 深め られる か が ポイント に なる 。</segment>
+		<group id="67" type="multinuc" parent="118" relname="organization-heading"/>
+		<group id="68" type="span" parent="69" relname="span"/>
+		<group id="69" type="span" parent="73" relname="span"/>
+		<group id="70" type="span" parent="72" relname="joint-list"/>
+		<group id="71" type="span" parent="72" relname="joint-list"/>
+		<group id="72" type="multinuc" parent="69" relname="elaboration-additional"/>
+		<group id="73" type="span" parent="79" relname="span"/>
+		<group id="74" type="span" parent="75" relname="same-unit"/>
+		<group id="75" type="multinuc" parent="78" relname="span"/>
+		<group id="76" type="span" parent="77" relname="joint-list"/>
+		<group id="77" type="multinuc" parent="75" relname="elaboration-additional"/>
+		<group id="78" type="span" parent="73" relname="elaboration-additional"/>
+		<group id="79" type="span" parent="116" relname="joint-other"/>
+		<group id="80" type="multinuc" parent="21" relname="elaboration-additional"/>
+		<group id="81" type="span" parent="84" relname="joint-sequence"/>
+		<group id="82" type="span" parent="116" relname="joint-other"/>
+		<group id="83" type="multinuc" parent="84" relname="joint-sequence"/>
+		<group id="84" type="multinuc" parent="20" relname="explanation-evidence"/>
+		<group id="85" type="span" parent="86" relname="same-unit"/>
+		<group id="86" type="multinuc" parent="88" relname="same-unit"/>
+		<group id="87" type="span" parent="88" relname="same-unit"/>
+		<group id="88" type="multinuc" parent="116" relname="joint-other"/>
+		<group id="89" type="span" parent="90" relname="same-unit"/>
+		<group id="90" type="multinuc" parent="93" relname="span"/>
+		<group id="91" type="span" parent="92" relname="same-unit"/>
+		<group id="92" type="multinuc" parent="90" relname="elaboration-additional"/>
+		<group id="93" type="span" parent="34" relname="elaboration-additional"/>
+		<group id="94" type="span" parent="116" relname="joint-other"/>
+		<group id="95" type="span" parent="96" relname="same-unit"/>
+		<group id="96" type="multinuc" parent="44" relname="context-background"/>
+		<group id="97" type="span" parent="47" relname="context-background"/>
+		<group id="98" type="span" parent="104" relname="context-background"/>
+		<group id="99" type="span" parent="100" relname="context-background"/>
+		<group id="100" type="multinuc" parent="114" relname="span"/>
+		<group id="101" type="span" parent="102" relname="adversative-contrast"/>
+		<group id="102" type="multinuc" parent="103" relname="same-unit"/>
+		<group id="103" type="multinuc" parent="109" relname="span"/>
+		<group id="104" type="span" parent="105" relname="span"/>
+		<group id="105" type="span" parent="116" relname="joint-other"/>
+		<group id="106" type="span" parent="124" relname="elaboration-attribute"/>
+		<group id="107" type="span" parent="108" relname="joint-sequence"/>
+		<group id="108" type="multinuc" parent="103" relname="explanation-evidence"/>
+		<group id="109" type="span" parent="113" relname="joint-sequence"/>
+		<group id="110" type="span" parent="111" relname="joint-list"/>
+		<group id="111" type="multinuc" parent="63" relname="elaboration-additional"/>
+		<group id="112" type="span" parent="113" relname="joint-sequence"/>
+		<group id="113" type="multinuc" parent="48" relname="explanation-evidence"/>
+		<group id="114" type="span" parent="113" relname="joint-sequence"/>
+		<group id="115" type="span" parent="116" relname="joint-other"/>
+		<group id="116" type="multinuc" parent="117" relname="span"/>
+		<group id="117" type="span" parent="118" relname="span"/>
+		<group id="118" type="span" parent="119" relname="span"/>
+		<group id="119" type="span" />
+		<group id="120" type="multinuc" parent="11" relname="elaboration-attribute"/>
+		<group id="121" type="span" parent="120" relname="same-unit"/>
+		<group id="122" type="multinuc" parent="83" relname="joint-list"/>
+		<group id="123" type="span" parent="122" relname="same-unit"/>
+		<group id="124" type="multinuc" parent="107" relname="span"/>
+		<group id="125" type="span" parent="124" relname="same-unit"/>
+	</body>
+</rst>

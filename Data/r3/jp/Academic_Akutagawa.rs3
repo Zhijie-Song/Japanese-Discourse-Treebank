@@ -1,0 +1,341 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="303" relname="span">「 荘厳 なる 俗悪 」 の 変遷</segment>
+		<segment id="2" parent="1" relname="elaboration-additional">芥川 龍之介 の 中期 作品 に おけ る 芸術 観</segment>
+		<segment id="3" parent="302" relname="attribution-positive">許 可</segment>
+		<segment id="4" parent="178" relname="organization-heading">１ ． はじめ に</segment>
+		<segment id="5" parent="161" relname="adversative-concession">芥川 龍之介 文学 の 基底 を なす もの に は 西洋 文学 の ほか に 漢文学 及び 江戸 文化 が ある と さ れ て き た が 、</segment>
+		<segment id="6" parent="7" relname="context-circumstance">1920 年代 に 入る と 、</segment>
+		<segment id="7" parent="161" relname="span">彼 の なか で は それ ら の 教養 の 価値 が 見直さ れ 始め た 。</segment>
+		<segment id="8" parent="162" relname="explanation-evidence">その 証拠 に 、 現実 に 無関心 な 通人 ・ 風流 人 に 対し て 、 芥川 が 意識的 に 距離 を 取る 傾向 が 見 られる よう に なる 。</segment>
+		<segment id="9" parent="167" relname="same-unit">本稿 は</segment>
+		<segment id="10" parent="11" relname="elaboration-attribute">芥川 文学 の 初期 と 中期 の 転換点 と なる</segment>
+		<segment id="11" parent="164" relname="span">1922 年 前後 に 焦点 を 当て 、</segment>
+		<segment id="12" parent="165" relname="span">その 自省 的 な 姿勢 の 意味 を 文芸 観 の 面 から 分析 する</segment>
+		<segment id="13" parent="166" relname="span">試み で ある 。</segment>
+		<segment id="14" parent="15" relname="mode-means">特に 、 支那 趣味 批判 と 浪花節 に 関わる 通人 批判 を 通し て 、</segment>
+		<segment id="15" parent="168" relname="span">「 荘厳 なる 俗悪 」 と いう 思考 の 彼 の 芸術 観 に とっ て の 意味 を 考える 。</segment>
+		<segment id="16" parent="176" relname="joint-sequence">以下 で は まず 、 芥川 に おけ る 「 支那 趣味 」 と その 批判 の 展開 を 整理 する 。</segment>
+		<segment id="17" parent="172" relname="same-unit">次 に 、</segment>
+		<segment id="18" parent="19" relname="elaboration-attribute">浪花節 が 物語 上 重要 な 役割 を 果たす</segment>
+		<segment id="19" parent="170" relname="span">短篇 「 一夕 話 」 を 分析 し 、</segment>
+		<segment id="20" parent="171" relname="span">通人 批判 の 内実 を 考察 する 。</segment>
+		<segment id="21" parent="175" relname="same-unit">最後 に 、</segment>
+		<segment id="22" parent="173" relname="joint-list">以上 の 二 つ の 議論 を 繋ぐ 紐 と し て の 「 荘厳 なる 俗悪 」 と いう 表現 に 注目 し 、</segment>
+		<segment id="23" parent="173" relname="joint-list">その 内実 を 批判的 に 捉え た 上 で 、</segment>
+		<segment id="24" parent="174" relname="span">晩期 の 芥川 に おけ る 芸術的 思考 と の 連関 を 提示 する 。</segment>
+		<segment id="25" parent="300" relname="organization-heading">２ ． 中国 の 旅 と 「 支那 趣味 」 批判</segment>
+		<segment id="26" parent="27" relname="elaboration-attribute">幼少 時 より 漢文 学 に 親炙 し て き た</segment>
+		<segment id="27" parent="180" relname="span">芥川 が 初めて 訪中 し た の は 1921 年 の こと で 、</segment>
+		<segment id="28" parent="181" relname="span">『 大阪 毎日 新聞 』 の 記者 と し て の 視察 旅行 で あっ た 。</segment>
+		<segment id="29" parent="182" relname="span">三 カ月 の 旅行 の 見聞 を 元 に 、 芥川 は 一連 の 紀行 及び 「 湖南 の 扇 」 、 「 母 」 、 「 将軍 」 等 の 中国 を 舞台 と する 小説 群 を 著し た 。</segment>
+		<segment id="30" parent="183" relname="joint-list">しかし 同時 に 、 その 生々しい 中国 体験 は 彼 の 従来 の 「 支那 趣味 」 を 裏切る よう な 側面 を も 有し て おり 、</segment>
+		<segment id="31" parent="183" relname="joint-list">彼 の 幻滅 の 様相 は 特に 中国 紀行 に おい て 最も 明らか に 表れ て いる 。</segment>
+		<segment id="32" parent="186" relname="same-unit">芥川 の 中国 紀行 に 対し ては 、</segment>
+		<segment id="33" parent="34" relname="elaboration-attribute">ポスト コロニアル な 視点 から の 帝国主義 的 な 性質 を 批判 する</segment>
+		<segment id="34" parent="185" relname="span">先行 論 が 多い が</segment>
+		<segment id="35" parent="186" relname="explanation-evidence">-LSB- 1 -RSB- 、</segment>
+		<segment id="36" parent="37" relname="elaboration-additional">その 記録 の 誠実 さ を 肯定 する</segment>
+		<segment id="37" parent="188" relname="span">研究 も ある 。</segment>
+		<segment id="38" parent="39" relname="elaboration-attribute">例えば 、 芥川 の 中国 紀行 に は 新聞 に おけ る 中国 の 負 の イメージ を 継承 し 再生産 する</segment>
+		<segment id="39" parent="190" relname="span">側面 が ある 一方 で 、</segment>
+		<segment id="40" parent="191" relname="span">現地 民衆 の 反日 感情 等 の ノイズ を 導入 し て も いる</segment>
+		<segment id="41" parent="40" relname="attribution-positive">と 評価 し て いる</segment>
+		<segment id="42" parent="192" relname="span">篠崎 美生子 の 論</segment>
+		<segment id="43" parent="192" relname="explanation-evidence">-LSB- 2 -RSB-</segment>
+		<segment id="44" parent="194" relname="same-unit">や 、</segment>
+		<segment id="45" parent="196" relname="joint-list">当時 の 日本 の 言論 統制 の 状況 を 踏まえ 、</segment>
+		<segment id="46" parent="195" relname="span">「 官憲 の 検閲 と の 闘い の 下 」 誠実 に 記録 し た</segment>
+		<segment id="47" parent="46" relname="attribution-positive">と 論じ て いる</segment>
+		<segment id="48" parent="197" relname="span">関口 安義 の 論</segment>
+		<segment id="49" parent="197" relname="explanation-evidence">-LSB- 3 -RSB-</segment>
+		<segment id="50" parent="194" relname="same-unit">など で ある 。</segment>
+		<segment id="51" parent="201" relname="adversative-concession">総じて 言え ば 、 芥川 に は 現実 の 中国 の 政治 と 社会 に 対する 熱い 関心 と 猛烈 な 好奇心 は ほとんど 見 られ ない が 、</segment>
+		<segment id="52" parent="200" relname="joint-list">しかし 彼 なり に 中国人 の 主体性 を 理解 し て おり 、</segment>
+		<segment id="53" parent="200" relname="joint-list">その 理解 を 中国 物 の 創作 に も 反映 さ せ て いる</segment>
+		<segment id="54" parent="200" relname="attribution-positive">と いう こと が 指摘 さ れ て き た と いえる 。</segment>
+		<segment id="55" parent="56" relname="mode-means">ここ で は 芥川 に おけ る 「 支那 趣味 」 の 変遷 と いう 視点 に 立ち 、</segment>
+		<segment id="56" parent="203" relname="span">1921 年 の 中国 経験 の 影響 を 彼 の 中国 物 に 限定 する の で は なく 、</segment>
+		<segment id="57" parent="204" relname="span">それ が いかに 彼 の 創作 の 中期 段階 に 入る 兆候 と なっ た の か を 考え て いき たい 。</segment>
+		<segment id="58" parent="209" relname="joint-sequence">以下 で は まず 、 訪中 前後 に かけ て の 芥川 に おけ る 「 支那 趣味 」 の 変化 に つい て 概観 する 。</segment>
+		<segment id="59" parent="208" relname="same-unit">その 上 で 、 芥川 の 中国 に おけ る 現実 の 体験 は 、</segment>
+		<segment id="60" parent="207" relname="restatement-repetition">いかに 旧来 の 「 支那 趣味 」 を 変容 さ せ た の か 、</segment>
+		<segment id="61" parent="207" relname="restatement-repetition">即ち 、 「 俗悪 さ 」 と 「 荘厳 さ 」 の 発見 を もたらし た の か</segment>
+		<segment id="62" parent="208" relname="same-unit">を 提示 し たい 。</segment>
+		<segment id="63" parent="64" relname="organization-preparation">2 ． 1 ． 訪中 前 の 芥川 の 「 支那 趣味 」 ：</segment>
+		<segment id="64" parent="212" relname="span">繊細 で 優美 な 「 別 乾坤 」</segment>
+		<segment id="65" parent="213" relname="joint-list">本節 で は 、 大正 期 及び 昭和 初期 の 日本 に おけ る 「 東洋 趣味 」 と 「 支那 趣味 」 に つい て 概観 し 、</segment>
+		<segment id="66" parent="213" relname="joint-list">訪中 前 の 芥川 の 「 支那 趣味 」 の 変化 を 取り上げる 。</segment>
+		<segment id="67" parent="214" relname="adversative-concession">日本 に おけ る 「 東洋 趣味 」 に 対し て の 明確 な 定義 は 見つから ない が 、</segment>
+		<segment id="68" parent="69" relname="attribution-positive">同 時代 の 言説 を 概観 する と 、</segment>
+		<segment id="69" parent="214" relname="span">主 と し て 日本 ・ 中国 ・ 朝鮮 ・ 印度 の 古典 時代 の 文物 へ の 関心 及び 執着 と いう こと が できる 。</segment>
+		<segment id="70" parent="216" relname="attribution-positive">木下 杢太郎 の 論 を 参照 する と 、</segment>
+		<segment id="71" parent="216" relname="joint-list">「 東洋 趣味 」 の 復興 は 「 純粋 なる 西洋 趣味 に 対する 反動 で は ない 」 、</segment>
+		<segment id="72" parent="216" relname="joint-list">「 寧ろ 不純 に し て 不快 なる 便宜的 の 和洋 折衷 に 対する 反動 で ある 」 と いう 。</segment>
+		<segment id="73" parent="218" relname="joint-sequence">そして 、 それ が 「 まず 江戸 趣味 と し て 現れ 」 、</segment>
+		<segment id="74" parent="218" relname="joint-sequence">「 段々 時代 を 逆流 し 徳川 初期 、 室町 に 及び 、</segment>
+		<segment id="75" parent="218" relname="joint-sequence">平安 朝 に 赴き 、</segment>
+		<segment id="76" parent="218" relname="joint-sequence">而して しばらく 支那 趣味 と なり 、</segment>
+		<segment id="77" parent="218" relname="joint-sequence">更に また 奈良 に 還り 或は 印度 に 走る に 至れる 」 の で ある</segment>
+		<segment id="78" parent="218" relname="explanation-evidence">-LSB- 4 -RSB- 。</segment>
+		<segment id="79" parent="223" relname="span">また 、 分野 と し て は 、 「 東洋 趣味 」 は 文学 から 絵画 ・ 建築 ・ 工芸 ・ 風俗 まで の 広い 範囲 に 渡っ て い た 。</segment>
+		<segment id="80" parent="221" relname="same-unit">その 中 で も 「 支那 趣味 」 は 、</segment>
+		<segment id="81" parent="220" relname="joint-list">先秦 思想 や 文人画 、 漢詩 文 、 庭園 、 染織 等 種々 の 形態 で 現れ 、</segment>
+		<segment id="82" parent="220" relname="joint-list">「 東洋 趣味 」 の 重要 な 部分 を 占め て いる</segment>
+		<segment id="83" parent="221" relname="explanation-evidence">-LSB- 5 -RSB- 。</segment>
+		<segment id="84" parent="256" relname="organization-preparation">次 に 、 同 時代 の 文壇 に おけ る 状況 の 概観 に 移る 。</segment>
+		<segment id="85" parent="225" relname="attribution-positive">川本 三郎 に よれ ば 、</segment>
+		<segment id="86" parent="87" relname="elaboration-attribute">中国 旅行 が 佐藤 春夫 ・ 木下 杢太郎 ・ 谷崎 潤一郎 ・ 芥川 龍之介 ・ 横光 利一 ら の 間 で バトンタッチ さ れ て いく</segment>
+		<segment id="87" parent="224" relname="span">観 が あり 、</segment>
+		<segment id="88" parent="225" relname="joint-list">彼 ら の 間 に 共通 し て 中国 に 向かう コミュニケーション の 回路 が あっ た と いう</segment>
+		<segment id="89" parent="226" relname="explanation-evidence">-LSB- 6 -RSB- 。</segment>
+		<segment id="90" parent="229" relname="span">また 、 『 白樺 』 の 衛星 誌 『 不二 』</segment>
+		<segment id="91" parent="90" relname="elaboration-additional">（ 1924 - 1927 ）</segment>
+		<segment id="92" parent="230" relname="span">や 『 大 調和 』 の 亜細亜 研究 号</segment>
+		<segment id="93" parent="92" relname="elaboration-additional">( 1927 ・ 10 )</segment>
+		<segment id="94" parent="231" relname="same-unit">の 誌面 から 見える 後期 白樺 派 の 「 東洋 趣味 」 へ の 傾斜 に も 、</segment>
+		<segment id="95" parent="232" relname="span">「 支那 趣味 」 の 存在 が 特に 大きい と いえる 。</segment>
+		<segment id="96" parent="238" relname="same-unit">だ が 、 全体 から 見れ ば 、</segment>
+		<segment id="97" parent="233" relname="joint-list">川本 の 指摘 し た よう に 、 明治 期 青年 の よう に 幼少 時 の 漢文 教育 を 通じ て</segment>
+		<segment id="98" parent="233" relname="joint-list">自然 に 身 に つい た 漢籍 の 「 素養 」 は この 時期 で すでに 失わ れ て いっ て おり 、</segment>
+		<segment id="99" parent="233" relname="joint-list">その 代わり と し て の 「 支那 趣味 」 は より 「 人工的 」 で 、</segment>
+		<segment id="100" parent="233" relname="joint-list">しかも 限ら れ た グループ内 で の 流行 だっ た と 言える</segment>
+		<segment id="101" parent="238" relname="explanation-evidence">-LSB- 7 -RSB- 。</segment>
+		<segment id="102" parent="237" relname="same-unit">総じて 言え ば 、</segment>
+		<segment id="103" parent="104" relname="elaboration-attribute">「 支那 趣味 」 を 含め た</segment>
+		<segment id="104" parent="236" relname="span">大正 期 の 「 東洋 趣味 」 に は 少なく とも 以下 の 三 つ の 側面 が 存在 し て いる 。</segment>
+		<segment id="105" parent="248" relname="joint-list">一 つ 目 は 、 木下 が 指摘 し た よう に 、 近代 日本 に おけ る 西洋化 ・ 西洋 文化 の 影響 に 対する アンチテーゼ と いう 面 で ある 。</segment>
+		<segment id="106" parent="243" relname="span">二 つ 目 は 、 西洋 で 生み出さ れ た ジャポニスム ・ シノワズリ が 、 「 日本 」 や 「 支那 」 及び 「 東洋 」 の 再発見 を 促し た と いう 面 で ある 。</segment>
+		<segment id="107" parent="108" relname="mode-means">ジャポニザン たち の まなざし を 通し て</segment>
+		<segment id="108" parent="240" relname="span">江戸 文化 を 見直し た</segment>
+		<segment id="109" parent="241" relname="span">永井 荷風 が その 一 例 で ある</segment>
+		<segment id="110" parent="241" relname="explanation-evidence">-LSB- 8 -RSB- 。</segment>
+		<segment id="111" parent="246" relname="same-unit">最後 に 、</segment>
+		<segment id="112" parent="113" relname="elaboration-attribute">大阪 万博 の 人類 館 事件 が 示す 、</segment>
+		<segment id="113" parent="244" relname="span">帝国主義 的 な 色彩 を 帯び た</segment>
+		<segment id="114" parent="245" relname="span">猟奇的 な 異国 趣味 で ある</segment>
+		<segment id="115" parent="246" relname="explanation-evidence">-LSB- 9 -RSB- 。</segment>
+		<segment id="116" parent="252" relname="same-unit">当時 の 知識人 の 「 支那 趣味 」 は</segment>
+		<segment id="117" parent="118" relname="elaboration-attribute">上記 の 三 つ の 側面 が 混在 する</segment>
+		<segment id="118" parent="250" relname="span">場合 が 多く 、</segment>
+		<segment id="119" parent="251" relname="joint-list">教養 と 風俗 、 浅はか な 装飾性 と 内的 な 精神性 と いっ た 複数 の 矛盾 を 抱え た もの で ある 。</segment>
+		<segment id="120" parent="258" relname="joint-list">端的 に 言え ば 、 日本 に おけ る 「 支那 趣味 」 は 西欧 で 流行 し て い た ジャポニスム と シノワズリ と 同様 に 、 中国 と いう 他者 の 表象 から 自ら に 必要 な インパクト を 得る の が 重要 だっ た の で あり 、</segment>
+		<segment id="121" parent="258" relname="joint-list">その 実情 を 知る こと が プライオリティ で なかっ た の で ある</segment>
+		<segment id="122" parent="258" relname="explanation-evidence">-LSB- 10 -RSB- 。</segment>
+		<segment id="123" parent="272" relname="organization-preparation">次 に 、 訪中 前 の 芥川 の 「 支那 趣味 」 の 様相 を 確認 しよう 。</segment>
+		<segment id="124" parent="264" relname="span">まず 、 漢詩 文 の 摂取 に おい て 、 芥川 自身 の 初期 作風 に 合致 する よう な もの に 偏重 する 傾向 が ある 。</segment>
+		<segment id="125" parent="126" relname="adversative-antithesis">1920 年 の 「 漢詩 漢文 の 面白味 」 で は 、 漢詩 に は 「 大雑把 な 枯淡 の 文字 」 のみ で なく 、</segment>
+		<segment id="126" parent="263" relname="span">「 頗る 細か な 神経 の 働い て ゐる 作品 」 も ある と 説い て いる 。</segment>
+		<segment id="127" parent="265" relname="joint-list">また 、 豪邁 で ダイナミック な 詩作 の 代わり に 、 韓 偓 ・ 杜牧 に よる 繊細 で 優美 な 晩唐 詩 など を 取り上げ 、</segment>
+		<segment id="128" parent="265" relname="joint-list">「 抒情 詩的 な 感情 」 や 「 我々 の 心境 に 合する 」 もの が ある</segment>
+		<segment id="129" parent="265" relname="attribution-positive">と 評価 し て いる</segment>
+		<segment id="130" parent="266" relname="explanation-evidence">-LSB- 11 -RSB- 。</segment>
+		<segment id="131" parent="270" relname="span">次 に 、 谷崎 の 中国 もの を 通し て ロマンチック な 中国 像 を 多く 受容 し て おり 、</segment>
+		<segment id="132" parent="268" relname="span">例えば 「 南京 の 基督 」</segment>
+		<segment id="133" parent="132" relname="elaboration-additional">（ 1920 ）</segment>
+		<segment id="134" parent="269" relname="same-unit">が 谷崎 の 「 秦淮 の 夜 」 から 影響 を 受け た こと は 既に 周知 の 通り で ある</segment>
+		<segment id="135" parent="270" relname="explanation-evidence">-LSB- 12 -RSB- 。</segment>
+		<segment id="136" parent="274" relname="span">芥川 の 「 支那 趣味 」 の 内実 が 最も 表れ て いる の は 、 1920 年 に 書い た 随筆 「 骨董 羹 」 で あろう</segment>
+		<segment id="137" parent="136" relname="explanation-evidence">-LSB- 13 -RSB- 。</segment>
+		<segment id="138" parent="275" relname="mode-means">ここ で は 、 比較 文学 や 比較 文化 の 視点 を 持ち 、</segment>
+		<segment id="139" parent="140" relname="elaboration-attribute">中国 ・ インド ・ 西欧 など の 世界主義 的 な 教養 の 空間 を 融通 無碍 に 往来 する</segment>
+		<segment id="140" parent="275" relname="span">様子 が 描か れ て いる 。</segment>
+		<segment id="141" parent="277" relname="joint-list">冒頭 の 「 別 乾坤 」 と 題する 一節 で 、 フランス の 詩人 や 葛飾 北斎 の 詩画 に おけ る 中国 表象 を 「 支那 に し て 又 支那 に あら ず 」 、</segment>
+		<segment id="142" parent="277" relname="joint-list">「 白日 夢裡 に 逍遥 遊 を 恣 に し たる 別 乾坤 」 と し て 捉え 、</segment>
+		<segment id="143" parent="277" relname="joint-list">その 上 で 「 人生 幸 に この 別 乾坤 あり 」</segment>
+		<segment id="144" parent="277" relname="attribution-positive">と 評し て いる 。</segment>
+		<segment id="145" parent="294" relname="span">しかし 他方 で は 、 その 「 別 乾坤 」 は 既に ある 齟齬 を 内包 し て いる 。</segment>
+		<segment id="146" parent="293" relname="span">その 一 例 に 「 日本 」 と 題する 部分 で の 言及 が ある 。</segment>
+		<segment id="147" parent="281" relname="joint-list">西洋 人 の 日本 趣味 は 時 に 場違い だ と 指摘 し 、</segment>
+		<segment id="148" parent="281" relname="joint-list">「 別 乾坤 」 に も 果たして</segment>
+		<segment id="149" parent="282" relname="restatement-repetition">「 国籍 の 存する 事 」 に 、</segment>
+		<segment id="150" parent="282" relname="restatement-repetition">即ち 他者 表象 と 現実 と の 間 に ずれ が 生じ うる こと に</segment>
+		<segment id="151" parent="284" relname="same-unit">気づい て いる の で ある 。</segment>
+		<segment id="152" parent="289" relname="same-unit">また 結末 で は 、</segment>
+		<segment id="153" parent="154" relname="elaboration-attribute">水滸 伝 を 著し た</segment>
+		<segment id="154" parent="286" relname="span">羅 貫中 が 唖 兒 を 産む と いう 伝説 を 引用 し 、</segment>
+		<segment id="155" parent="287" relname="span">自分 の 骨董 羹 も 冥罰 を 受ける だろう と</segment>
+		<segment id="156" parent="155" relname="attribution-positive">自戒 する 。</segment>
+		<segment id="157" parent="291" relname="adversative-concession">要する に 、 訪中 前 の 芥川 は 「 別 乾坤 」 の 中 の 「 支那 趣味 」 に 安住 しよう と し て い た が 、</segment>
+		<segment id="158" parent="291" relname="same-unit">同時 に 、</segment>
+		<segment id="159" parent="160" relname="elaboration-attribute">現実 から 離れ た</segment>
+		<segment id="160" parent="290" relname="span">他者 表象 の 危う さ を 既に 意識 し て い た と いえよう 。</segment>
+		<group id="161" type="span" parent="162" relname="span"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" parent="169" relname="context-background"/>
+		<group id="164" type="span" parent="12" relname="mode-means"/>
+		<group id="165" type="span" parent="13" relname="elaboration-attribute"/>
+		<group id="166" type="span" parent="167" relname="same-unit"/>
+		<group id="167" type="multinuc" parent="169" relname="span"/>
+		<group id="168" type="span" parent="167" relname="elaboration-additional"/>
+		<group id="169" type="span" parent="177" relname="span"/>
+		<group id="170" type="span" parent="20" relname="mode-means"/>
+		<group id="171" type="span" parent="172" relname="same-unit"/>
+		<group id="172" type="multinuc" parent="176" relname="joint-sequence"/>
+		<group id="173" type="multinuc" parent="24" relname="mode-means"/>
+		<group id="174" type="span" parent="175" relname="same-unit"/>
+		<group id="175" type="multinuc" parent="176" relname="joint-sequence"/>
+		<group id="176" type="multinuc" parent="178" relname="joint-other"/>
+		<group id="177" type="span" parent="178" relname="joint-other"/>
+		<group id="178" type="multinuc" parent="179" relname="span"/>
+		<group id="179" type="span" parent="302" relname="joint-other"/>
+		<group id="180" type="span" parent="28" relname="elaboration-additional"/>
+		<group id="181" type="span" parent="29" relname="context-background"/>
+		<group id="182" type="span" parent="184" relname="adversative-contrast"/>
+		<group id="183" type="multinuc" parent="184" relname="adversative-contrast"/>
+		<group id="184" type="multinuc" parent="211" relname="joint-other"/>
+		<group id="185" type="span" parent="186" relname="same-unit"/>
+		<group id="186" type="multinuc" parent="187" relname="span"/>
+		<group id="187" type="span" parent="188" relname="adversative-concession"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="189" type="span" parent="205" relname="span"/>
+		<group id="190" type="span" parent="199" relname="adversative-contrast"/>
+		<group id="191" type="span" parent="42" relname="elaboration-attribute"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="193" type="span" parent="194" relname="same-unit"/>
+		<group id="194" type="multinuc" parent="199" relname="adversative-contrast"/>
+		<group id="195" type="span" parent="196" relname="joint-list"/>
+		<group id="196" type="multinuc" parent="48" relname="elaboration-attribute"/>
+		<group id="197" type="span" parent="198" relname="span"/>
+		<group id="198" type="span" parent="194" relname="same-unit"/>
+		<group id="199" type="multinuc" parent="189" relname="explanation-evidence"/>
+		<group id="200" type="multinuc" parent="201" relname="span"/>
+		<group id="201" type="span" parent="202" relname="span"/>
+		<group id="202" type="span" parent="206" relname="span"/>
+		<group id="203" type="span" parent="57" relname="adversative-antithesis"/>
+		<group id="204" type="span" parent="209" relname="organization-preparation"/>
+		<group id="205" type="span" parent="202" relname="context-background"/>
+		<group id="206" type="span" parent="211" relname="joint-other"/>
+		<group id="207" type="multinuc" parent="208" relname="same-unit"/>
+		<group id="208" type="multinuc" parent="209" relname="joint-sequence"/>
+		<group id="209" type="multinuc" parent="210" relname="span"/>
+		<group id="210" type="span" parent="211" relname="joint-other"/>
+		<group id="211" type="multinuc" parent="299" relname="organization-preparation"/>
+		<group id="212" type="span" parent="298" relname="organization-heading"/>
+		<group id="213" type="multinuc" parent="261" relname="organization-preparation"/>
+		<group id="214" type="span" parent="215" relname="span"/>
+		<group id="215" type="span" parent="254" relname="span"/>
+		<group id="216" type="multinuc" parent="217" relname="span"/>
+		<group id="217" type="span" parent="253" relname="joint-list"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" parent="253" relname="joint-list"/>
+		<group id="220" type="multinuc" parent="221" relname="same-unit"/>
+		<group id="221" type="multinuc" parent="222" relname="span"/>
+		<group id="222" type="span" parent="79" relname="elaboration-additional"/>
+		<group id="223" type="span" parent="253" relname="joint-list"/>
+		<group id="224" type="span" parent="225" relname="joint-list"/>
+		<group id="225" type="multinuc" parent="226" relname="span"/>
+		<group id="226" type="span" parent="227" relname="span"/>
+		<group id="227" type="span" parent="255" relname="joint-list"/>
+		<group id="229" type="span" parent="231" relname="same-unit"/>
+		<group id="230" type="span" parent="231" relname="same-unit"/>
+		<group id="231" type="multinuc" parent="95" relname="explanation-evidence"/>
+		<group id="232" type="span" parent="255" relname="joint-list"/>
+		<group id="233" type="multinuc" parent="238" relname="same-unit"/>
+		<group id="236" type="span" parent="237" relname="same-unit"/>
+		<group id="237" type="multinuc" parent="248" relname="organization-preparation"/>
+		<group id="238" type="multinuc" parent="239" relname="span"/>
+		<group id="239" type="span" parent="256" relname="span"/>
+		<group id="240" type="span" parent="109" relname="elaboration-attribute"/>
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="242" type="span" parent="106" relname="explanation-evidence"/>
+		<group id="243" type="span" parent="248" relname="joint-list"/>
+		<group id="244" type="span" parent="114" relname="elaboration-additional"/>
+		<group id="245" type="span" parent="246" relname="same-unit"/>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="247" type="span" parent="248" relname="joint-list"/>
+		<group id="248" type="multinuc" parent="249" relname="span"/>
+		<group id="249" type="span" parent="261" relname="joint-other"/>
+		<group id="250" type="span" parent="251" relname="joint-list"/>
+		<group id="251" type="multinuc" parent="252" relname="same-unit"/>
+		<group id="252" type="multinuc" parent="259" relname="context-background"/>
+		<group id="253" type="multinuc" parent="215" relname="elaboration-additional"/>
+		<group id="254" type="span" parent="261" relname="joint-other"/>
+		<group id="255" type="multinuc" parent="239" relname="adversative-concession"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" parent="261" relname="joint-other"/>
+		<group id="258" type="multinuc" parent="259" relname="span"/>
+		<group id="259" type="span" parent="260" relname="span"/>
+		<group id="260" type="span" parent="261" relname="joint-other"/>
+		<group id="261" type="multinuc" parent="262" relname="span"/>
+		<group id="262" type="span" parent="298" relname="joint-other"/>
+		<group id="263" type="span" parent="124" relname="explanation-evidence"/>
+		<group id="264" type="span" parent="272" relname="joint-list"/>
+		<group id="265" type="multinuc" parent="266" relname="span"/>
+		<group id="266" type="span" parent="267" relname="span"/>
+		<group id="267" type="span" parent="272" relname="joint-list"/>
+		<group id="268" type="span" parent="269" relname="same-unit"/>
+		<group id="269" type="multinuc" parent="131" relname="explanation-evidence"/>
+		<group id="270" type="span" parent="271" relname="span"/>
+		<group id="271" type="span" parent="272" relname="joint-list"/>
+		<group id="272" type="multinuc" parent="273" relname="span"/>
+		<group id="273" type="span" parent="296" relname="context-background"/>
+		<group id="274" type="span" parent="280" relname="span"/>
+		<group id="275" type="span" parent="276" relname="span"/>
+		<group id="276" type="span" parent="279" relname="span"/>
+		<group id="277" type="multinuc" parent="278" relname="span"/>
+		<group id="278" type="span" parent="276" relname="explanation-evidence"/>
+		<group id="279" type="span" parent="274" relname="elaboration-additional"/>
+		<group id="280" type="span" parent="295" relname="joint-list"/>
+		<group id="281" type="multinuc" parent="284" relname="mode-means"/>
+		<group id="282" type="multinuc" parent="284" relname="same-unit"/>
+		<group id="284" type="multinuc" parent="285" relname="span"/>
+		<group id="285" type="span" parent="146" relname="elaboration-additional"/>
+		<group id="286" type="span" parent="288" relname="joint-list"/>
+		<group id="287" type="span" parent="288" relname="joint-list"/>
+		<group id="288" type="multinuc" parent="289" relname="same-unit"/>
+		<group id="289" type="multinuc" parent="295" relname="joint-list"/>
+		<group id="290" type="span" parent="291" relname="same-unit"/>
+		<group id="291" type="multinuc" parent="292" relname="span"/>
+		<group id="292" type="span" parent="296" relname="span"/>
+		<group id="293" type="span" parent="145" relname="explanation-evidence"/>
+		<group id="294" type="span" parent="295" relname="joint-list"/>
+		<group id="295" type="multinuc" parent="292" relname="context-background"/>
+		<group id="296" type="span" parent="297" relname="span"/>
+		<group id="297" type="span" parent="298" relname="joint-other"/>
+		<group id="298" type="multinuc" parent="299" relname="span"/>
+		<group id="299" type="span" parent="300" relname="span"/>
+		<group id="300" type="span" parent="301" relname="span"/>
+		<group id="301" type="span" parent="302" relname="joint-other"/>
+		<group id="302" type="multinuc" parent="304" relname="span"/>
+		<group id="303" type="span" parent="304" relname="organization-heading"/>
+		<group id="304" type="span" parent="305" relname="span"/>
+		<group id="305" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,433 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="339" relname="organization-heading">生涯</segment>
+		<segment id="2" parent="227" relname="organization-heading">出生 から 少女時代</segment>
+		<segment id="3" parent="362" relname="span">一葉 は 1872 年 5 月 2 日</segment>
+		<segment id="4" parent="3" relname="elaboration-additional">（ 旧暦 明治 5 年 3 月 25 日 ）</segment>
+		<segment id="5" parent="363" relname="span">、 東京 府 第 二 大区 一 小区 内 山下町 一 丁目 一番 屋敷</segment>
+		<segment id="6" parent="5" relname="elaboration-additional">（ 現在 の 東京都千代田区内幸町 ）</segment>
+		<segment id="7" parent="364" relname="span">の 東京 府庁 構内 官舎</segment>
+		<segment id="8" parent="7" relname="elaboration-additional">（ 長屋 ）</segment>
+		<segment id="9" parent="365" relname="span">で 、 東京 府 下級 役人 の 樋口 則 義 と 多喜</segment>
+		<segment id="10" parent="9" relname="elaboration-additional">（ 旧姓 ・ 古屋 ）</segment>
+		<segment id="11" parent="367" relname="same-unit">の 次女 と し て 誕生 し た</segment>
+		<segment id="12" parent="341" relname="joint-list">-LSB- 3 -RSB-</segment>
+		<segment id="13" parent="341" relname="joint-list">-LSB- 2 -RSB- 。</segment>
+		<segment id="14" parent="369" relname="adversative-antithesis">姉 の ふじ 、 兄 に 泉太郎 、 虎之介 が おり 、</segment>
+		<segment id="15" parent="368" relname="span">一 葉 誕生 の 翌々年 に 妹 くに</segment>
+		<segment id="16" parent="15" relname="elaboration-additional">（ 邦子 ）</segment>
+		<segment id="17" parent="369" relname="same-unit">が 生まれ た</segment>
+		<segment id="18" parent="343" relname="joint-list">-LSB- 4 -RSB-</segment>
+		<segment id="19" parent="343" relname="joint-list">-LSB- 5 -RSB- 。</segment>
+		<segment id="20" parent="212" relname="same-unit">幼児期 から 利発 で</segment>
+		<segment id="21" parent="22" relname="elaboration-attribute">言葉 が 出る</segment>
+		<segment id="22" parent="211" relname="span">の も 早く 物覚え が よかっ た と いう</segment>
+		<segment id="23" parent="212" relname="explanation-evidence">-LSB- 6 -RSB- 。</segment>
+		<segment id="24" parent="371" relname="span">1877 年</segment>
+		<segment id="25" parent="24" relname="elaboration-additional">（ 明治 10 年 ）</segment>
+		<segment id="26" parent="370" relname="same-unit">、 満 4 歳 10 か月 で 公立 本郷 小学校 に 入学 する が 、</segment>
+		<segment id="27" parent="216" relname="joint-sequence">幼少 の ため に ほど なく 退学 し 、</segment>
+		<segment id="28" parent="214" relname="same-unit">半年 後 、</segment>
+		<segment id="29" parent="30" relname="elaboration-attribute">吉川 富吉 が 始め た</segment>
+		<segment id="30" parent="213" relname="span">私立 吉川 学校 に 入学 し た</segment>
+		<segment id="31" parent="217" relname="explanation-evidence">-LSB- 7 -RSB- 。</segment>
+		<segment id="32" parent="218" relname="attribution-positive">一 葉 の 日記 『 塵 之 中 』 に よれ ば 、</segment>
+		<segment id="33" parent="218" relname="joint-list">幼少 時代 は 手毬 や 羽根 つき など 同年代 の 子供 の 遊び に 興味 が なく 、</segment>
+		<segment id="34" parent="218" relname="joint-list">読書 を 好み</segment>
+		<segment id="35" parent="218" relname="joint-list">草双紙 の 類い を 読み耽っ て い た 。</segment>
+		<segment id="36" parent="220" relname="span">曲亭 馬琴 『 南総 里見 八 犬 伝 』 を 3 日 で 読破 し た</segment>
+		<segment id="37" parent="36" relname="attribution-positive">と も 伝え られ て いる</segment>
+		<segment id="38" parent="220" relname="explanation-evidence">-LSB- 8 -RSB- 。</segment>
+		<segment id="39" parent="373" relname="span">1881 年</segment>
+		<segment id="40" parent="39" relname="elaboration-additional">（ 明治 14 年 ） 、</segment>
+		<segment id="41" parent="42" relname="elaboration-attribute">素行 が 悪く 金銭 問題 など を 起こし て い た</segment>
+		<segment id="42" parent="221" relname="span">次兄 の 虎之助 が 分家 し 、</segment>
+		<segment id="43" parent="44" relname="mode-manner">陶器 絵付 師 に 弟子 入り する と いう 形 で</segment>
+		<segment id="44" parent="228" relname="span">勘当 さ れる</segment>
+		<segment id="45" parent="229" relname="explanation-evidence">-LSB- 9 -RSB- 。</segment>
+		<segment id="46" parent="231" relname="same-unit">同年 に は</segment>
+		<segment id="47" parent="48" relname="causal-cause">同じ 東京 府 内 の 下谷 区 御徒町 へ 移っ た ため 、</segment>
+		<segment id="48" parent="230" relname="span">11 月 に 上野 元 黒門町 の 私立 青海 学校 に 転校 する 。</segment>
+		<segment id="49" parent="235" relname="joint-other">ここ で 初めて 和歌 を 習う 。</segment>
+		<segment id="50" parent="375" relname="span">1883 年</segment>
+		<segment id="51" parent="50" relname="elaboration-additional">（ 明治 16 年 ）</segment>
+		<segment id="52" parent="374" relname="same-unit">12 月 、 高等科 第 四 級 を 首席 で 卒業 する も 、</segment>
+		<segment id="53" parent="232" relname="span">上級 に 進ま ず に 退学 し た 。</segment>
+		<segment id="54" parent="233" relname="same-unit">これ は 母 ・ 多喜 が 、</segment>
+		<segment id="55" parent="272" relname="span">女性 に 学業 は 不要 だ と</segment>
+		<segment id="56" parent="55" relname="attribution-positive">考え て い た から だ と いう</segment>
+		<segment id="57" parent="233" relname="explanation-evidence">-LSB- 7 -RSB- -LSB- 10 -RSB- 。</segment>
+		<segment id="58" parent="285" relname="organization-heading">「 萩 の 舎 」 に 入門</segment>
+		<segment id="59" parent="238" relname="purpose-goal">一方 、 父 ・ 則 義 は 向学心 やま ない 娘 の ため 、</segment>
+		<segment id="60" parent="238" relname="same-unit">知人 の 旧 幕臣 で 、</segment>
+		<segment id="61" parent="62" relname="elaboration-attribute">神田 神社 や 芝 大神宮 の 祠 掌 を 務め た</segment>
+		<segment id="62" parent="237" relname="span">和田 重雄 の 下 で 和歌 を 習わせ た 。</segment>
+		<segment id="63" parent="376" relname="span">1886 年</segment>
+		<segment id="64" parent="63" relname="elaboration-additional">（ 明治 19 年 ） 、</segment>
+		<segment id="65" parent="378" relname="elaboration-attribute">父 の 旧幕 時代 の 知人 で ある</segment>
+		<segment id="66" parent="377" relname="span">医師 の 遠田 澄 庵 の 紹介 で 、 中島 歌子 の 歌 塾 「 萩 の 舎 」</segment>
+		<segment id="67" parent="66" relname="elaboration-additional">（ はぎ の や ）</segment>
+		<segment id="68" parent="378" relname="same-unit">に 入門 。</segment>
+		<segment id="69" parent="241" relname="span">ここ で は 和歌 の ほか 千蔭 流 の 書 や 王朝 文学 の 講読 を 学ん だ 。</segment>
+		<segment id="70" parent="245" relname="same-unit">萩 の 舎 は 当時 、</segment>
+		<segment id="71" parent="243" relname="joint-list">公家 ・ 旧 大名 など の 旧体制 名家 、 明治 政府 の 政治家 ・ 軍人 の 夫人 や 令嬢 ら が 通い 、</segment>
+		<segment id="72" parent="243" relname="joint-list">門人 は 千 人 を 超える</segment>
+		<segment id="73" parent="244" relname="span">歌 塾 だっ た</segment>
+		<segment id="74" parent="245" relname="explanation-evidence">-LSB- 11 -RSB- 。</segment>
+		<segment id="75" parent="76" relname="adversative-concession">士族 と は いえ</segment>
+		<segment id="76" parent="281" relname="span">下級 役人 の 娘 だっ た 一 葉 は 平民 の 伊東 夏子 や 田中 み の 子 と 仲良く なり 「 平民 三 人組 」 と 称し た 。</segment>
+		<segment id="77" parent="247" relname="same-unit">入門 の 翌年 、</segment>
+		<segment id="78" parent="79" relname="elaboration-attribute">二 月 に 行わ れる</segment>
+		<segment id="79" parent="246" relname="span">新春 恒例 の 発会 が 近づく と 、</segment>
+		<segment id="80" parent="249" relname="same-unit">令嬢 たち の 晴れ着 の 話題 など 、 着物 の 話 は とても</segment>
+		<segment id="81" parent="82" relname="elaboration-attribute">下級 官吏 の 娘 が 競える</segment>
+		<segment id="82" parent="248" relname="span">内容 で は なかっ た 。</segment>
+		<segment id="83" parent="253" relname="same-unit">一葉 は</segment>
+		<segment id="84" parent="251" relname="adversative-concession">気おくれ し ながら も</segment>
+		<segment id="85" parent="86" relname="elaboration-attribute">親 が 借り て き た</segment>
+		<segment id="86" parent="251" relname="span">古着 で 出席 し た 。</segment>
+		<segment id="87" parent="350" relname="span">この 発会 の 歌会 で 一 葉 は 最高 点 を 取っ て いる</segment>
+		<segment id="88" parent="87" relname="explanation-evidence">-LSB- 12 -RSB- 。</segment>
+		<segment id="89" parent="258" relname="same-unit">佐佐木 信綱 は 回想録 『 明治 大正 昭和 の 人々 』 の 中 で 、</segment>
+		<segment id="90" parent="91" relname="elaboration-attribute">自身 が 参加 し た</segment>
+		<segment id="91" parent="254" relname="span">「 萩 の 舎 」 歌会 に おい て 、</segment>
+		<segment id="92" parent="255" relname="joint-sequence">一葉 が 「 歌会 の 席 の 次の間 で 、 机 の 前 に 坐 つ て 、</segment>
+		<segment id="93" parent="255" relname="joint-sequence">競 点 の 歌 の あつ まつ た の や 、 当座 の 歌合 の 巻 の 清書 など を し て 、</segment>
+		<segment id="94" parent="255" relname="joint-sequence">披講 の 始まる</segment>
+		<segment id="95" parent="255" relname="joint-sequence">頃 から 席上 に 出 た 」 と 、</segment>
+		<segment id="96" parent="257" relname="span">その 実見 談 を 記し て いる</segment>
+		<segment id="97" parent="351" relname="joint-list">-LSB- 13 -RSB-</segment>
+		<segment id="98" parent="351" relname="joint-list">-LSB- 14 -RSB- 。</segment>
+		<segment id="99" parent="379" relname="elaboration-attribute">名家 の 令嬢 で あっ た</segment>
+		<segment id="100" parent="379" relname="span">田辺 花圃</segment>
+		<segment id="101" parent="100" relname="elaboration-additional">（ 本名 ・ 龍子 ）</segment>
+		<segment id="102" parent="380" relname="same-unit">は 『 思い出 の 人々 』 と いう 自伝 の 中 で 、</segment>
+		<segment id="103" parent="260" relname="context-circumstance">「 萩 の 舎 」 の 月例会 で 、 友人 と 床の間 の 前 で 寿司 の 配膳 を 待ち ながら</segment>
+		<segment id="104" parent="105" relname="elaboration-attribute">「 清風 徐ろに 吹 来つ て 水波 起ら ず 」 と いう</segment>
+		<segment id="105" parent="260" relname="span">『 赤壁 賦 』 の 一節 を 読み上げ て い たら 、</segment>
+		<segment id="106" parent="107" relname="elaboration-attribute">給仕 を し て い た</segment>
+		<segment id="107" parent="261" relname="span">猫背 の 女 が 「 酒 を 挙げ て 客 に 属し 、 明月 の 詩 を 誦し 窈窕 の 章 を 歌 ふ 」 と 口ずさん だ の に 気付い て 、</segment>
+		<segment id="108" parent="109" relname="organization-phatic">「 なん だ 、</segment>
+		<segment id="109" parent="262" relname="span">生意気 な 女 」 と</segment>
+		<segment id="110" parent="262" relname="attribution-positive">思っ て い たら 、</segment>
+		<segment id="111" parent="299" relname="span">それ が 一 葉 で 、 先生 から 「 特別 に 目 を かけ て あげ て ほしい 」 と</segment>
+		<segment id="112" parent="111" relname="attribution-positive">言わ れ て</segment>
+		<segment id="113" parent="265" relname="span">紹介 さ れ た と 、</segment>
+		<segment id="114" parent="115" relname="elaboration-attribute">初めて 一 葉 と 会っ た</segment>
+		<segment id="115" parent="268" relname="span">とき の エピソード を 紹介 し 、</segment>
+		<segment id="116" parent="266" relname="elaboration-attribute">一葉 は 女中 と 内 弟子 を 兼ね た</segment>
+		<segment id="117" parent="118" relname="elaboration-attribute">働く</segment>
+		<segment id="118" parent="266" relname="span">人 の よう だっ た と</segment>
+		<segment id="119" parent="267" relname="attribution-positive">書い て いる</segment>
+		<segment id="120" parent="121" relname="context-background">（ この とき 一 葉 15 歳 、 花 圃 18 歳 。</segment>
+		<segment id="121" parent="273" relname="span">のち に 2人 は 萩 の 舎 の 二 才媛 と 呼ば れ た ）</segment>
+		<segment id="122" parent="273" relname="explanation-evidence">-LSB- 15 -RSB- 。</segment>
+		<segment id="123" parent="124" relname="elaboration-attribute">この よう に 入門 当初 は 才気 煥発 な ところ を 見せ て い た</segment>
+		<segment id="124" parent="275" relname="span">一 葉 だっ た が 、</segment>
+		<segment id="125" parent="277" relname="causal-cause">周囲 と の 格差 から 次第 に 内向的 に なり</segment>
+		<segment id="126" parent="276" relname="span">「 もの つつみ の 君 」 と</segment>
+		<segment id="127" parent="126" relname="attribution-positive">呼ば れる</segment>
+		<segment id="128" parent="277" relname="span">よう に なっ た</segment>
+		<segment id="129" parent="354" relname="explanation-evidence">-LSB- 16 -RSB- 。</segment>
+		<segment id="130" parent="337" relname="organization-heading">兄 と 父 の 死 、 生活苦</segment>
+		<segment id="131" parent="132" relname="adversative-antithesis">本郷 菊坂町 の 旧居 跡 付近 に 残る</segment>
+		<segment id="132" parent="287" relname="span">「 一 葉 の 井戸 」</segment>
+		<segment id="133" parent="288" relname="span">樋口 家 の 戸主 で あっ た</segment>
+		<segment id="134" parent="381" relname="span">長男 の 泉太郎 は 、 1885 年</segment>
+		<segment id="135" parent="134" relname="elaboration-additional">（ 明治 18 年 ）</segment>
+		<segment id="136" parent="382" relname="span">に 明治 法律 学校</segment>
+		<segment id="137" parent="136" relname="elaboration-additional">（ 明治大学 の 前身 ）</segment>
+		<segment id="138" parent="383" relname="same-unit">に 入学 し た が</segment>
+		<segment id="139" parent="384" relname="span">1887 年</segment>
+		<segment id="140" parent="139" relname="elaboration-additional">（ 明治 20 年 ）</segment>
+		<segment id="141" parent="385" relname="same-unit">に 退学 。</segment>
+		<segment id="142" parent="143" relname="mode-means">その 後 、 則 義 の 知人 の 紹介 で</segment>
+		<segment id="143" parent="291" relname="span">大蔵省 出納局 に 勤務 し て い た が 、</segment>
+		<segment id="144" parent="292" relname="span">12 月 27 日 、 肺結核 で 死去 し た</segment>
+		<segment id="145" parent="292" relname="explanation-evidence">-LSB- 17 -RSB- 。</segment>
+		<segment id="146" parent="294" relname="span">一葉 は 父 を 後見 に 相続 戸主 と なる 。</segment>
+		<segment id="147" parent="386" relname="span">1889 年</segment>
+		<segment id="148" parent="147" relname="elaboration-additional">（ 明治 22 年 ）</segment>
+		<segment id="149" parent="387" relname="same-unit">、 警視 庁 を 退職 し た</segment>
+		<segment id="150" parent="295" relname="span">則 義 は</segment>
+		<segment id="151" parent="152" relname="elaboration-attribute">家屋敷 を 売っ た</segment>
+		<segment id="152" parent="296" relname="span">金 を 注ぎ込み 荷車 請負業 組合 設立 の 事業 に 参画 する が 、</segment>
+		<segment id="153" parent="154" relname="context-circumstance">出資金 を 騙し取ら れ て</segment>
+		<segment id="154" parent="300" relname="span">失敗 し 、</segment>
+		<segment id="155" parent="301" relname="joint-list">負債 を 残し て</segment>
+		<segment id="156" parent="303" relname="span">同年 7 月 に 死去 する</segment>
+		<segment id="157" parent="304" relname="explanation-evidence">-LSB- 18 -RSB- 。</segment>
+		<segment id="158" parent="306" relname="same-unit">一葉 は 17 歳 で</segment>
+		<segment id="159" parent="160" relname="elaboration-attribute">樋口 家 を 背負う</segment>
+		<segment id="160" parent="305" relname="span">こと に なっ た 。</segment>
+		<segment id="161" parent="310" relname="same-unit">一 葉 に は</segment>
+		<segment id="162" parent="163" relname="elaboration-attribute">渋谷 三郎 と いう</segment>
+		<segment id="163" parent="308" relname="span">許婚 が い た が 、</segment>
+		<segment id="164" parent="309" relname="span">則 義 の 死後 に 婚約 は 解消 さ れる 。</segment>
+		<segment id="165" parent="312" relname="same-unit">渋谷 は 一 葉 の 父 ・ 則 義 と 同郷 で</segment>
+		<segment id="166" parent="388" relname="elaboration-attribute">上京 後 の 則 義 を 支援 し た</segment>
+		<segment id="167" parent="388" relname="span">真下 晩 菘 の 妾腹 の 孫</segment>
+		<segment id="168" parent="167" relname="elaboration-additional">（ 政治 結社 「 融 貫 社 」 の 渋谷 仙次郎 の 子 ）</segment>
+		<segment id="169" parent="312" relname="same-unit">で 、 自由 民権 運動 の 活動家 で 自由 党員 で も あり 、</segment>
+		<segment id="170" parent="389" relname="span">当時 は 東京 専門学校</segment>
+		<segment id="171" parent="170" relname="elaboration-additional">（ 早稲田大学 の 前身 ）</segment>
+		<segment id="172" parent="390" relname="same-unit">の 法科 で 学ん で い た 。</segment>
+		<segment id="173" parent="174" relname="elaboration-attribute">高等 文官 試験 を めざし て い た</segment>
+		<segment id="174" parent="314" relname="span">渋谷 が 、 則 義 の 死後 、 学費 や 生活費 の 保証 を 求め た</segment>
+		<segment id="175" parent="315" relname="span">こと が 母 ・ 多喜 の 怒り を かっ た と</segment>
+		<segment id="176" parent="315" relname="attribution-positive">推測 さ れ て いる 。</segment>
+		<segment id="177" parent="317" relname="joint-sequence">その 後 、 渋谷 は 高等 文官 試験 に 合格 し 、</segment>
+		<segment id="178" parent="317" relname="joint-sequence">新潟県 の 裁判所 司法官 試補 など を 経 て 、</segment>
+		<segment id="179" parent="317" relname="joint-sequence">月俸 50 円 の 検事 と なり 、</segment>
+		<segment id="180" parent="181" relname="mode-manner">人 を 通じ て</segment>
+		<segment id="181" parent="318" relname="span">一 葉 と 復縁 しよう と し て</segment>
+		<segment id="182" parent="319" relname="span">再び 多喜 を 怒ら せ て いる</segment>
+		<segment id="183" parent="317" relname="explanation-evidence">-LSB- 19 -RSB- 。</segment>
+		<segment id="184" parent="320" relname="adversative-concession">樋口 家 は 次男 の 虎之助 を 頼っ た が 、</segment>
+		<segment id="185" parent="358" relname="span">母 と 虎之助 の 折り合い が 悪く</segment>
+		<segment id="186" parent="185" relname="explanation-evidence">-LSB- 20 -RSB- 、</segment>
+		<segment id="187" parent="391" relname="span">1890 年</segment>
+		<segment id="188" parent="187" relname="elaboration-additional">（ 明治 23 年 ）</segment>
+		<segment id="189" parent="392" relname="same-unit">に は 一 葉 が 萩 の 舎 の 内弟子 と し て 中島 家 に 住み込む 。</segment>
+		<segment id="190" parent="191" relname="causal-cause">しかし 歌 塾 の 手伝い だけ で なく 女中 の よう な 勝手 仕事 まで さ せ られ た ため</segment>
+		<segment id="191" parent="322" relname="span">5 か月 で 辞める 。</segment>
+		<segment id="192" parent="332" relname="same-unit">同年 9 月 に は 、</segment>
+		<segment id="193" parent="359" relname="span">家賃 の 安い 借家 へ 移ろう と</segment>
+		<segment id="194" parent="193" relname="explanation-evidence">-LSB- 21 -RSB-</segment>
+		<segment id="195" parent="393" relname="span">本郷 菊坂</segment>
+		<segment id="196" parent="195" relname="elaboration-additional">（ 現在 の 東京都文京区 ）</segment>
+		<segment id="197" parent="394" relname="same-unit">に 引っ越し 、</segment>
+		<segment id="198" parent="326" relname="span">母 と 妹 と 3 人 で の 針仕事 や 洗い張り 、 下駄 の 蝉 表</segment>
+		<segment id="199" parent="325" relname="joint-list">（ せみ おもて 。</segment>
+		<segment id="200" parent="325" relname="joint-list">細い 籐 を 編ん だ もの 。</segment>
+		<segment id="201" parent="325" relname="joint-list">夏用 の 駒下駄 の 表 に 張る の に 使う ）</segment>
+		<segment id="202" parent="327" relname="same-unit">作り など の 賃仕事 を する が 、</segment>
+		<segment id="203" parent="329" relname="span">それ だけ で は 足り ず 、</segment>
+		<segment id="204" parent="205" relname="elaboration-attribute">方々 に 借金 を 繰り返す</segment>
+		<segment id="205" parent="330" relname="span">苦しい 生活 を 強い られる</segment>
+		<segment id="206" parent="331" relname="explanation-evidence">-LSB- 22 -RSB- 。</segment>
+		<segment id="207" parent="208" relname="elaboration-attribute">建物 が 現存 する</segment>
+		<segment id="208" parent="333" relname="span">旧 伊勢屋 質店 に 通う</segment>
+		<segment id="209" parent="334" relname="span">こと も しばしば で あっ た</segment>
+		<segment id="210" parent="334" relname="explanation-evidence">-LSB- 21 -RSB- 。</segment>
+		<group id="211" type="span" parent="212" relname="same-unit"/>
+		<group id="212" type="multinuc" parent="345" relname="span"/>
+		<group id="213" type="span" parent="214" relname="same-unit"/>
+		<group id="214" type="multinuc" parent="216" relname="joint-sequence"/>
+		<group id="215" type="span" parent="344" relname="span"/>
+		<group id="216" type="multinuc" parent="217" relname="span"/>
+		<group id="217" type="span" parent="346" relname="span"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" parent="223" relname="span"/>
+		<group id="220" type="span" parent="372" relname="span"/>
+		<group id="221" type="span" parent="222" relname="same-unit"/>
+		<group id="222" type="multinuc" parent="229" relname="joint-sequence"/>
+		<group id="223" type="span" parent="225" relname="joint-other"/>
+		<group id="224" type="multinuc" parent="226" relname="joint-other"/>
+		<group id="225" type="multinuc" parent="227" relname="joint-sequence"/>
+		<group id="226" type="multinuc" parent="227" relname="joint-sequence"/>
+		<group id="227" type="multinuc" parent="236" relname="span"/>
+		<group id="228" type="span" parent="229" relname="joint-sequence"/>
+		<group id="229" type="multinuc" parent="347" relname="span"/>
+		<group id="230" type="span" parent="231" relname="same-unit"/>
+		<group id="231" type="multinuc" parent="235" relname="joint-other"/>
+		<group id="232" type="span" parent="234" relname="span"/>
+		<group id="233" type="multinuc" parent="348" relname="span"/>
+		<group id="234" type="span" parent="227" relname="joint-sequence"/>
+		<group id="235" type="multinuc" parent="227" relname="joint-sequence"/>
+		<group id="236" type="span" parent="339" relname="joint-sequence"/>
+		<group id="237" type="span" parent="238" relname="same-unit"/>
+		<group id="238" type="multinuc" parent="242" relname="span"/>
+		<group id="239" type="span" parent="240" relname="same-unit"/>
+		<group id="240" type="multinuc" parent="69" relname="context-background"/>
+		<group id="241" type="span" parent="280" relname="span"/>
+		<group id="242" type="span" parent="285" relname="joint-other"/>
+		<group id="243" type="multinuc" parent="73" relname="elaboration-attribute"/>
+		<group id="244" type="span" parent="245" relname="same-unit"/>
+		<group id="245" type="multinuc" parent="349" relname="span"/>
+		<group id="246" type="span" parent="247" relname="same-unit"/>
+		<group id="247" type="multinuc" parent="249" relname="context-circumstance"/>
+		<group id="248" type="span" parent="249" relname="same-unit"/>
+		<group id="249" type="multinuc" parent="250" relname="span"/>
+		<group id="250" type="span" parent="253" relname="context-background"/>
+		<group id="251" type="span" parent="252" relname="span"/>
+		<group id="252" type="span" parent="253" relname="same-unit"/>
+		<group id="253" type="multinuc" parent="283" relname="span"/>
+		<group id="254" type="span" parent="255" relname="context-circumstance"/>
+		<group id="255" type="multinuc" parent="256" relname="span"/>
+		<group id="256" type="span" parent="96" relname="elaboration-attribute"/>
+		<group id="257" type="span" parent="258" relname="same-unit"/>
+		<group id="258" type="multinuc" parent="352" relname="span"/>
+		<group id="259" type="span" parent="380" relname="same-unit"/>
+		<group id="260" type="span" parent="264" relname="span"/>
+		<group id="261" type="span" parent="297" relname="context-circumstance"/>
+		<group id="262" type="span" parent="297" relname="span"/>
+		<group id="263" type="multinuc" parent="268" relname="elaboration-additional"/>
+		<group id="264" type="span" parent="263" relname="joint-sequence"/>
+		<group id="265" type="span" parent="263" relname="joint-sequence"/>
+		<group id="266" type="span" parent="267" relname="span"/>
+		<group id="267" type="span" parent="270" relname="span"/>
+		<group id="268" type="span" parent="269" relname="span"/>
+		<group id="269" type="span" parent="271" relname="joint-list"/>
+		<group id="270" type="span" parent="271" relname="joint-list"/>
+		<group id="271" type="multinuc" parent="274" relname="same-unit"/>
+		<group id="272" type="span" parent="233" relname="same-unit"/>
+		<group id="273" type="span" parent="353" relname="span"/>
+		<group id="274" type="multinuc" parent="282" relname="span"/>
+		<group id="275" type="span" parent="278" relname="adversative-concession"/>
+		<group id="276" type="span" parent="128" relname="elaboration-attribute"/>
+		<group id="277" type="span" parent="278" relname="span"/>
+		<group id="278" type="span" parent="354" relname="span"/>
+		<group id="279" type="span" parent="285" relname="joint-other"/>
+		<group id="280" type="span" parent="285" relname="joint-other"/>
+		<group id="281" type="span" parent="285" relname="joint-other"/>
+		<group id="282" type="span" parent="285" relname="joint-other"/>
+		<group id="283" type="span" parent="350" relname="context-background"/>
+		<group id="284" type="span" parent="285" relname="joint-other"/>
+		<group id="285" type="multinuc" parent="286" relname="span"/>
+		<group id="286" type="span" parent="339" relname="joint-sequence"/>
+		<group id="287" type="span" parent="133" relname="context-background"/>
+		<group id="288" type="span" parent="383" relname="elaboration-attribute"/>
+		<group id="289" type="span" parent="385" relname="adversative-concession"/>
+		<group id="290" type="span" parent="293" relname="joint-sequence"/>
+		<group id="291" type="span" parent="144" relname="adversative-concession"/>
+		<group id="292" type="span" parent="355" relname="span"/>
+		<group id="293" type="multinuc" parent="146" relname="context-background"/>
+		<group id="294" type="span" parent="337" relname="joint-sequence"/>
+		<group id="295" type="span" parent="304" relname="same-unit"/>
+		<group id="296" type="span" parent="301" relname="adversative-concession"/>
+		<group id="297" type="span" parent="298" relname="span"/>
+		<group id="298" type="span" parent="263" relname="joint-sequence"/>
+		<group id="299" type="span" parent="113" relname="context-circumstance"/>
+		<group id="300" type="span" parent="301" relname="joint-list"/>
+		<group id="301" type="multinuc" parent="302" relname="span"/>
+		<group id="302" type="span" parent="156" relname="context-circumstance"/>
+		<group id="303" type="span" parent="304" relname="same-unit"/>
+		<group id="304" type="multinuc" parent="356" relname="span"/>
+		<group id="305" type="span" parent="306" relname="same-unit"/>
+		<group id="306" type="multinuc" parent="356" relname="causal-result"/>
+		<group id="307" type="span" parent="337" relname="joint-sequence"/>
+		<group id="308" type="span" parent="164" relname="adversative-concession"/>
+		<group id="309" type="span" parent="310" relname="same-unit"/>
+		<group id="310" type="multinuc" parent="335" relname="joint-other"/>
+		<group id="311" type="span" parent="312" relname="same-unit"/>
+		<group id="312" type="multinuc" parent="390" relname="context-background"/>
+		<group id="313" type="span" parent="335" relname="joint-other"/>
+		<group id="314" type="span" parent="175" relname="elaboration-attribute"/>
+		<group id="315" type="span" parent="316" relname="span"/>
+		<group id="316" type="span" parent="335" relname="joint-other"/>
+		<group id="317" type="multinuc" parent="357" relname="span"/>
+		<group id="318" type="span" parent="182" relname="causal-cause"/>
+		<group id="319" type="span" parent="317" relname="joint-sequence"/>
+		<group id="320" type="span" parent="321" relname="span"/>
+		<group id="321" type="span" parent="322" relname="adversative-concession"/>
+		<group id="322" type="span" parent="323" relname="span"/>
+		<group id="323" type="span" parent="337" relname="joint-sequence"/>
+		<group id="324" type="span" parent="328" relname="joint-sequence"/>
+		<group id="325" type="multinuc" parent="198" relname="elaboration-additional"/>
+		<group id="326" type="span" parent="327" relname="same-unit"/>
+		<group id="327" type="multinuc" parent="328" relname="joint-sequence"/>
+		<group id="328" type="multinuc" parent="203" relname="adversative-concession"/>
+		<group id="329" type="span" parent="330" relname="causal-cause"/>
+		<group id="330" type="span" parent="331" relname="span"/>
+		<group id="331" type="span" parent="360" relname="span"/>
+		<group id="332" type="multinuc" parent="337" relname="joint-sequence"/>
+		<group id="333" type="span" parent="209" relname="elaboration-attribute"/>
+		<group id="334" type="span" parent="361" relname="span"/>
+		<group id="335" type="multinuc" parent="337" relname="joint-sequence"/>
+		<group id="336" type="span" parent="332" relname="same-unit"/>
+		<group id="337" type="multinuc" parent="338" relname="span"/>
+		<group id="338" type="span" parent="339" relname="joint-sequence"/>
+		<group id="339" type="multinuc" parent="340" relname="span"/>
+		<group id="340" type="span" />
+		<group id="341" type="multinuc" parent="367" relname="explanation-evidence"/>
+		<group id="342" type="span" parent="224" relname="joint-sequence"/>
+		<group id="343" type="multinuc" parent="215" relname="explanation-evidence"/>
+		<group id="344" type="span" parent="224" relname="joint-sequence"/>
+		<group id="345" type="span" parent="226" relname="joint-other"/>
+		<group id="346" type="span" parent="225" relname="joint-other"/>
+		<group id="347" type="span" parent="227" relname="joint-sequence"/>
+		<group id="348" type="span" parent="232" relname="causal-cause"/>
+		<group id="349" type="span" parent="241" relname="context-background"/>
+		<group id="350" type="span" parent="284" relname="span"/>
+		<group id="351" type="multinuc" parent="258" relname="explanation-evidence"/>
+		<group id="352" type="span" parent="285" relname="joint-other"/>
+		<group id="353" type="span" parent="274" relname="context-background"/>
+		<group id="354" type="span" parent="279" relname="span"/>
+		<group id="355" type="span" parent="293" relname="joint-sequence"/>
+		<group id="356" type="span" parent="307" relname="span"/>
+		<group id="357" type="span" parent="335" relname="joint-other"/>
+		<group id="358" type="span" parent="392" relname="causal-cause"/>
+		<group id="359" type="span" parent="394" relname="purpose-goal"/>
+		<group id="360" type="span" parent="336" relname="span"/>
+		<group id="361" type="span" parent="360" relname="context-background"/>
+		<group id="362" type="span" parent="367" relname="same-unit"/>
+		<group id="363" type="span" parent="367" relname="same-unit"/>
+		<group id="364" type="span" parent="367" relname="same-unit"/>
+		<group id="365" type="span" parent="367" relname="same-unit"/>
+		<group id="367" type="multinuc" parent="342" relname="span"/>
+		<group id="368" type="span" parent="369" relname="same-unit"/>
+		<group id="369" type="multinuc" parent="215" relname="span"/>
+		<group id="370" type="multinuc" parent="216" relname="adversative-concession"/>
+		<group id="371" type="span" parent="370" relname="same-unit"/>
+		<group id="372" type="span" parent="219" relname="explanation-justify"/>
+		<group id="373" type="span" parent="222" relname="same-unit"/>
+		<group id="374" type="multinuc" parent="53" relname="adversative-concession"/>
+		<group id="375" type="span" parent="374" relname="same-unit"/>
+		<group id="376" type="span" parent="240" relname="same-unit"/>
+		<group id="377" type="span" parent="378" relname="same-unit"/>
+		<group id="378" type="multinuc" parent="239" relname="span"/>
+		<group id="379" type="span" parent="259" relname="span"/>
+		<group id="380" type="multinuc" parent="274" relname="same-unit"/>
+		<group id="381" type="span" parent="383" relname="same-unit"/>
+		<group id="382" type="span" parent="383" relname="same-unit"/>
+		<group id="383" type="multinuc" parent="289" relname="span"/>
+		<group id="384" type="span" parent="385" relname="same-unit"/>
+		<group id="385" type="multinuc" parent="290" relname="span"/>
+		<group id="386" type="span" parent="387" relname="same-unit"/>
+		<group id="387" type="multinuc" parent="150" relname="elaboration-attribute"/>
+		<group id="388" type="span" parent="311" relname="span"/>
+		<group id="389" type="span" parent="390" relname="same-unit"/>
+		<group id="390" type="multinuc" parent="313" relname="span"/>
+		<group id="391" type="span" parent="392" relname="same-unit"/>
+		<group id="392" type="multinuc" parent="320" relname="span"/>
+		<group id="393" type="span" parent="394" relname="same-unit"/>
+		<group id="394" type="multinuc" parent="324" relname="span"/>
+	</body>
+</rst>

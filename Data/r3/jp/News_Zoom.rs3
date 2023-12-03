@@ -1,0 +1,310 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="267" relname="organization-heading">米 Zoom 、 出社 要請 の 舞台裏 リモート から ハイブリッド</segment>
+		<segment id="2" parent="266" relname="attribution-positive">日経 ビジネス</segment>
+		<segment id="3" parent="265" relname="context-circumstance">2023 年 11 月 17 日 2 : 00</segment>
+		<segment id="4" parent="140" relname="span">ビデオ会議 システム 「 Zoom</segment>
+		<segment id="5" parent="4" relname="restatement-partial">（ ズーム ） 」</segment>
+		<segment id="6" parent="141" relname="same-unit">の 運営 会社 が オフィス 回帰 を 始め た 。</segment>
+		<segment id="7" parent="8" relname="mode-means">夏 に メディア に 流出 し て</segment>
+		<segment id="8" parent="142" relname="span">物議 を 醸し た</segment>
+		<segment id="9" parent="143" relname="span">計画 通り 、 通勤圏 に 住む 従業員 に 週 2 回 の 出社 を 求め て いる 。</segment>
+		<segment id="10" parent="11" relname="topic-question">リモートワーク の 立役者 は なぜ 、 自己 否定 に なり かね ない 策 を 打ち出し た の か 。</segment>
+		<segment id="11" parent="146" relname="span">幹部 が 舞台裏 を 明かし た 。</segment>
+		<segment id="12" parent="155" relname="span">「 週 2 回 、 会社 に 行く こと に し た 」 。</segment>
+		<segment id="13" parent="145" relname="span">10 月 上旬 、 米 ズーム ・ ビデオ ・ コミュニケーションズ の エリック ・ ユアン 最高経営責任者</segment>
+		<segment id="14" parent="13" relname="elaboration-additional">（ CEO ）</segment>
+		<segment id="15" parent="152" relname="same-unit">は シリコンバレー の 会議場 に 集まっ た 約 2600 人 の 顧客 を 前 に 、 そう 切り出し た 。</segment>
+		<segment id="16" parent="144" relname="span">米紙 ニューヨーク・タイムズ</segment>
+		<segment id="17" parent="16" relname="elaboration-additional">（ NYT ）</segment>
+		<segment id="18" parent="147" relname="same-unit">が</segment>
+		<segment id="19" parent="148" relname="span">「 ズーム で さえ オフィス 回帰 」</segment>
+		<segment id="20" parent="19" relname="attribution-positive">と 報じ て</segment>
+		<segment id="21" parent="149" relname="span">波紋 を 呼ん だ</segment>
+		<segment id="22" parent="150" relname="span">施策 に つい て 、 CEO 自ら 言及 し た 格好 だ 。</segment>
+		<segment id="23" parent="162" relname="organization-preparation">ズーム の 方針 を おさらい し て おこう 。</segment>
+		<segment id="24" parent="160" relname="same-unit">同社 は 8 月 以降 順次 、</segment>
+		<segment id="25" parent="157" relname="span">シリコン バレー の 本社 から 50 マイル</segment>
+		<segment id="26" parent="25" relname="elaboration-additional">（ 約 80 キロメートル ）</segment>
+		<segment id="27" parent="158" relname="same-unit">以内 に 住む</segment>
+		<segment id="28" parent="159" relname="span">従業員 に 少なく とも 週 2 日 の 出勤 を 求め て いる 。</segment>
+		<segment id="29" parent="30" relname="context-background">圏内 に は サンフランシスコ 市 など が 含ま れ 、</segment>
+		<segment id="30" parent="161" relname="span">渋滞 が ひどく なけれ ば 1 時間 半 以内 に 移動 できる 距離 だ 。</segment>
+		<segment id="31" parent="162" relname="joint-list">技術 や 営業 と いっ た 部門ごと に 異なる 出社日 を 設け て いる 。</segment>
+		<segment id="32" parent="168" relname="joint-list">ズーム の 掲げ た 週 2 日 と いう 日数 その もの は 、 他 の テクノロジー 大手 と 比べ て 多く は ない 。</segment>
+		<segment id="33" parent="168" relname="joint-list">他 の 州 など から リモート で 働き 続ける 従業員 も いる 。</segment>
+		<segment id="34" parent="165" relname="same-unit">それ で も 、</segment>
+		<segment id="35" parent="36" relname="elaboration-attribute">新型コロナウイルス 禍 の 在宅勤務 を 支え て 一躍 有名 に なっ た</segment>
+		<segment id="36" parent="164" relname="span">ズーム が 「 出社 す べき 日 」 を 設け た こと は 物議 を 醸し た 。</segment>
+		<segment id="37" parent="167" relname="same-unit">米 ネット メディア の インサイダー は</segment>
+		<segment id="38" parent="166" relname="span">「 リモートワーク 革命 の 死 」</segment>
+		<segment id="39" parent="38" relname="attribution-positive">と あおっ た 。</segment>
+		<segment id="40" parent="41" relname="elaboration-attribute">自己 否定 と も 捉え られ かね ない</segment>
+		<segment id="41" parent="171" relname="span">方針 を 、 ズーム は なぜ 打ち出し た の か 。</segment>
+		<segment id="42" parent="43" relname="elaboration-attribute">製品 ・ 技術 部門 を 束ねる</segment>
+		<segment id="43" parent="172" relname="span">プレジデント の ベルチャミー ・ サンカルリンガム 氏 に 直接 疑問 を ぶつけ て みる こと に し た 。</segment>
+		<segment id="44" parent="174" relname="joint-list">同氏 は 2020 年 5 月 に ズーム に 加わり 、</segment>
+		<segment id="45" parent="174" relname="joint-list">コロナ禍 と その後 の 働き方 の 変遷 を 見つめ て き た 人物 だ 。</segment>
+		<segment id="46" parent="176" relname="span">「 始まり は 半年 ほど 前 だっ た 」 。</segment>
+		<segment id="47" parent="46" relname="attribution-positive">サンカルリンガム 氏 は 開口 一番 、 こう 明かし た 。</segment>
+		<segment id="48" parent="49" relname="adversative-antithesis">NYT など の 記事 が 出 た 8 月 で は なく 、</segment>
+		<segment id="49" parent="177" relname="span">3 月 まで 遡る 必要 が ある と いう 。</segment>
+		<segment id="50" parent="178" relname="context-background">当時 の 米国 で は 会社 に 姿 を 見せ ない 従業員 に 業 を 煮やす 企業 が 相 次い で おり 、</segment>
+		<segment id="51" parent="178" relname="joint-list">米 スターバックス が 週 3 日 以上 は オフィス に 来る よう 求め たり 、</segment>
+		<segment id="52" parent="178" relname="joint-list">米 ウォルト ・ ディズニー が 月曜 から 木曜 まで を 「 対面 勤務 日 」 に 設定 し たり し て い た 。</segment>
+		<segment id="53" parent="180" relname="adversative-concession">ズーム で は 従業員 の 意思 に 任せ て い た が 、</segment>
+		<segment id="54" parent="55" relname="elaboration-attribute">製品 開発 を 率いる</segment>
+		<segment id="55" parent="180" relname="span">サンカルリンガム 氏 は 懸念 を 抱い て い た 。</segment>
+		<segment id="56" parent="57" relname="contingency-condition">「 顧客 と 同じ 環境 に 身 を 置か なけれ ば 、</segment>
+		<segment id="57" parent="182" relname="span">良い 製品 は 作れ ない の で は ない か 」 。</segment>
+		<segment id="58" parent="59" relname="elaboration-attribute">出社 と リモート を 組み合わせる 「 ハイブリッド ワーク 」 を 支える</segment>
+		<segment id="59" parent="183" relname="span">新製品 や 機能 の 開発 を 始め て い た もの の 、</segment>
+		<segment id="60" parent="61" relname="elaboration-attribute">本当 に 顧客 が 使い やすい もの を 作れ て いる の か</segment>
+		<segment id="61" parent="184" relname="span">確信 を 持て なかっ た 。</segment>
+		<segment id="62" parent="194" relname="joint-list">そこ で まず 、 シリコン バレー の 本社 で 働く 230 人 の 製品 ・ 技術 チーム を 対象 に 「 水曜日 は 出社 しよう 」 と 決め た 。</segment>
+		<segment id="63" parent="64" relname="elaboration-attribute">会議室 に 設置 する</segment>
+		<segment id="64" parent="190" relname="span">ビデオ システム 「 ズーム ルーム 」 など の 自社 製品 を 使っ て</segment>
+		<segment id="65" parent="191" relname="span">仕事 を 進め ながら 、</segment>
+		<segment id="66" parent="192" relname="joint-list">改善 点 を 洗い出す の が 狙い だっ た 。</segment>
+		<segment id="67" parent="193" relname="span">「 最初 は 実験 と いう 位置づけ だっ た 」</segment>
+		<segment id="68" parent="67" relname="attribution-positive">（ サンカルリンガム 氏 ）</segment>
+		<segment id="69" parent="233" relname="organization-heading">1 つ の 会議 で 4 室 を 専有</segment>
+		<segment id="70" parent="71" relname="context-circumstance">いざ 始める と 、</segment>
+		<segment id="71" parent="197" relname="span">大小 様々 な 課題 が 見え て き た 。</segment>
+		<segment id="72" parent="199" relname="same-unit">例えば 、</segment>
+		<segment id="73" parent="74" relname="elaboration-attribute">オフィス に 来る 人 の ため に 開発 し た</segment>
+		<segment id="74" parent="198" relname="span">会議室 の 予約 システム 。</segment>
+		<segment id="75" parent="76" relname="context-circumstance">ある 日 、 本社 に ある 4 つ の 会議室 が 予約 で 埋まっ て い た 。</segment>
+		<segment id="76" parent="202" relname="span">調べる と 、 別々 の 会議室 に 入っ た 人 が 皆 、 同じ ズーム 会議 に 参加 し て い た 。</segment>
+		<segment id="77" parent="78" relname="adversative-concession">会議室 が 無尽蔵 に あれ ば 笑い話 で 済む が 、</segment>
+		<segment id="78" parent="203" relname="span">オフィス の スペース は 限ら れる 。</segment>
+		<segment id="79" parent="212" relname="span">別 の チーム の 打ち合わせ に 支障 を きたす 恐れ も ある 。</segment>
+		<segment id="80" parent="207" relname="same-unit">そこ で</segment>
+		<segment id="81" parent="205" relname="span">「 同じ 会議 な の で 、 皆 で 一緒 に 会議室 を 使っ て み ては ？ 」</segment>
+		<segment id="82" parent="81" relname="attribution-positive">と 提案 する</segment>
+		<segment id="83" parent="206" relname="span">機能 の 開発 に 着手 し た 。</segment>
+		<segment id="84" parent="210" relname="same-unit">サンカルリンガム 氏 は</segment>
+		<segment id="85" parent="86" relname="contingency-condition">「 オフィス に 行っ て い なけれ ば 、</segment>
+		<segment id="86" parent="208" relname="span">肌 感覚 と し て 理解 でき なかっ た 」</segment>
+		<segment id="87" parent="208" relname="attribution-positive">と 振り返る 。</segment>
+		<segment id="88" parent="89" relname="elaboration-attribute">ハイブリッド ワーク に 身 を 投じ た</segment>
+		<segment id="89" parent="213" relname="span">成果 は 、 目 に 見える 形 で 表れ つつ ある 。</segment>
+		<segment id="90" parent="216" relname="same-unit">10 月 上旬 に 開い た 顧客 向け の イベント で は 、</segment>
+		<segment id="91" parent="92" relname="elaboration-attribute">出社時 に 使う</segment>
+		<segment id="92" parent="214" relname="span">席 の 予約 や 来訪者 を 管理 する</segment>
+		<segment id="93" parent="215" relname="span">システム を 発表 し た 。</segment>
+		<segment id="94" parent="217" relname="joint-list">会議室 から 複数人 で ビデオ会議 に 参加 し た 人 たち を 一人ひとり 分割 し て 見 やすく 表示 し 、</segment>
+		<segment id="95" parent="217" relname="joint-list">それぞれ に 名前 を 添える 新機能 など も 披露 し た 。</segment>
+		<segment id="96" parent="219" relname="same-unit">ユアン CEO は</segment>
+		<segment id="97" parent="218" relname="span">「 ズーム を 使え ば すごく 効果的 な ハイブリッド ワーク が できる と いう 実例 に なり たい 」</segment>
+		<segment id="98" parent="97" relname="attribution-positive">と 話す 。</segment>
+		<segment id="99" parent="222" relname="same-unit">その ため に 、</segment>
+		<segment id="100" parent="101" relname="elaboration-attribute">8 月 から 出勤 を 求める</segment>
+		<segment id="101" parent="220" relname="span">対象者 を 広げ 、</segment>
+		<segment id="102" parent="221" relname="joint-list">日数 も 週 2 日 に 増やし た 。</segment>
+		<segment id="103" parent="230" relname="same-unit">多く の 企業 が</segment>
+		<segment id="104" parent="105" relname="elaboration-attribute">オフィス 回帰 の 理由 に 挙げる</segment>
+		<segment id="105" parent="227" relname="span">コミュニケーション の 活性化 だけ で なく 、</segment>
+		<segment id="106" parent="228" relname="joint-list">自社 製品 を 磨く と いう</segment>
+		<segment id="107" parent="229" relname="span">明確 な 狙い が ズーム に は あっ た の だ 。</segment>
+		<segment id="108" parent="261" relname="organization-heading">リモート の 主役 が ぶつかっ た 限界</segment>
+		<segment id="109" parent="245" relname="span">リモートワーク の 主役 と いう 立ち 位置 から 脱皮 する 必要性 も 高まっ て い た 。</segment>
+		<segment id="110" parent="270" relname="span">ズーム の 23 年 5 〜 7 月 期 の 売上高 は 11億3870万 ドル</segment>
+		<segment id="111" parent="110" relname="elaboration-additional">（ 約 1700億 円 ）</segment>
+		<segment id="112" parent="269" relname="same-unit">で 、 前年 同期 から の 伸び率 は 4 % に とどまっ た 。</segment>
+		<segment id="113" parent="114" relname="elaboration-attribute">世界中 の 人 たち が 家 で 働い て い た</segment>
+		<segment id="114" parent="235" relname="span">コロナ禍 で は 同 4.7 倍 と いう 驚異的 な 伸び を 見せ た 時期 も あっ た が 、</segment>
+		<segment id="115" parent="236" relname="span">22 年 半ば 以降 の 成長 曲線 は ほぼ 横ばい で 推移 し て いる 。</segment>
+		<segment id="116" parent="117" relname="elaboration-attribute">米国 の オフィス ワーカー を 対象 と する</segment>
+		<segment id="117" parent="237" relname="span">米 ギャラップ の 継続 調査 に よる と 、</segment>
+		<segment id="118" parent="119" relname="elaboration-attribute">毎日 リモート で 働い て いる</segment>
+		<segment id="119" parent="238" relname="span">人 の 割合 は 20 年 5 月 の 70 % から 23 年 5 月 に は 29 % まで 低下 し た 。</segment>
+		<segment id="120" parent="243" relname="adversative-contrast">逆 に 増え た の が オフィス と 自宅 の 両方 で 働く 人 で 、 23 年 5 月 時点 で 全体 の 5 割 強 を 占め た 。</segment>
+		<segment id="121" parent="122" relname="elaboration-attribute">ハイブリッド ワーク を 追求 する</segment>
+		<segment id="122" parent="242" relname="span">企業 を 取り込める か どう か は ズーム の 未来 に 直結 する 。</segment>
+		<segment id="123" parent="241" relname="same-unit">サンカルリンガム 氏 は</segment>
+		<segment id="124" parent="240" relname="span">「 ハイブリッド ワーク は 複雑 だ 」</segment>
+		<segment id="125" parent="124" relname="attribution-positive">と 指摘 する 。</segment>
+		<segment id="126" parent="127" relname="elaboration-attribute">オンライン で の 使い 勝手 だけ を 追求 すれ ば 良かっ た</segment>
+		<segment id="127" parent="247" relname="span">従来 と は 異なり 、</segment>
+		<segment id="128" parent="248" relname="span">出社 する 人 に も 家 から 働く 人 に も 使い やすく なけれ ば いけ ない 。</segment>
+		<segment id="129" parent="251" relname="span">日本 で は 対面 が 好ま れ やすい と いっ た 具合 に 、 地域 の 商習慣 や 業種 に よっ て も 傾向 は 異なる 。</segment>
+		<segment id="130" parent="250" relname="joint-list">一人ひとり の 働き方 と 業績 に 直結 する だけ に 、</segment>
+		<segment id="131" parent="250" relname="joint-list">企業 も 頻繁 に 制度 の 見直し を 行っ て いる 。</segment>
+		<segment id="132" parent="133" relname="mode-means">だ から こそ 、 米 マイクロソフト や 米 グーグル と いっ た 企業向け サービス の 大手 が 目配り し ない 「 かゆい ところ 」 に こだわっ て 、</segment>
+		<segment id="133" parent="254" relname="span">活路 を 見いだそう と し て いる 。</segment>
+		<segment id="134" parent="135" relname="mode-means">通信 環境 が 悪い 場所 で の 途切れ にく さ を 追求 し て</segment>
+		<segment id="135" parent="255" relname="span">頭 一 つ 抜け た ビデオ会議 システム で の 成功 パターン と 同じ シナリオ を 目指す と いう わけ だ 。</segment>
+		<segment id="136" parent="137" relname="elaboration-attribute">オフィス 回帰 を 選ん だ</segment>
+		<segment id="137" parent="253" relname="span">ズーム は ハイブリッド の 世界 で 再び 輝け る の か 。</segment>
+		<segment id="138" parent="256" relname="span">その 成否 は 、 人々 の 働き方 に も 影響 を 及ぼす 。</segment>
+		<segment id="139" parent="263" relname="attribution-positive">（ ジャーナリスト 佐藤 浩実 ）</segment>
+		<group id="140" type="span" parent="141" relname="same-unit"/>
+		<group id="141" type="multinuc" parent="153" relname="span"/>
+		<group id="142" type="span" parent="9" relname="elaboration-attribute"/>
+		<group id="143" type="span" parent="141" relname="elaboration-additional"/>
+		<group id="144" type="span" parent="147" relname="same-unit"/>
+		<group id="145" type="span" parent="152" relname="same-unit"/>
+		<group id="146" type="span" parent="154" relname="span"/>
+		<group id="147" type="multinuc" parent="151" relname="same-unit"/>
+		<group id="148" type="span" parent="21" relname="mode-means"/>
+		<group id="149" type="span" parent="22" relname="elaboration-attribute"/>
+		<group id="150" type="span" parent="151" relname="same-unit"/>
+		<group id="151" type="multinuc" parent="155" relname="elaboration-additional"/>
+		<group id="152" type="multinuc" parent="12" relname="elaboration-additional"/>
+		<group id="153" type="span" parent="146" relname="context-background"/>
+		<group id="154" type="span" parent="263" relname="joint-other"/>
+		<group id="155" type="span" parent="156" relname="span"/>
+		<group id="156" type="span" parent="264" relname="span"/>
+		<group id="157" type="span" parent="158" relname="same-unit"/>
+		<group id="158" type="multinuc" parent="28" relname="elaboration-attribute"/>
+		<group id="159" type="span" parent="160" relname="same-unit"/>
+		<group id="160" type="multinuc" parent="162" relname="joint-list"/>
+		<group id="161" type="span" parent="162" relname="joint-list"/>
+		<group id="162" type="multinuc" parent="163" relname="span"/>
+		<group id="163" type="span" parent="201" relname="span"/>
+		<group id="164" type="span" parent="165" relname="same-unit"/>
+		<group id="165" type="multinuc" parent="169" relname="span"/>
+		<group id="166" type="span" parent="167" relname="same-unit"/>
+		<group id="167" type="multinuc" parent="169" relname="evaluation-comment"/>
+		<group id="168" type="multinuc" parent="165" relname="adversative-concession"/>
+		<group id="169" type="span" parent="170" relname="span"/>
+		<group id="170" type="span" parent="163" relname="elaboration-additional"/>
+		<group id="171" type="span" parent="172" relname="topic-solutionhood"/>
+		<group id="172" type="span" parent="173" relname="span"/>
+		<group id="173" type="span" parent="175" relname="span"/>
+		<group id="174" type="multinuc" parent="173" relname="elaboration-additional"/>
+		<group id="175" type="span" parent="195" relname="organization-preparation"/>
+		<group id="176" type="span" parent="187" relname="span"/>
+		<group id="177" type="span" parent="179" relname="context-background"/>
+		<group id="178" type="multinuc" parent="179" relname="span"/>
+		<group id="179" type="span" parent="186" relname="span"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="181" type="span" parent="188" relname="span"/>
+		<group id="182" type="span" parent="189" relname="span"/>
+		<group id="183" type="span" parent="184" relname="adversative-concession"/>
+		<group id="184" type="span" parent="185" relname="span"/>
+		<group id="185" type="span" parent="182" relname="elaboration-additional"/>
+		<group id="186" type="span" parent="176" relname="elaboration-additional"/>
+		<group id="187" type="span" parent="188" relname="context-background"/>
+		<group id="188" type="span" parent="196" relname="span"/>
+		<group id="189" type="span" parent="181" relname="elaboration-additional"/>
+		<group id="190" type="span" parent="65" relname="mode-means"/>
+		<group id="191" type="span" parent="192" relname="joint-list"/>
+		<group id="192" type="multinuc" parent="194" relname="joint-list"/>
+		<group id="193" type="span" parent="194" relname="joint-list"/>
+		<group id="194" type="multinuc" parent="195" relname="span"/>
+		<group id="195" type="span" parent="200" relname="span"/>
+		<group id="196" type="span" parent="194" relname="context-background"/>
+		<group id="197" type="span" parent="211" relname="span"/>
+		<group id="198" type="span" parent="199" relname="same-unit"/>
+		<group id="199" type="multinuc" parent="204" relname="span"/>
+		<group id="200" type="span" parent="263" relname="joint-other"/>
+		<group id="201" type="span" parent="156" relname="elaboration-additional"/>
+		<group id="202" type="span" parent="199" relname="elaboration-additional"/>
+		<group id="203" type="span" parent="79" relname="causal-cause"/>
+		<group id="204" type="span" parent="197" relname="explanation-evidence"/>
+		<group id="205" type="span" parent="83" relname="elaboration-attribute"/>
+		<group id="206" type="span" parent="207" relname="same-unit"/>
+		<group id="207" type="multinuc" parent="223" relname="span"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" parent="210" relname="same-unit"/>
+		<group id="210" type="multinuc" parent="207" relname="elaboration-additional"/>
+		<group id="211" type="span" parent="233" relname="joint-list"/>
+		<group id="212" type="span" parent="223" relname="context-background"/>
+		<group id="213" type="span" parent="226" relname="span"/>
+		<group id="214" type="span" parent="93" relname="elaboration-attribute"/>
+		<group id="215" type="span" parent="216" relname="same-unit"/>
+		<group id="216" type="multinuc" parent="225" relname="span"/>
+		<group id="217" type="multinuc" parent="216" relname="elaboration-additional"/>
+		<group id="218" type="span" parent="219" relname="same-unit"/>
+		<group id="219" type="multinuc" parent="222" relname="purpose-goal"/>
+		<group id="220" type="span" parent="221" relname="joint-list"/>
+		<group id="221" type="multinuc" parent="222" relname="same-unit"/>
+		<group id="222" type="multinuc" parent="231" relname="span"/>
+		<group id="223" type="span" parent="224" relname="span"/>
+		<group id="224" type="span" parent="233" relname="joint-list"/>
+		<group id="225" type="span" parent="213" relname="explanation-evidence"/>
+		<group id="226" type="span" parent="233" relname="joint-list"/>
+		<group id="227" type="span" parent="228" relname="joint-list"/>
+		<group id="228" type="multinuc" parent="107" relname="elaboration-attribute"/>
+		<group id="229" type="span" parent="230" relname="same-unit"/>
+		<group id="230" type="multinuc" parent="232" relname="span"/>
+		<group id="231" type="span" parent="230" relname="explanation-evidence"/>
+		<group id="232" type="span" parent="233" relname="joint-list"/>
+		<group id="233" type="multinuc" parent="234" relname="span"/>
+		<group id="234" type="span" parent="263" relname="joint-other"/>
+		<group id="235" type="span" parent="115" relname="adversative-concession"/>
+		<group id="236" type="span" parent="244" relname="joint-list"/>
+		<group id="237" type="span" parent="238" relname="attribution-positive"/>
+		<group id="238" type="span" parent="239" relname="span"/>
+		<group id="239" type="span" parent="243" relname="adversative-contrast"/>
+		<group id="240" type="span" parent="241" relname="same-unit"/>
+		<group id="241" type="multinuc" parent="249" relname="span"/>
+		<group id="242" type="span" parent="246" relname="span"/>
+		<group id="243" type="multinuc" parent="242" relname="explanation-justify"/>
+		<group id="244" type="multinuc" parent="109" relname="elaboration-additional"/>
+		<group id="245" type="span" parent="246" relname="context-background"/>
+		<group id="246" type="span" parent="258" relname="span"/>
+		<group id="247" type="span" parent="128" relname="elaboration-additional"/>
+		<group id="248" type="span" parent="241" relname="explanation-justify"/>
+		<group id="249" type="span" parent="252" relname="span"/>
+		<group id="250" type="multinuc" parent="129" relname="explanation-justify"/>
+		<group id="251" type="span" parent="249" relname="elaboration-additional"/>
+		<group id="252" type="span" parent="258" relname="elaboration-additional"/>
+		<group id="253" type="span" parent="138" relname="topic-question"/>
+		<group id="254" type="span" parent="257" relname="span"/>
+		<group id="255" type="span" parent="254" relname="elaboration-additional"/>
+		<group id="256" type="span" parent="260" relname="evaluation-comment"/>
+		<group id="257" type="span" parent="260" relname="span"/>
+		<group id="258" type="span" parent="259" relname="span"/>
+		<group id="259" type="span" parent="257" relname="context-background"/>
+		<group id="260" type="span" parent="261" relname="span"/>
+		<group id="261" type="span" parent="262" relname="span"/>
+		<group id="262" type="span" parent="263" relname="joint-other"/>
+		<group id="263" type="multinuc" parent="265" relname="span"/>
+		<group id="264" type="span" parent="263" relname="joint-other"/>
+		<group id="265" type="span" parent="266" relname="span"/>
+		<group id="266" type="span" parent="267" relname="span"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" />
+		<group id="269" type="multinuc" parent="244" relname="joint-list"/>
+		<group id="270" type="span" parent="269" relname="same-unit"/>
+	</body>
+</rst>

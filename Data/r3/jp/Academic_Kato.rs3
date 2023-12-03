@@ -1,0 +1,217 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="177" relname="organization-heading">加藤 周一 の 「 眼 」 と 「 耳 」</segment>
+		<segment id="2" parent="176" relname="attribution-positive">加國 尚志</segment>
+		<segment id="3" parent="100" relname="span">メルロ ＝ ポンティ 晩年 の 哲学 概念 に 「 肉 la chair 」 と いう 概念 が ある 。</segment>
+		<segment id="4" parent="99" relname="same-unit">これ は たとえば 右手 と 左手 を 重ね合わせる とき 、</segment>
+		<segment id="5" parent="97" relname="joint-list">触れる 手 と 触れ られる 手 の 間 に 可逆 的 で あいまい な 感覚 が 生じ 、</segment>
+		<segment id="6" parent="97" relname="joint-list">主観 と 客観 、 能動 と 受動 が 相互 に 移り 行きあう</segment>
+		<segment id="7" parent="98" relname="span">よう な 「 感じ られる もの le sensible 」 を 言い表し た もの で ある 。</segment>
+		<segment id="8" parent="101" relname="joint-list">この 「 感じ られる もの 」 は 「 見える もの 」 や 「 触れ うる もの 」 に 宿り 、</segment>
+		<segment id="9" parent="101" relname="joint-list">さらに は それ ら 相互 の 転移 を 可能 に する 。</segment>
+		<segment id="10" parent="102" relname="joint-list">この 「 肉 」 の 経験 が たとえば 色 など の 質 の 経験 の 基礎 に あり 、</segment>
+		<segment id="11" parent="102" relname="joint-list">感性 的 な 現象 を 現象 と し て 成立 さ せる</segment>
+		<segment id="12" parent="103" relname="span">存在論 的 な 概念 と し て 主客 二 元 論 の 近代 哲学的 図式 を 解体 さ せる</segment>
+		<segment id="13" parent="104" relname="span">もの と なる こと を メルロ ＝ ポンティ は 目論ん で い た 。</segment>
+		<segment id="14" parent="105" relname="span">『 眼 と 精神 』</segment>
+		<segment id="15" parent="14" relname="elaboration-additional">（ 1961 年 ）</segment>
+		<segment id="16" parent="17" relname="elaboration-attribute">は この 「 肉 」 の 概念 を 絵画 や 彫刻 など の 美術 作品 に 適用 しよう と し た</segment>
+		<segment id="17" parent="106" relname="span">試み で ある 。</segment>
+		<segment id="18" parent="112" relname="same-unit">実 は この 「 肉 」 と いう 概念 は 、</segment>
+		<segment id="19" parent="113" relname="span">メルロ ＝ ポンティ に 先立っ て 、 すでに サルトル が 『 存在 と 無 』</segment>
+		<segment id="20" parent="19" relname="elaboration-additional">（ 1943 年 ）</segment>
+		<segment id="21" parent="112" relname="same-unit">の 中 で 語っ て い た もの で ある 。</segment>
+		<segment id="22" parent="114" relname="causal-cause">メルロ ＝ ポンティ が その こと を 知ら なかっ た はず は ない から 、</segment>
+		<segment id="23" parent="114" relname="adversative-contrast">彼 は サルトル の 哲学 を ほぼ 全面的 に 批判 し ながら 、</segment>
+		<segment id="24" parent="115" relname="joint-list">この 概念 の 有効性 を 認め 、</segment>
+		<segment id="25" parent="115" relname="joint-list">独自 の 存在論 的 文脈 で 展開 し た の だろう 。</segment>
+		<segment id="26" parent="122" relname="same-unit">サルトル の 場合 、</segment>
+		<segment id="27" parent="117" relname="span">この 概念 は 男女</segment>
+		<segment id="28" parent="27" relname="elaboration-additional">（ 異性 ）</segment>
+		<segment id="29" parent="120" relname="same-unit">間 の 「 愛撫 」 に おい て 、</segment>
+		<segment id="30" parent="121" relname="span">両者 の 身体 が 快感 に おい て 溶け合う よう に 結びつく 状態 を 指し て いる 。</segment>
+		<segment id="31" parent="118" relname="span">それ は 即自</segment>
+		<segment id="32" parent="31" relname="elaboration-additional">（ 物 ）</segment>
+		<segment id="33" parent="119" relname="span">と 対自</segment>
+		<segment id="34" parent="33" relname="elaboration-additional">（ 意識 ）</segment>
+		<segment id="35" parent="123" relname="span">、 対自</segment>
+		<segment id="36" parent="35" relname="elaboration-additional">（ 自己 と の 関係 ）</segment>
+		<segment id="37" parent="124" relname="span">と 対他</segment>
+		<segment id="38" parent="37" relname="elaboration-additional">（ 他者 と の 関係 ）</segment>
+		<segment id="39" parent="125" relname="same-unit">と いう サルトル の 二 元 論 的 な 対立 図式 を 破る もの と なっ て いる 。</segment>
+		<segment id="40" parent="132" relname="span">加藤 周一 が この サルトル の 「 肉 」 の 概念 に つい て 語っ て いる 箇所 が ある 。</segment>
+		<segment id="41" parent="126" relname="span">それ は 「 絵 の なか の 女 たち 」</segment>
+		<segment id="42" parent="41" relname="explanation-evidence">-LSB- 1 -RSB-</segment>
+		<segment id="43" parent="127" relname="same-unit">と いう 、</segment>
+		<segment id="44" parent="128" relname="span">絵画 に つい て の 随筆 に おい て で ある 。</segment>
+		<segment id="45" parent="136" relname="same-unit">この 「 絵 の なか の 女 たち 」 は 、</segment>
+		<segment id="46" parent="133" relname="span">いわば 加藤 の 私的 好み</segment>
+		<segment id="47" parent="46" relname="elaboration-additional">（ 趣味 ）</segment>
+		<segment id="48" parent="134" relname="same-unit">に よる 女性 肖像 画論 、 裸婦 画論 で あり 、</segment>
+		<segment id="49" parent="135" relname="joint-list">ある 意味 で は 加藤 の エロティシズム 論 で ある 。</segment>
+		<segment id="50" parent="137" relname="adversative-concession">歴史的 知名度 や 重要性 が 配慮 さ れ て いる と は いえ 、</segment>
+		<segment id="51" parent="137" relname="joint-list">そこ で 語ら れる 絵画 は 基本的 に 加藤 が 好む 作品 で あり 、</segment>
+		<segment id="52" parent="137" relname="joint-list">彼 が 感銘 を 受け た 作品 で ある と 見 て よい 。</segment>
+		<segment id="53" parent="141" relname="joint-list">それ は おのずと 加藤 の 裸婦 像 あるいは 女性 の 裸体 へ の 趣味 嗜好 を 示す もの で あり 、</segment>
+		<segment id="54" parent="139" relname="span">つきつめれ ば 一人 の 男性 と し て の 加藤 の 性的 嗜好</segment>
+		<segment id="55" parent="54" relname="elaboration-additional">（ 志向 ）</segment>
+		<segment id="56" parent="140" relname="same-unit">を かいま見 せる もの と なっ て いる 。</segment>
+		<segment id="57" parent="146" relname="span">たとえば 作者 不詳 の インド の 細密 画 に おい て 、 男性 が 膝 に 抱え た 女性 を 背後 から 愛撫 し て いる 場面 を 描い た 作品</segment>
+		<segment id="58" parent="144" relname="adversative-contrast">（ 「 男 の 右手 は 、 薄衣 の 上 から 女 の 乳 を 愛撫 する 。</segment>
+		<segment id="59" parent="144" relname="adversative-contrast">〔 中略 〕 男 は その 瞬間 に 動く 指先 その もの で ある 」</segment>
+		<segment id="60" parent="144" relname="elaboration-additional">（ 312 ） ） 。</segment>
+		<segment id="61" parent="149" relname="span">あるいは ゴーギャン が 褐色 の 肌 を し た タヒチ の 裸婦 を 描い た 『 かぐわし き 大地 』</segment>
+		<segment id="62" parent="63" relname="purpose-goal">（ 「 彼 が その 美 を 発見 し ない ため に は 、</segment>
+		<segment id="63" parent="147" relname="span">タヒティ の ゴーギャン は 、 あまり に も 、 その 肌 の 温かさ 、 微か な 湿り 、 滑らか さ と いう べから ざる 弾力 を 、 愛し て い た の で あろう 」</segment>
+		<segment id="64" parent="147" relname="elaboration-additional">（ 322 ） ） 。</segment>
+		<segment id="65" parent="152" relname="span">あるいは クリムト の 『 ダナエ 』</segment>
+		<segment id="66" parent="150" relname="joint-list">（ 「 その 腿 の 間 に 降りそそぎ 溢れる 雨 を 受け て 、</segment>
+		<segment id="67" parent="150" relname="joint-list">恍惚 と し て 眼 を 閉じ 、</segment>
+		<segment id="68" parent="150" relname="joint-list">半ば 口 を 開い て 、</segment>
+		<segment id="69" parent="150" relname="joint-list">片手 で 一方 の 乳 を 押える 」</segment>
+		<segment id="70" parent="150" relname="elaboration-additional">（ 336 ） ） 。</segment>
+		<segment id="71" parent="160" relname="span">おそらく こう し た 列挙 の 頂点 に 来る の は 、 クラナッハ の 『 ヴェヌス 』 で あろう</segment>
+		<segment id="72" parent="156" relname="adversative-concession">（ 「 丸い 小さな 乳 が 、</segment>
+		<segment id="73" parent="156" relname="joint-list">胸 の 上 の 方 に ならん で い て 、</segment>
+		<segment id="74" parent="156" relname="joint-list">細腰 から 下腹 に かけ て の 部分 が 長く 、</segment>
+		<segment id="75" parent="156" relname="joint-list">両 肢 は 殊に 細長く て 、</segment>
+		<segment id="76" parent="156" relname="joint-list">真直ぐ に 伸び て いる 。</segment>
+		<segment id="77" parent="158" relname="joint-list">細い 身体 の 全体 の なか で 、 膨み の 目立つ ところ は 、 腹部 と 太腿 で ある 」</segment>
+		<segment id="78" parent="158" relname="elaboration-additional">（ 347 ） ） 。</segment>
+		<segment id="79" parent="162" relname="contingency-condition">この よう に 見 て くる と 、</segment>
+		<segment id="80" parent="161" relname="joint-list">加藤 が 読者 に その 作品 の 特徴 を 示そう と し て 、</segment>
+		<segment id="81" parent="161" relname="joint-list">また 読者 の まなざし を 作品 の その 箇所 に 導こう と し て</segment>
+		<segment id="82" parent="162" relname="span">描く 描写 に は 、 はから ず も 加藤 の 視線 と それ を 支える 欲情 を 示し て いる よう に 思わ れる 。</segment>
+		<segment id="83" parent="163" relname="restatement-partial">つまり 「 乳 」 「 弾力 」 「 腿 」 「 下腹 」 … 。</segment>
+		<segment id="84" parent="167" relname="adversative-contrast">それ は ヴェヌス の 細い 首 や 、 衣 に 触れる 指先 に は 向かわ ない 。</segment>
+		<segment id="85" parent="166" relname="same-unit">それ ら は</segment>
+		<segment id="86" parent="87" relname="elaboration-additional">曲線 を 示す</segment>
+		<segment id="87" parent="165" relname="span">「 下腹 」 と いう 図 を 際立た せる 地 の よう に 扱わ れ て いる 。</segment>
+		<segment id="88" parent="89" relname="adversative-antithesis">したがっ て 、 肩 や 背中 から 腰 に かけ て の 線 で は なく て 、</segment>
+		<segment id="89" parent="168" relname="span">丸み を 帯び た 「 乳 」 、 また 、 女性器 で は なく 太腿 、 下腹 。</segment>
+		<segment id="90" parent="169" relname="span">そこ に は 丸み を 帯び た 曲線 へ の 趣味 が 現れ て いる</segment>
+		<segment id="91" parent="90" relname="elaboration-additional">（ クールベ の 『 世界 の 起源 』 は 、 この 随筆 に は 登場 し ない ） 。</segment>
+		<segment id="92" parent="175" relname="span">もっとも 、 加藤 自身 は 十分 に 意識的 に この よう な 記述 を 行なっ て いる 。</segment>
+		<segment id="93" parent="174" relname="same-unit">次 の 一 文 は 、</segment>
+		<segment id="94" parent="173" relname="restatement-repetition">加藤 が 視覚 の 内 で 感じる ことがら 、</segment>
+		<segment id="95" parent="173" relname="restatement-repetition">つまり 「 見える もの 」 の 中 に 「 触れ うる もの 」 を 見る 感覚</segment>
+		<segment id="96" parent="174" relname="same-unit">を 示し て いる 。</segment>
+		<group id="97" type="multinuc" parent="7" relname="elaboration-attribute"/>
+		<group id="98" type="span" parent="99" relname="same-unit"/>
+		<group id="99" type="multinuc" parent="108" relname="span"/>
+		<group id="100" type="span" parent="107" relname="context-background"/>
+		<group id="101" type="multinuc" parent="109" relname="joint-list"/>
+		<group id="102" type="multinuc" parent="12" relname="elaboration-attribute"/>
+		<group id="103" type="span" parent="13" relname="adversative-antithesis"/>
+		<group id="104" type="span" parent="109" relname="joint-list"/>
+		<group id="105" type="span" parent="107" relname="same-unit"/>
+		<group id="106" type="span" parent="107" relname="same-unit"/>
+		<group id="107" type="multinuc" parent="110" relname="span"/>
+		<group id="108" type="span" parent="3" relname="explanation-evidence"/>
+		<group id="109" type="multinuc" parent="99" relname="elaboration-additional"/>
+		<group id="110" type="span" parent="176" relname="joint-other"/>
+		<group id="112" type="multinuc" parent="130" relname="span"/>
+		<group id="113" type="span" parent="112" relname="same-unit"/>
+		<group id="114" type="multinuc" parent="116" relname="span"/>
+		<group id="115" type="multinuc" parent="114" relname="adversative-contrast"/>
+		<group id="116" type="span" parent="112" relname="elaboration-additional"/>
+		<group id="117" type="span" parent="120" relname="same-unit"/>
+		<group id="118" type="span" parent="125" relname="same-unit"/>
+		<group id="119" type="span" parent="125" relname="same-unit"/>
+		<group id="120" type="multinuc" parent="30" relname="context-circumstance"/>
+		<group id="121" type="span" parent="122" relname="same-unit"/>
+		<group id="122" type="multinuc" parent="129" relname="span"/>
+		<group id="123" type="span" parent="125" relname="same-unit"/>
+		<group id="124" type="span" parent="125" relname="same-unit"/>
+		<group id="125" type="multinuc" parent="122" relname="elaboration-additional"/>
+		<group id="126" type="span" parent="127" relname="same-unit"/>
+		<group id="127" type="multinuc" parent="44" relname="elaboration-attribute"/>
+		<group id="128" type="span" parent="40" relname="explanation-evidence"/>
+		<group id="129" type="span" parent="130" relname="context-background"/>
+		<group id="130" type="span" parent="131" relname="span"/>
+		<group id="131" type="span" parent="176" relname="joint-other"/>
+		<group id="132" type="span" parent="143" relname="context-background"/>
+		<group id="133" type="span" parent="134" relname="same-unit"/>
+		<group id="134" type="multinuc" parent="135" relname="joint-list"/>
+		<group id="135" type="multinuc" parent="136" relname="same-unit"/>
+		<group id="136" type="multinuc" parent="142" relname="span"/>
+		<group id="137" type="multinuc" parent="138" relname="span"/>
+		<group id="138" type="span" parent="136" relname="evaluation-comment"/>
+		<group id="139" type="span" parent="140" relname="same-unit"/>
+		<group id="140" type="multinuc" parent="141" relname="joint-list"/>
+		<group id="141" type="multinuc" parent="143" relname="span"/>
+		<group id="142" type="span" parent="141" relname="context-background"/>
+		<group id="143" type="span" parent="155" relname="span"/>
+		<group id="144" type="multinuc" parent="145" relname="span"/>
+		<group id="145" type="span" parent="57" relname="elaboration-additional"/>
+		<group id="146" type="span" parent="153" relname="joint-disjunction"/>
+		<group id="147" type="span" parent="148" relname="span"/>
+		<group id="148" type="span" parent="61" relname="elaboration-additional"/>
+		<group id="149" type="span" parent="153" relname="joint-disjunction"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="151" type="span" parent="65" relname="elaboration-additional"/>
+		<group id="152" type="span" parent="153" relname="joint-disjunction"/>
+		<group id="153" type="multinuc" parent="155" relname="explanation-evidence"/>
+		<group id="154" type="span" parent="176" relname="joint-other"/>
+		<group id="155" type="span" parent="154" relname="span"/>
+		<group id="156" type="multinuc" parent="157" relname="span"/>
+		<group id="157" type="span" parent="158" relname="joint-list"/>
+		<group id="158" type="multinuc" parent="159" relname="span"/>
+		<group id="159" type="span" parent="71" relname="elaboration-additional"/>
+		<group id="160" type="span" parent="153" relname="joint-disjunction"/>
+		<group id="161" type="multinuc" parent="82" relname="mode-means"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" parent="164" relname="span"/>
+		<group id="164" type="span" parent="171" relname="span"/>
+		<group id="165" type="span" parent="166" relname="same-unit"/>
+		<group id="166" type="multinuc" parent="167" relname="adversative-contrast"/>
+		<group id="167" type="multinuc" parent="164" relname="elaboration-additional"/>
+		<group id="168" type="span" parent="170" relname="span"/>
+		<group id="169" type="span" parent="168" relname="elaboration-additional"/>
+		<group id="170" type="span" parent="171" relname="elaboration-additional"/>
+		<group id="171" type="span" parent="172" relname="span"/>
+		<group id="172" type="span" parent="176" relname="joint-other"/>
+		<group id="173" type="multinuc" parent="174" relname="same-unit"/>
+		<group id="174" type="multinuc" parent="92" relname="explanation-evidence"/>
+		<group id="175" type="span" parent="176" relname="joint-other"/>
+		<group id="176" type="multinuc" parent="177" relname="span"/>
+		<group id="177" type="span" parent="178" relname="span"/>
+		<group id="178" type="span" />
+	</body>
+</rst>

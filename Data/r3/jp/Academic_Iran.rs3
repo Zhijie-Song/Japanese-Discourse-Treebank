@@ -1,0 +1,227 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="167" relname="span">イラン 核兵器 問題 と 国際 秩序 に 関する 一 考察</segment>
+		<segment id="2" parent="1" relname="elaboration-additional">ワシントン - テヘラン 外交 を 中心 と し て</segment>
+		<segment id="3" parent="189" relname="attribution-positive">奈須 健</segment>
+		<segment id="4" parent="116" relname="organization-heading">1 ． はじめ に</segment>
+		<segment id="5" parent="6" relname="elaboration-attribute">イラン を めぐる 中東 地域 で の 情勢 変化 が 著しく なっ て いる</segment>
+		<segment id="6" parent="98" relname="span">状況 に おい て 、 2021 年 1 月 に アメリカ で は トランプ大統領 から バイデン 大統領 に 政権 が 移行 し た 。</segment>
+		<segment id="7" parent="99" relname="joint-sequence">バイデン 大統領 は 就任後 に 初めて 中東 歴訪 を 果たし た 直後 、</segment>
+		<segment id="8" parent="99" relname="joint-sequence">今度 は ロシア の プーチン 大統領 が イラン に 歴訪 し た 。</segment>
+		<segment id="9" parent="101" relname="same-unit">アメリカ と ロシア の 大国 が こぞっ て イラン を 歴訪 する 背景 に は 、</segment>
+		<segment id="10" parent="11" relname="elaboration-attribute">2015 年 の オバマ 政権 時 に 締結 さ れ た</segment>
+		<segment id="11" parent="100" relname="span">「 イラン の 核 合意 」 が 崩壊 の 危機 に ある こと を 示し て い た 。</segment>
+		<segment id="12" parent="13" relname="purpose-goal">この 「 イラン 核 合意 」 を 立て直す ため 、</segment>
+		<segment id="13" parent="107" relname="span">イラン と の 外交的 な 交渉 が 行わ れ て おり 、</segment>
+		<segment id="14" parent="114" relname="same-unit">この 合意 の 行方 に よっ て</segment>
+		<segment id="15" parent="16" relname="elaboration-attribute">中東 地域 のみ なら ず 、 国際的 に 安全 保障 を 揺るがす</segment>
+		<segment id="16" parent="104" relname="span">事態 に 陥る こと が 懸念 さ れ 、</segment>
+		<segment id="17" parent="105" relname="joint-list">予断 を 許さ ない 状況 が 現在 も 続い て いる 。</segment>
+		<segment id="18" parent="111" relname="same-unit">本稿 で は 、</segment>
+		<segment id="19" parent="109" relname="joint-list">この 「 イラン 核 合意 」 を めぐる アメリカ と イラン の 動向 を 、</segment>
+		<segment id="20" parent="109" relname="joint-list">当時 の アメリカ 政権 と イラン 政権 が どのような 経緯 で 現在 に 至っ て いる の か を</segment>
+		<segment id="21" parent="109" relname="attribution-positive">振り返る 。</segment>
+		<segment id="22" parent="112" relname="joint-list">そして 、 イラン を めぐる 国際 情勢 の 変化 に 着目 する と とも に 、</segment>
+		<segment id="23" parent="112" relname="joint-list">今後 の 国際 社会 に おい て どの よう に 対処 し て いく 必要 が ある の か に つい て 考察 し て いき たい 。</segment>
+		<segment id="24" parent="165" relname="organization-heading">2 ． 「 イラン 核 合意 」 と ミサイル 問題</segment>
+		<segment id="25" parent="121" relname="same-unit">「 イラン 核 合意 」 と は 、</segment>
+		<segment id="26" parent="118" relname="span">正式 に は Joint Comprehensive Plan of Action</segment>
+		<segment id="27" parent="26" relname="elaboration-additional">( JCPOA ) 、</segment>
+		<segment id="28" parent="119" relname="restatement-repetition">つまり 「 包括的 共同 作業 計画 」 呼ば れる もの で 、</segment>
+		<segment id="29" parent="30" relname="context-circumstance">国連安保理常任理事国 5 ヶ国 （ アメリカ ・ イギリス ・ フランス ・ ロシア ・ 中国 ） と ドイツ で 構成 さ れ た 『 Ｐ ５ プラス １ 』 と イラン と の 間 で 、</segment>
+		<segment id="30" parent="120" relname="span">2015 年 7 月 14 日 に 結ば れ た 多国間 合意 の こと で ある 。</segment>
+		<segment id="31" parent="122" relname="contingency-condition">ウラン 濃縮 活動 など イラン の 核 開発 を 大幅 に 制限 する 見返り に 、</segment>
+		<segment id="32" parent="122" relname="joint-list">関係 国 が イラン に 対する 制裁 を 解除 、</segment>
+		<segment id="33" parent="122" relname="joint-list">あるいは 緩和 する と いう 内容 に なっ て いる 。</segment>
+		<segment id="34" parent="129" relname="same-unit">これ に よっ て 、</segment>
+		<segment id="35" parent="36" relname="mode-means">イラン の 核 開発 に 関する 制限 を 行う こと で 、</segment>
+		<segment id="36" parent="128" relname="span">イラン は 部分的 に 平和 利用 の 目的 で 原子力 開発 を 行う こと が 認め られ た が 、</segment>
+		<segment id="37" parent="124" relname="span">一方 で IAEA</segment>
+		<segment id="38" parent="37" relname="elaboration-additional">（ 国際 原子力 機関 ）</segment>
+		<segment id="39" parent="125" relname="same-unit">の 査察 を 受け入れ なけれ ば なら ず 、</segment>
+		<segment id="40" parent="41" relname="purpose-goal">核兵器 へ の 転用 が でき ない よう に</segment>
+		<segment id="41" parent="126" relname="span">厳しく 監視 さ れる こと と なっ た 。</segment>
+		<segment id="42" parent="134" relname="same-unit">この 「 イラン 核 合意 」 に は 、</segment>
+		<segment id="43" parent="133" relname="joint-list">確か に 核 開発 に 対し て 抑止 効果 が 力学 と し て 働く 一方 で 、</segment>
+		<segment id="44" parent="133" relname="joint-list">ミサイル 開発 や ミサイル 実験 に 関する 事項 が 言及 さ れ て い なかっ た 。</segment>
+		<segment id="45" parent="46" relname="adversative-concession">つまり イラン が ミサイル 開発 や ミサイル 実験 を 行っ た と し て も 、</segment>
+		<segment id="46" parent="135" relname="span">この 「 イラン 核 合意 」 に 違反 する こと に は なら なかっ た 。</segment>
+		<segment id="47" parent="138" relname="same-unit">国連 安保理 決議 で は 、</segment>
+		<segment id="48" parent="137" relname="joint-list">第 1737 号 、 第 1747 号 、 第 1803 号 及び 第 1929 号 に 制裁 決議 を 明確 に し て おり 、</segment>
+		<segment id="49" parent="137" relname="joint-list">いずれ も イラン の 核兵器 を 搭載 可能 な 弾道 ミサイル の 開発 及び ミサイル の 発射 を 禁止 する 内容 と なっ て い た 。</segment>
+		<segment id="50" parent="138" relname="explanation-evidence">（ 表 1 参照 ）</segment>
+		<segment id="51" parent="141" relname="same-unit">イラン が 、</segment>
+		<segment id="52" parent="53" relname="purpose-goal">核兵器 を 運搬 できる よう に</segment>
+		<segment id="53" parent="140" relname="span">設計 さ れ た</segment>
+		<segment id="54" parent="142" relname="span">ミサイル を 発射 し ない よう に 要請 さ れ た 点 に つい て も 看過 でき ない 。</segment>
+		<segment id="55" parent="142" relname="elaboration-additional">これ に は 、 法的 な 拘束力 が 伴っ て い なかっ た 。</segment>
+		<segment id="56" parent="146" relname="adversative-concession">つまり イラン が 核 ミサイル 実験 を 行っ た と し て も 、</segment>
+		<segment id="57" parent="145" relname="causal-cause">安保理 決議 に 違反 し て いる と いえ ない 状況 で あっ た ため 、</segment>
+		<segment id="58" parent="59" relname="purpose-goal">イラン 側 が 運搬 できる よう に</segment>
+		<segment id="59" parent="144" relname="span">設計 し て い ない と 主張 すれ ば 、</segment>
+		<segment id="60" parent="145" relname="span">その 主張 は 通っ て しまう こと に なる 。</segment>
+		<segment id="61" parent="151" relname="same-unit">国際 社会 が 懸念 し て いる の は 、</segment>
+		<segment id="62" parent="150" relname="joint-list">まさに 核兵器 が 開発 さ れ 、</segment>
+		<segment id="63" parent="150" relname="joint-list">それ が 運搬 さ れる 可能性 が ある と いう 点 で あっ た 。</segment>
+		<segment id="64" parent="65" relname="contingency-condition">つまり 核兵器 を 搭載 し なけれ ば 、</segment>
+		<segment id="65" parent="152" relname="span">イラン と し て も ミサイル 開発 を 非難 さ れる 理由 は どこ に も なかっ た 。</segment>
+		<segment id="66" parent="154" relname="causal-cause">国連 安保理 の 常任理事国 で ある ロシア と 中国 は 、 ミサイル 開発 に つい て は 認める べき だ と いう 立場 を とっ て い た 。</segment>
+		<segment id="67" parent="68" relname="adversative-concession">その ため 安保理 で 決議 を 図っ た と し て も 、</segment>
+		<segment id="68" parent="154" relname="span">ロシア と 中国 が 拒否権 を 発動 する 可能性 は 極めて 高かっ た 。</segment>
+		<segment id="69" parent="156" relname="joint-list">アメリカ が ミサイル 開発 を 理由 と し て 「 イラン 核 合意 」 を 破棄 し 、</segment>
+		<segment id="70" parent="156" relname="joint-list">再び イラン へ の 制裁 を 復活 さ せる と なる と 、</segment>
+		<segment id="71" parent="157" relname="span">イラン の 核兵器 開発 を 認め て しまう こと に なっ て しまう 。</segment>
+		<segment id="72" parent="159" relname="span">その ため 、 この イラン 核 合意 と ミサイル 問題 の 双方 で 早急 に 妥協点 を 図る 必要 が あっ た 。</segment>
+		<segment id="73" parent="160" relname="joint-list">その 後 、 過去 の 安保理 決議 を 廃止 し 、</segment>
+		<segment id="74" parent="160" relname="joint-list">新しい 安保理 決議 を 採択 する と いう</segment>
+		<segment id="75" parent="161" relname="span">妥協案 が 、 安保理 決議 2231 号 に よっ て 示さ れる こと と なっ た 。</segment>
+		<segment id="76" parent="187" relname="organization-heading">3 ． オバマ 政権 から トランプ政権 へ</segment>
+		<segment id="77" parent="175" relname="span">2009 年 １ 月 に アメリカ大統領 に 就任 し た オバマ 大統領 に とっ て 、 「 イラン 核 合意 」 は 「 核 なき 世界 」 の 象徴 と し て 極めて 重要 な 合意 で あっ た 。</segment>
+		<segment id="78" parent="170" relname="same-unit">また 長年 に わたる アメリカ と イラン の 対立 関係 を 超え て 合意 に 至っ た こと は 、</segment>
+		<segment id="79" parent="80" relname="elaboration-attribute">オバマ 大統領 自身 が 掲げ て き た</segment>
+		<segment id="80" parent="168" relname="span">目標 で あり 、</segment>
+		<segment id="81" parent="169" relname="joint-list">この 成果 を 成し遂げる こと は 非常 に 重要 で 意義 の ある こと で あっ た 。</segment>
+		<segment id="82" parent="185" relname="span">2017 年 1 月 、 アメリカ で トランプ政権 に 移行 する と 状況 は 一変 し た 。</segment>
+		<segment id="83" parent="184" relname="span">トランプ大統領 の 就任 直後 、 イラン が ミサイル 実験 を 行っ た の だ 。</segment>
+		<segment id="84" parent="173" relname="same-unit">移民 大国 の アメリカ に おい て 、</segment>
+		<segment id="85" parent="171" relname="joint-list">この 時 トランプ政権 は 移民 の 入国 一時 制限 を 行い 、</segment>
+		<segment id="86" parent="171" relname="joint-list">その 該当 国 の 中 に イラン も 含ん で い た こと で 、</segment>
+		<segment id="87" parent="172" relname="span">イラン に 対する 対決 姿勢 を あからさま に する 結果 と なっ た 。</segment>
+		<segment id="88" parent="174" relname="restatement-repetition">つまり 、 この ミサイル 実験 は 、 イラン 移民 に 対する アメリカ の 対応 に 報復 する かたち で も あっ た と いえる 。</segment>
+		<segment id="89" parent="179" relname="same-unit">トランプ 政権 の 国家 安全 保障 問題 担当 の フリン 大統領 補佐官 は 、</segment>
+		<segment id="90" parent="177" relname="same-unit">トランプ 政権 は 、</segment>
+		<segment id="91" parent="176" relname="joint-list">イラン に よる この よう な 行為 が 中東 全域 および それ 以外 の 地域 の 安全 保障 や 繁栄 、 安定 を 損ない 、</segment>
+		<segment id="92" parent="176" relname="joint-list">アメリカ 国民 の 生命 を 危険 に さらす もの で ある</segment>
+		<segment id="93" parent="177" relname="attribution-positive">と 非難 し 、</segment>
+		<segment id="94" parent="180" relname="context-circumstance">正式 に イラン に 警告 する と とも に 、</segment>
+		<segment id="95" parent="180" relname="span">イラン の 弾道 ミサイル 実験 が 国連 安保理 決議 に 違反 する</segment>
+		<segment id="96" parent="95" relname="attribution-positive">と 非難 し た 。</segment>
+		<segment id="97" parent="186" relname="span">この 攻撃的 な 言動 に よっ て イラン と の さらなる 確執 が 生じる こと と なっ た 。</segment>
+		<group id="98" type="span" parent="99" relname="context-background"/>
+		<group id="99" type="multinuc" parent="102" relname="span"/>
+		<group id="100" type="span" parent="101" relname="same-unit"/>
+		<group id="101" type="multinuc" parent="103" relname="span"/>
+		<group id="102" type="span" parent="101" relname="context-background"/>
+		<group id="103" type="span" parent="105" relname="context-background"/>
+		<group id="104" type="span" parent="114" relname="same-unit"/>
+		<group id="105" type="multinuc" parent="115" relname="span"/>
+		<group id="107" type="span" parent="105" relname="joint-list"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="110" type="span" parent="111" relname="same-unit"/>
+		<group id="111" type="multinuc" parent="113" relname="joint-list"/>
+		<group id="112" type="multinuc" parent="113" relname="joint-list"/>
+		<group id="113" type="multinuc" parent="116" relname="joint-list"/>
+		<group id="114" type="multinuc" parent="105" relname="joint-list"/>
+		<group id="115" type="span" parent="116" relname="joint-list"/>
+		<group id="116" type="multinuc" parent="117" relname="span"/>
+		<group id="117" type="span" parent="189" relname="joint-other"/>
+		<group id="118" type="span" parent="119" relname="restatement-repetition"/>
+		<group id="119" type="multinuc" parent="121" relname="same-unit"/>
+		<group id="120" type="span" parent="121" relname="same-unit"/>
+		<group id="121" type="multinuc" parent="131" relname="span"/>
+		<group id="122" type="multinuc" parent="123" relname="span"/>
+		<group id="123" type="span" parent="121" relname="elaboration-additional"/>
+		<group id="124" type="span" parent="125" relname="same-unit"/>
+		<group id="125" type="multinuc" parent="127" relname="joint-list"/>
+		<group id="126" type="span" parent="127" relname="joint-list"/>
+		<group id="127" type="multinuc" parent="130" relname="adversative-contrast"/>
+		<group id="128" type="span" parent="129" relname="same-unit"/>
+		<group id="129" type="multinuc" parent="130" relname="adversative-contrast"/>
+		<group id="130" type="multinuc" parent="132" relname="span"/>
+		<group id="131" type="span" parent="130" relname="context-background"/>
+		<group id="132" type="span" parent="165" relname="joint-other"/>
+		<group id="133" type="multinuc" parent="134" relname="same-unit"/>
+		<group id="134" type="multinuc" parent="149" relname="restatement-repetition"/>
+		<group id="135" type="span" parent="149" relname="restatement-repetition"/>
+		<group id="137" type="multinuc" parent="138" relname="same-unit"/>
+		<group id="138" type="multinuc" parent="139" relname="span"/>
+		<group id="139" type="span" parent="165" relname="joint-other"/>
+		<group id="140" type="span" parent="141" relname="same-unit"/>
+		<group id="141" type="multinuc" parent="54" relname="elaboration-attribute"/>
+		<group id="142" type="span" parent="143" relname="span"/>
+		<group id="143" type="span" parent="148" relname="restatement-repetition"/>
+		<group id="144" type="span" parent="60" relname="contingency-condition"/>
+		<group id="145" type="span" parent="146" relname="span"/>
+		<group id="146" type="span" parent="147" relname="span"/>
+		<group id="147" type="span" parent="148" relname="restatement-repetition"/>
+		<group id="148" type="multinuc" parent="153" relname="context-background"/>
+		<group id="149" type="multinuc" parent="165" relname="joint-other"/>
+		<group id="150" type="multinuc" parent="151" relname="same-unit"/>
+		<group id="151" type="multinuc" parent="153" relname="restatement-repetition"/>
+		<group id="152" type="span" parent="153" relname="restatement-repetition"/>
+		<group id="153" type="multinuc" parent="162" relname="span"/>
+		<group id="154" type="span" parent="155" relname="span"/>
+		<group id="155" type="span" parent="163" relname="span"/>
+		<group id="156" type="multinuc" parent="71" relname="contingency-condition"/>
+		<group id="157" type="span" parent="158" relname="span"/>
+		<group id="158" type="span" parent="72" relname="causal-cause"/>
+		<group id="159" type="span" parent="161" relname="context-background"/>
+		<group id="160" type="multinuc" parent="75" relname="elaboration-attribute"/>
+		<group id="161" type="span" parent="164" relname="span"/>
+		<group id="162" type="span" parent="155" relname="context-background"/>
+		<group id="163" type="span" parent="157" relname="context-background"/>
+		<group id="164" type="span" parent="165" relname="joint-other"/>
+		<group id="165" type="multinuc" parent="166" relname="span"/>
+		<group id="166" type="span" parent="189" relname="joint-other"/>
+		<group id="167" type="span" parent="190" relname="organization-heading"/>
+		<group id="168" type="span" parent="169" relname="joint-list"/>
+		<group id="169" type="multinuc" parent="170" relname="same-unit"/>
+		<group id="170" type="multinuc" parent="77" relname="elaboration-additional"/>
+		<group id="171" type="multinuc" parent="87" relname="mode-means"/>
+		<group id="172" type="span" parent="173" relname="same-unit"/>
+		<group id="173" type="multinuc" parent="174" relname="restatement-repetition"/>
+		<group id="174" type="multinuc" parent="83" relname="elaboration-additional"/>
+		<group id="175" type="span" parent="187" relname="joint-other"/>
+		<group id="176" type="multinuc" parent="177" relname="same-unit"/>
+		<group id="177" type="multinuc" parent="178" relname="span"/>
+		<group id="178" type="span" parent="182" relname="joint-list"/>
+		<group id="179" type="multinuc" parent="97" relname="context-background"/>
+		<group id="180" type="span" parent="183" relname="span"/>
+		<group id="182" type="multinuc" parent="179" relname="same-unit"/>
+		<group id="183" type="span" parent="182" relname="joint-list"/>
+		<group id="184" type="span" parent="82" relname="explanation-evidence"/>
+		<group id="185" type="span" parent="187" relname="joint-other"/>
+		<group id="186" type="span" parent="187" relname="joint-other"/>
+		<group id="187" type="multinuc" parent="188" relname="span"/>
+		<group id="188" type="span" parent="189" relname="joint-other"/>
+		<group id="189" type="multinuc" parent="190" relname="span"/>
+		<group id="190" type="span" parent="191" relname="span"/>
+		<group id="191" type="span" />
+	</body>
+</rst>

@@ -1,0 +1,481 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="397" relname="organization-heading">経歴</segment>
+		<segment id="2" parent="332" relname="organization-heading">出生 から 中津 帰藩 、 長崎 遊学</segment>
+		<segment id="3" parent="399" relname="span">大坂 堂島 新地 五丁目 に あっ た 豊前 国 中津 藩</segment>
+		<segment id="4" parent="3" relname="elaboration-additional">（ 現 ： 大分県中津市 ）</segment>
+		<segment id="5" parent="403" relname="span">の 蔵屋敷 で 下級 藩 士 ・ 福澤 百 助 と 妻 ・ 於順 の 間 に 次男</segment>
+		<segment id="6" parent="401" relname="span">（ 8 ~ 9 歳 上 の 兄 と 3 人 の 姉</segment>
+		<segment id="7" parent="6" relname="elaboration-additional">( 6 歳 上 、 4 歳 上 、 2 歳 上 )</segment>
+		<segment id="8" parent="402" relname="same-unit">を 持つ 末子 ）</segment>
+		<segment id="9" parent="400" relname="same-unit">と し て 生まれる 。</segment>
+		<segment id="10" parent="245" relname="same-unit">諭吉 と いう 名 は 、</segment>
+		<segment id="11" parent="12" relname="elaboration-attribute">儒学者 で も あっ た</segment>
+		<segment id="12" parent="404" relname="span">父 が 『 上 諭 条例 』</segment>
+		<segment id="13" parent="404" relname="elaboration-additional">（ 清 の 乾隆 帝 治世 下 の 法令 を 記録 し た 書 ）</segment>
+		<segment id="14" parent="405" relname="same-unit">を 手 に 入れ た</segment>
+		<segment id="15" parent="244" relname="span">夜 に 彼 が 生まれ た こと に 由来 する 。</segment>
+		<segment id="16" parent="248" relname="span">福澤 氏 の 祖 は 信濃 国 更級 郡 村上 村 網掛 福澤 あるいは 同国 諏訪郡 福澤 村 を 発祥 と し て 、</segment>
+		<segment id="17" parent="246" relname="joint-list">前者 は 清和 源氏 村上 氏 為国 流 、</segment>
+		<segment id="18" parent="246" relname="joint-list">後者 は 諏訪 氏 支流 と する 説 が あり 、</segment>
+		<segment id="19" parent="406" relname="span">友 米</segment>
+		<segment id="20" parent="19" relname="elaboration-additional">（ともよね）</segment>
+		<segment id="21" parent="407" relname="same-unit">の 代 に 豊前 国 中津 郡 に 移住 し た</segment>
+		<segment id="22" parent="247" relname="joint-list">-LSB- 7 -RSB-</segment>
+		<segment id="23" parent="247" relname="joint-list">-LSB- 注釈 2 -RSB- 。</segment>
+		<segment id="24" parent="25" relname="elaboration-attribute">友 米 の 孫 で ある</segment>
+		<segment id="25" parent="251" relname="span">父 ・ 百 助 は 、</segment>
+		<segment id="26" parent="27" relname="elaboration-attribute">鴻池 や 加島 屋 など の 大坂 の 商人 を 相手 に 藩 の 借財 を 扱う</segment>
+		<segment id="27" parent="252" relname="span">職 に あり ながら 、</segment>
+		<segment id="28" parent="253" relname="joint-list">藩儒 ・ 野本 雪 巌 や 帆足 万里 に 学び 、</segment>
+		<segment id="29" parent="253" relname="joint-list">菅 茶山 ・ 伊藤 東涯 など の 儒学 に 通じ た</segment>
+		<segment id="30" parent="254" relname="span">学者 で も あっ た</segment>
+		<segment id="31" parent="255" relname="explanation-evidence">-LSB- 注釈 3 -RSB- 。</segment>
+		<segment id="32" parent="260" relname="joint-other">百 助 の 後輩 に は 近江 国 水口 藩 ・ 藩儒 の 中村 栗園 が おり 、</segment>
+		<segment id="33" parent="34" relname="elaboration-attribute">深い 親交 が あっ た</segment>
+		<segment id="34" parent="259" relname="span">栗園 は 百 助 の 死後 も 諭吉 の 面倒 を 見 て い た 。</segment>
+		<segment id="35" parent="408" relname="span">中 小姓 格</segment>
+		<segment id="36" parent="35" relname="elaboration-additional">（ 厩 方 ）</segment>
+		<segment id="37" parent="409" relname="same-unit">の 役人 と なり 、</segment>
+		<segment id="38" parent="261" relname="joint-sequence">大坂 で の 勘定 方 勤番 は 十 数 年 に およん だ が 、</segment>
+		<segment id="39" parent="40" relname="mode-manner">身分 格差 の 激しい 中津 藩 で は 名 を なす こと も でき ず に</segment>
+		<segment id="40" parent="262" relname="span">この世 を 去っ た 。</segment>
+		<segment id="41" parent="267" relname="same-unit">その ため</segment>
+		<segment id="42" parent="43" relname="elaboration-attribute">息子 で ある</segment>
+		<segment id="43" parent="264" relname="span">諭吉 は のち に</segment>
+		<segment id="44" parent="410" relname="span">「 門閥 制度 は 親 の 敵（かたき） で 御座る 」</segment>
+		<segment id="45" parent="44" relname="elaboration-additional">（ 『 福翁 自伝 』 ）</segment>
+		<segment id="46" parent="410" relname="attribution-positive">と すら 述べ て おり 、</segment>
+		<segment id="47" parent="266" relname="joint-list">自身 も 封建制度 に は 疑問 を 感じ て い た 。</segment>
+		<segment id="48" parent="49" relname="elaboration-attribute">兄 ・ 三之助 は 父 に 似 た</segment>
+		<segment id="49" parent="270" relname="span">純粋 な 漢学者 で 、</segment>
+		<segment id="50" parent="271" relname="joint-list">「 死 に 至る まで 孝悌 忠信 」 の 一言 で あっ た と いう 。</segment>
+		<segment id="51" parent="273" relname="adversative-concession">なお 、 母 兄姉 と 一緒 に 暮らし て は い た が 、</segment>
+		<segment id="52" parent="53" relname="causal-cause">幼時 から 叔父 ・ 中村 術 平 の 養子 に なり</segment>
+		<segment id="53" parent="273" relname="span">中村 姓 を 名乗っ て い た 。</segment>
+		<segment id="54" parent="278" relname="joint-other">のち 、 福澤 家 に 復する 。</segment>
+		<segment id="55" parent="275" relname="span">体格 が よく 、</segment>
+		<segment id="56" parent="276" relname="span">当時 の 日本人 と し て は かなり 大柄 な 人物 で ある</segment>
+		<segment id="57" parent="411" relname="span">（ 明治 14 年</segment>
+		<segment id="58" parent="57" relname="elaboration-additional">（ 1881 年 ）</segment>
+		<segment id="59" parent="412" relname="adversative-contrast">7 月 当時 、 身長 は 173 cm 、 体重 は 70.25 kg 、 肺活量 は 5.159 ℓ</segment>
+		<segment id="60" parent="412" relname="explanation-evidence">-LSB- 8 -RSB- ） 。</segment>
+		<segment id="61" parent="414" relname="span">天保 6 年</segment>
+		<segment id="62" parent="61" relname="elaboration-additional">（ 1836 年 ）</segment>
+		<segment id="63" parent="413" relname="same-unit">、 父 の 死去 に より 中村 栗園 に 見送ら れ ながら</segment>
+		<segment id="64" parent="279" relname="joint-sequence">大坂 から 帰藩 し 、</segment>
+		<segment id="65" parent="416" relname="span">中津</segment>
+		<segment id="66" parent="65" relname="elaboration-additional">（ 現 ： 大分県中津市 ）</segment>
+		<segment id="67" parent="415" relname="same-unit">で 過ごす 。</segment>
+		<segment id="68" parent="281" relname="elaboration-additional">親 兄弟 や 当時 の 一般的 な 武家 の 子弟 と 異なり 、</segment>
+		<segment id="69" parent="70" relname="elaboration-attribute">孝悌 忠信 や 神仏 を 敬う と いう</segment>
+		<segment id="70" parent="281" relname="span">価値観 は もっ て い なかっ た 。</segment>
+		<segment id="71" parent="72" relname="contingency-condition">お札 を 踏ん で も</segment>
+		<segment id="72" parent="283" relname="span">祟り が 起こら ない 事 を 確かめ て み たり 、</segment>
+		<segment id="73" parent="284" relname="joint-list">神社 で 悪戯 を し て み たり と 、</segment>
+		<segment id="74" parent="285" relname="span">悪童 まがい の はつらつ と し た</segment>
+		<segment id="75" parent="286" relname="span">子供 だっ た よう だ が 、</segment>
+		<segment id="76" parent="287" relname="joint-disjunction">刀剣 細工 や 畳 の 表 が え 、</segment>
+		<segment id="77" parent="287" relname="joint-disjunction">障子 の はりかえ を こなす など</segment>
+		<segment id="78" parent="288" relname="span">内職 に 長け た</segment>
+		<segment id="79" parent="289" relname="span">子供 で あっ た 。</segment>
+		<segment id="80" parent="298" relname="joint-sequence">5 歳 ごろ から 藩 士 ・ 服部 五郎兵衛 に 漢学 と 一刀流 の 手解き を 受け 始める 。</segment>
+		<segment id="81" parent="291" relname="adversative-concession">初め は 読書 嫌い で あっ た が 、</segment>
+		<segment id="82" parent="83" relname="causal-cause">14 、 5 歳 に なっ て から 近所 で 自分 だけ 勉強 を し ない と いう の も 世間体 が 悪い と いう こと で</segment>
+		<segment id="83" parent="291" relname="span">勉学 を 始める 。</segment>
+		<segment id="84" parent="293" relname="joint-sequence">しかし 始め て みる と</segment>
+		<segment id="85" parent="294" relname="joint-list">すぐ に 実力 を つけ 、</segment>
+		<segment id="86" parent="294" relname="joint-list">以後 さまざま な 漢書 を 読み漁り 、</segment>
+		<segment id="87" parent="294" relname="joint-list">漢籍 を 修める 。</segment>
+		<segment id="88" parent="296" relname="joint-sequence">18 歳 に なる と 、</segment>
+		<segment id="89" parent="90" relname="elaboration-attribute">兄 ・ 三之助 も 師事 し た</segment>
+		<segment id="90" parent="295" relname="span">野本 真 城 、 白石 照山 の 塾 ・ 晩 香 堂 へ 通い 始める 。</segment>
+		<segment id="91" parent="297" relname="adversative-contrast">『 論語 』 『 孟子 』 『 詩経 』 『 書経 』 は もちろん 、 『 史記 』 『 左伝 』 『 老子 』 『 荘子 』 に および 、 特に 『 左伝 』 は 得意 で 15 巻 を 11 度 も 読み返し て</segment>
+		<segment id="92" parent="297" relname="adversative-contrast">面白い ところ は 暗記 し た と いう 。</segment>
+		<segment id="93" parent="417" relname="span">この ころ に は 先輩 を 凌い で 「 漢学者 の 前座 ぐらい</segment>
+		<segment id="94" parent="93" relname="attribution-positive">（ 自伝 ） 」</segment>
+		<segment id="95" parent="418" relname="same-unit">は 勤まる よう に なっ て い た 。</segment>
+		<segment id="96" parent="298" relname="joint-sequence">また 学問 の かたわら 立身 新 流 の 居合 術 を 習得 し た 。</segment>
+		<segment id="97" parent="300" relname="joint-list">福澤 の 学問的 ・ 思想 的 源流 に 当たる の は 荻生 徂徠 で あり 、</segment>
+		<segment id="98" parent="300" relname="joint-list">諭吉 の 師 ・ 白石 照山 は 陽明 学 や 朱子学 も 修め て い た の で</segment>
+		<segment id="99" parent="301" relname="span">諭吉 の 学問 の 基本 に は 儒学 が 根ざし て おり 、</segment>
+		<segment id="100" parent="101" relname="elaboration-additional">その 学統 は 白石 照山 ・ 野本 百 厳 ・ 帆足 万里 を 経 て 、</segment>
+		<segment id="101" parent="302" relname="span">祖父 ・ 兵左衛門 も 門 を 叩い た 三浦 梅園 に まで さかのぼる こと が できる 。</segment>
+		<segment id="102" parent="103" relname="mode-means">のち に 蘭学 の 道 を 経 て</segment>
+		<segment id="103" parent="304" relname="span">思想家 と なる</segment>
+		<segment id="104" parent="305" relname="span">過程 に も 、 この 学統 が 原点 に ある 。</segment>
+		<segment id="105" parent="419" relname="span">安政 元年</segment>
+		<segment id="106" parent="105" relname="elaboration-additional">（ 1854 年 ）</segment>
+		<segment id="107" parent="420" relname="same-unit">、 諭吉 は 兄 の 勧め で 19 歳 で 長崎 へ 遊学 し て</segment>
+		<segment id="108" parent="421" relname="span">蘭学 を 学ぶ</segment>
+		<segment id="109" parent="108" relname="elaboration-additional">（ 嘉永 7 年 2 月 ） 。</segment>
+		<segment id="110" parent="308" relname="joint-other">長崎市 の 光永 寺 に 寄宿 し 、</segment>
+		<segment id="111" parent="308" relname="joint-other">現在 は 石碑 が 残さ れ て いる 。</segment>
+		<segment id="112" parent="310" relname="context-background">黒船 来航 に より 砲術 の 需要 が 高まり 、</segment>
+		<segment id="113" parent="114" relname="context-background">「 オランダ 流 砲術 を 学ぶ に は オランダ 語 の 原典 を 読ま なけれ ば なら ない が 、</segment>
+		<segment id="114" parent="309" relname="span">それ を 読ん で みる 気 は ない か 」 と</segment>
+		<segment id="115" parent="310" relname="span">兄 から 誘わ れ た の が きっかけ で あっ た 。</segment>
+		<segment id="116" parent="424" relname="joint-list">長崎 奉行 配下 の 役人 で 砲術 家 の 山本 物 次郎 宅 に 居候 し 、</segment>
+		<segment id="117" parent="423" relname="span">オランダ 通詞</segment>
+		<segment id="118" parent="117" relname="elaboration-additional">（ 通訳 など を 仕事 と する 長崎 の 役人 ）</segment>
+		<segment id="119" parent="422" relname="same-unit">の 元 へ 通っ て オランダ 語 を 学ん だ 。</segment>
+		<segment id="120" parent="318" relname="same-unit">山本 家 に は 蛮社 の 獄 の 際 に 高島 秋帆 が</segment>
+		<segment id="121" parent="122" relname="elaboration-attribute">没収 さ れ た</segment>
+		<segment id="122" parent="313" relname="span">砲術 関係 の 書物 が 保管 さ れ て おり 、</segment>
+		<segment id="123" parent="124" relname="elaboration-attribute">山本 は 所蔵 し て い た</segment>
+		<segment id="124" parent="314" relname="span">砲術 関係 の 書籍 を</segment>
+		<segment id="125" parent="315" relname="joint-list">貸し たり</segment>
+		<segment id="126" parent="315" relname="joint-list">写さ せ たり し て</segment>
+		<segment id="127" parent="317" relname="span">謝金 を もらっ て おり 、</segment>
+		<segment id="128" parent="320" relname="span">諭吉 は 鉄砲 の 設計図 を 引く こと さえ できる よう に なっ た 。</segment>
+		<segment id="129" parent="130" relname="context-background">山本 家 の 客 の 中 に 、 薩摩 藩 の 松崎 鼎 甫 が おり 、</segment>
+		<segment id="130" parent="321" relname="span">アルファベット を 教え て もらう 。</segment>
+		<segment id="131" parent="426" relname="span">その 時分 の 諸藩 の 西洋 家 、 たとえば 村田 蔵六</segment>
+		<segment id="132" parent="131" relname="elaboration-additional">（ のち の 大村 益次郎 ）</segment>
+		<segment id="133" parent="425" relname="same-unit">・ 本島 藤太 夫 ・ 菊池 富太郎 ら が 来 て 、</segment>
+		<segment id="134" parent="322" relname="joint-list">「 出島 の オランダ 屋敷 に 行っ て み たい 」 と か 、</segment>
+		<segment id="135" parent="322" relname="joint-list">「 大砲 を 鋳る から 図 を みせ て くれ 」 と か 、</segment>
+		<segment id="136" parent="323" relname="span">そんな 世話 を する の が 山本 家 の 仕事 で あり 、</segment>
+		<segment id="137" parent="323" relname="elaboration-additional">その 実 は みな 諭吉 の 仕事 で あっ た 。</segment>
+		<segment id="138" parent="327" relname="same-unit">中 で も 、</segment>
+		<segment id="139" parent="140" relname="causal-cause">菊池 富太郎 は 黒船 に 乗船 する こと を 許さ れ た 人物 で 、</segment>
+		<segment id="140" parent="326" relname="span">諭吉 は この 長崎 滞在 時 に かなり 多く の 知識 を 得る こと が でき た 。</segment>
+		<segment id="141" parent="328" relname="joint-list">その かたわら 石川 桜 所 の 下 で 暇 を 見つけ て は 教え を 受け たり 、</segment>
+		<segment id="142" parent="328" relname="joint-list">縁 を 頼り に 勉学 を 続け た 。</segment>
+		<segment id="143" parent="427" relname="span">適塾 時代</segment>
+		<segment id="144" parent="143" relname="elaboration-additional">（ 大坂 ）</segment>
+		<segment id="145" parent="428" relname="span">安政 2 年</segment>
+		<segment id="146" parent="145" relname="elaboration-additional">（ 1855 年 ） 、</segment>
+		<segment id="147" parent="337" relname="same-unit">諭吉 は</segment>
+		<segment id="148" parent="149" relname="elaboration-attribute">その 山本 家 を 紹介 し た</segment>
+		<segment id="149" parent="334" relname="span">奥平 壱岐 や 、</segment>
+		<segment id="150" parent="151" relname="elaboration-attribute">その 実家 で ある</segment>
+		<segment id="151" parent="430" relname="span">奥 平家</segment>
+		<segment id="152" parent="430" relname="elaboration-additional">（ 中津 藩 家老 の 家柄 ）</segment>
+		<segment id="153" parent="431" relname="same-unit">と 不和 に なり 、</segment>
+		<segment id="154" parent="155" relname="purpose-attribute">中津 へ 戻る よう に と</segment>
+		<segment id="155" parent="338" relname="span">の 知らせ が 届く 。</segment>
+		<segment id="156" parent="341" relname="causal-cause">しかし 諭吉 本人 は 前年 に 中津 を 出立 し た とき から 中津 へ 戻る つもり など 毛頭 なく 、</segment>
+		<segment id="157" parent="158" relname="elaboration-additional">大坂 を 経 て</segment>
+		<segment id="158" parent="340" relname="span">江戸 へ 出る</segment>
+		<segment id="159" parent="341" relname="span">計画 を 強行 する 。</segment>
+		<segment id="160" parent="344" relname="joint-sequence">大坂 へ 到着 する と 、</segment>
+		<segment id="161" parent="162" relname="elaboration-attribute">かつて の 父 と 同じく 中津 藩 蔵屋敷 に 務め て い た</segment>
+		<segment id="162" parent="343" relname="span">兄 を 訪ねる 。</segment>
+		<segment id="163" parent="345" relname="joint-list">する と 兄 から 「 江戸 へ は 行く な 」 と 引き止め られ 、</segment>
+		<segment id="164" parent="345" relname="joint-list">大坂 で 蘭学 を 学ぶ よう 説得 さ れる 。</segment>
+		<segment id="165" parent="350" relname="joint-list">そこ で 諭吉 は 大坂 の 中津 藩 蔵屋敷 に 居候 し ながら 、</segment>
+		<segment id="166" parent="349" relname="joint-list">当時 「 過 所 町 の 先生 」 と 呼ば れ 、</segment>
+		<segment id="167" parent="349" relname="joint-list">他 を 圧倒 し て い た</segment>
+		<segment id="168" parent="348" relname="span">足守 藩 下士 で 蘭学者 ・ 緒方 洪庵 の 「 適塾 」 で 学ぶ こと と なっ た</segment>
+		<segment id="169" parent="432" relname="span">（ 旧暦 3 月 9 日</segment>
+		<segment id="170" parent="169" relname="elaboration-additional">（ 4 月 25 日 ） ） 。</segment>
+		<segment id="171" parent="361" relname="joint-sequence">その 後 、 諭吉 が 腸 チフス を 患う と 、</segment>
+		<segment id="172" parent="360" relname="same-unit">洪庵 から</segment>
+		<segment id="173" parent="358" relname="joint-other">「 乃公 は お前 の 病気 を 屹と 診 て やる 。</segment>
+		<segment id="174" parent="175" relname="adversative-concession">診 て やる けれど も 、</segment>
+		<segment id="175" parent="352" relname="span">乃公 が 自分 で 処方 する こと は 出来 ない 。</segment>
+		<segment id="176" parent="352" relname="explanation-justify">何分 に も 迷う て しまう 。</segment>
+		<segment id="177" parent="354" relname="joint-sequence">この 薬 あの 薬 と 迷う て 、</segment>
+		<segment id="178" parent="354" relname="joint-sequence">あと に なっ て そう で も なかっ た と 言っ て また 薬 の 加減 を する と いう よう な 訳 け で 、</segment>
+		<segment id="179" parent="355" relname="span">しまい に は 何 の 療治 を し た か 訳 けが 分から ぬ よう に なる と いう の は 人情 の 免れ ぬ こと で ある から 、</segment>
+		<segment id="180" parent="181" relname="adversative-concession">病 は 診 て やる が</segment>
+		<segment id="181" parent="353" relname="span">執匙 は 外 の 医者 に 頼む 。</segment>
+		<segment id="182" parent="358" relname="joint-other">その つもり に し て 居れ 」</segment>
+		<segment id="183" parent="358" relname="attribution-positive">（ 自伝 ）</segment>
+		<segment id="184" parent="359" relname="attribution-positive">と 告げ られ 、</segment>
+		<segment id="185" parent="361" relname="joint-sequence">洪庵 の 朋友 、 内藤 数馬 から 処置 を 施さ れ 、</segment>
+		<segment id="186" parent="361" relname="joint-sequence">体力 が 回復 する 。</segment>
+		<segment id="187" parent="361" relname="joint-sequence">そして 。 一時 中津 へ 帰国 する 。</segment>
+		<segment id="188" parent="434" relname="span">安政 3 年</segment>
+		<segment id="189" parent="188" relname="elaboration-additional">（ 1856 年 ）</segment>
+		<segment id="190" parent="435" relname="same-unit">、 諭吉 は 再び 大坂 へ 出 て 学ぶ 。</segment>
+		<segment id="191" parent="192" relname="context-background">同年 、 兄 が 死に</segment>
+		<segment id="192" parent="362" relname="span">福澤 家 の 家督 を 継ぐ こと に なる 。</segment>
+		<segment id="193" parent="365" relname="context-background">しかし 大坂 遊学 を 諦め きれ ず 、</segment>
+		<segment id="194" parent="195" relname="mode-means">父 の 蔵書 や 家財道具 を 売り払っ て</segment>
+		<segment id="195" parent="365" relname="span">借金 を 完済 し た あと 、</segment>
+		<segment id="196" parent="197" relname="adversative-antithesis">母 以外 の 親類 から 反対 さ れる も</segment>
+		<segment id="197" parent="364" relname="span">これ を 押し切っ て 大坂 の 適塾 で 学ん だ 。</segment>
+		<segment id="198" parent="199" relname="elaboration-attribute">学費 を 払う</segment>
+		<segment id="199" parent="363" relname="span">経済力 は なかっ た ため 、</segment>
+		<segment id="200" parent="369" relname="same-unit">諭吉 が</segment>
+		<segment id="201" parent="202" relname="elaboration-attribute">奥平 壱岐 から 借り受け て 密か に 筆写 し た</segment>
+		<segment id="202" parent="437" relname="span">築城 学 の 教科書</segment>
+		<segment id="203" parent="437" relname="elaboration-additional">（ C . M . H . Pel , Handleiding tot de Kennis der Versterkingskunst , Hertogenbosch 、 1852 年 ）</segment>
+		<segment id="204" parent="438" relname="span">を 翻訳 する と いう 名目 で 適塾 の 食客</segment>
+		<segment id="205" parent="204" relname="elaboration-additional">（ 住み込み 学生 ）</segment>
+		<segment id="206" parent="369" relname="same-unit">と し て 学ぶ こと と なる 。</segment>
+		<segment id="207" parent="439" relname="span">安政 4 年</segment>
+		<segment id="208" parent="207" relname="elaboration-additional">（ 1857 年 ）</segment>
+		<segment id="209" parent="440" relname="restatement-repetition">、 諭吉 は 最年少 22 歳 で 適塾 の 塾頭 と なり 、</segment>
+		<segment id="210" parent="372" relname="joint-list">後任 に 長与 専斎 を 指名 し た 。</segment>
+		<segment id="211" parent="373" relname="joint-list">適塾 で は オランダ 語 の 原書 を 読み 、</segment>
+		<segment id="212" parent="373" relname="joint-list">あるいは 筆写 し 、</segment>
+		<segment id="213" parent="373" relname="joint-list">時 に その 記述 に 従っ て 化学 実験 、 簡易 な 理科 実験 など を し て い た 。</segment>
+		<segment id="214" parent="215" relname="causal-cause">ただし 生来 血 を 見る の が 苦手 で あっ た ため</segment>
+		<segment id="215" parent="374" relname="span">瀉血 や 手術 解剖 の たぐい に は 手 を 出さ なかっ た 。</segment>
+		<segment id="216" parent="375" relname="joint-list">適塾 は 診療所 が 附設 し て あり 、</segment>
+		<segment id="217" parent="375" relname="joint-list">医学 塾 で は あっ た が 、</segment>
+		<segment id="218" parent="377" relname="same-unit">諭吉 は</segment>
+		<segment id="219" parent="220" relname="adversative-antithesis">医学 を 学ん だ と いう より は</segment>
+		<segment id="220" parent="376" relname="span">オランダ 語 を 学ん だ と いう こと の よう で ある 。</segment>
+		<segment id="221" parent="380" relname="context-background">また 工芸 技術 に も 熱心 に なり 、</segment>
+		<segment id="222" parent="223" relname="mode-means">化学（ケミスト） の 道具 を 使っ て</segment>
+		<segment id="223" parent="380" relname="span">色 の 黒い 硫酸 を 製造 し た ところ 、</segment>
+		<segment id="224" parent="382" relname="span">鶴田 仙庵 が 頭 から かぶっ て 危うく 怪我 を し そう に なっ た こと も ある</segment>
+		<segment id="225" parent="382" relname="explanation-evidence">-LSB- 注釈 4 -RSB- 。</segment>
+		<segment id="226" parent="227" relname="mode-means">また 、 福岡 藩主 ・ 黒田 長溥 が 金 80 両 を 投じ て</segment>
+		<segment id="227" parent="386" relname="span">長崎 で 購入 し た</segment>
+		<segment id="228" parent="384" relname="span">『 ワンダー ベルツ 』 と 題する</segment>
+		<segment id="229" parent="385" relname="span">物理 書 を 写本 し て 、</segment>
+		<segment id="230" parent="387" relname="joint-list">元素 を 配列 し て そこ に</segment>
+		<segment id="231" parent="441" relname="span">積極 消極</segment>
+		<segment id="232" parent="231" relname="elaboration-additional">（ プラスマイナス ）</segment>
+		<segment id="233" parent="442" relname="span">の 順 を 定める こと や ファラデー の 電気 説</segment>
+		<segment id="234" parent="233" relname="elaboration-additional">（ ファラデー の 法則</segment>
+		<segment id="235" parent="443" relname="adversative-antithesis">-LSB- 要 曖昧 さ 回避 -RSB- ）</segment>
+		<segment id="236" parent="389" relname="same-unit">を 初めて 知る こと に なる 。</segment>
+		<segment id="237" parent="238" relname="context-background">こう いっ た 電気 の 新説 など を 知り 、</segment>
+		<segment id="238" parent="391" relname="span">発電 を 試み たり も し た よう で ある 。</segment>
+		<segment id="239" parent="393" relname="same-unit">ほか に も</segment>
+		<segment id="240" parent="392" relname="joint-list">昆布 や 荒布 から の ヨジュウム 単体 の 抽出 、</segment>
+		<segment id="241" parent="392" relname="joint-list">淀川 に 浮かべ た 小舟 の 上 で の アンモニア 製造 など</segment>
+		<segment id="242" parent="393" relname="same-unit">が ある 。</segment>
+		<group id="243" type="span" parent="405" relname="same-unit"/>
+		<group id="244" type="span" parent="245" relname="same-unit"/>
+		<group id="245" type="multinuc" parent="257" relname="joint-other"/>
+		<group id="246" type="multinuc" parent="16" relname="elaboration-attribute"/>
+		<group id="247" type="multinuc" parent="249" relname="explanation-evidence"/>
+		<group id="248" type="span" parent="249" relname="same-unit"/>
+		<group id="249" type="multinuc" parent="250" relname="span"/>
+		<group id="250" type="span" parent="257" relname="joint-other"/>
+		<group id="251" type="span" parent="258" relname="same-unit"/>
+		<group id="252" type="span" parent="255" relname="joint-list"/>
+		<group id="253" type="multinuc" parent="30" relname="elaboration-attribute"/>
+		<group id="254" type="span" parent="255" relname="joint-list"/>
+		<group id="255" type="multinuc" parent="256" relname="span"/>
+		<group id="256" type="span" parent="258" relname="same-unit"/>
+		<group id="257" type="multinuc" parent="332" relname="joint-sequence"/>
+		<group id="258" type="multinuc" parent="272" relname="joint-other"/>
+		<group id="259" type="span" parent="260" relname="joint-other"/>
+		<group id="260" type="multinuc" parent="263" relname="context-background"/>
+		<group id="261" type="multinuc" parent="262" relname="adversative-concession"/>
+		<group id="262" type="span" parent="263" relname="span"/>
+		<group id="263" type="span" parent="269" relname="span"/>
+		<group id="264" type="span" parent="267" relname="same-unit"/>
+		<group id="265" type="span" parent="266" relname="joint-list"/>
+		<group id="266" type="multinuc" parent="267" relname="same-unit"/>
+		<group id="267" type="multinuc" parent="268" relname="span"/>
+		<group id="268" type="span" parent="272" relname="joint-other"/>
+		<group id="269" type="span" parent="267" relname="causal-cause"/>
+		<group id="270" type="span" parent="271" relname="joint-list"/>
+		<group id="271" type="multinuc" parent="272" relname="joint-other"/>
+		<group id="272" type="multinuc" parent="332" relname="joint-sequence"/>
+		<group id="273" type="span" parent="274" relname="span"/>
+		<group id="274" type="span" parent="278" relname="joint-other"/>
+		<group id="275" type="span" parent="278" relname="joint-other"/>
+		<group id="276" type="span" parent="55" relname="explanation-justify"/>
+		<group id="277" type="span" parent="56" relname="elaboration-additional"/>
+		<group id="278" type="multinuc" parent="272" relname="joint-other"/>
+		<group id="279" type="multinuc" parent="280" relname="joint-list"/>
+		<group id="280" type="multinuc" parent="299" relname="joint-other"/>
+		<group id="281" type="span" parent="282" relname="span"/>
+		<group id="282" type="span" parent="299" relname="joint-other"/>
+		<group id="283" type="span" parent="284" relname="joint-list"/>
+		<group id="284" type="multinuc" parent="74" relname="elaboration-additional"/>
+		<group id="285" type="span" parent="75" relname="elaboration-attribute"/>
+		<group id="286" type="span" parent="290" relname="adversative-contrast"/>
+		<group id="287" type="multinuc" parent="78" relname="elaboration-additional"/>
+		<group id="288" type="span" parent="79" relname="elaboration-attribute"/>
+		<group id="289" type="span" parent="290" relname="adversative-contrast"/>
+		<group id="290" type="multinuc" parent="299" relname="joint-other"/>
+		<group id="291" type="span" parent="292" relname="span"/>
+		<group id="292" type="span" parent="298" relname="joint-sequence"/>
+		<group id="293" type="multinuc" parent="298" relname="joint-sequence"/>
+		<group id="294" type="multinuc" parent="293" relname="joint-sequence"/>
+		<group id="295" type="span" parent="296" relname="joint-sequence"/>
+		<group id="296" type="multinuc" parent="298" relname="joint-sequence"/>
+		<group id="297" type="multinuc" parent="298" relname="joint-sequence"/>
+		<group id="298" type="multinuc" parent="307" relname="span"/>
+		<group id="299" type="multinuc" parent="332" relname="joint-sequence"/>
+		<group id="300" type="multinuc" parent="99" relname="causal-cause"/>
+		<group id="301" type="span" parent="303" relname="joint-other"/>
+		<group id="302" type="span" parent="303" relname="joint-other"/>
+		<group id="303" type="multinuc" parent="298" relname="elaboration-additional"/>
+		<group id="304" type="span" parent="104" relname="elaboration-attribute"/>
+		<group id="305" type="span" parent="303" relname="joint-other"/>
+		<group id="306" type="multinuc" parent="329" relname="joint-sequence"/>
+		<group id="307" type="span" parent="332" relname="joint-sequence"/>
+		<group id="308" type="multinuc" parent="329" relname="joint-sequence"/>
+		<group id="309" type="span" parent="115" relname="elaboration-attribute"/>
+		<group id="310" type="span" parent="311" relname="span"/>
+		<group id="311" type="span" parent="329" relname="joint-sequence"/>
+		<group id="313" type="span" parent="318" relname="same-unit"/>
+		<group id="314" type="span" parent="316" relname="same-unit"/>
+		<group id="315" type="multinuc" parent="316" relname="same-unit"/>
+		<group id="316" type="multinuc" parent="127" relname="mode-means"/>
+		<group id="317" type="span" parent="319" relname="joint-list"/>
+		<group id="318" type="multinuc" parent="319" relname="joint-list"/>
+		<group id="319" type="multinuc" parent="128" relname="context-background"/>
+		<group id="320" type="span" parent="330" relname="joint-other"/>
+		<group id="321" type="span" parent="330" relname="joint-other"/>
+		<group id="322" type="multinuc" parent="324" relname="span"/>
+		<group id="323" type="span" parent="325" relname="span"/>
+		<group id="324" type="span" parent="136" relname="elaboration-attribute"/>
+		<group id="325" type="span" parent="330" relname="joint-other"/>
+		<group id="326" type="span" parent="327" relname="same-unit"/>
+		<group id="327" type="multinuc" parent="330" relname="joint-other"/>
+		<group id="328" type="multinuc" parent="330" relname="joint-other"/>
+		<group id="329" type="multinuc" parent="330" relname="context-background"/>
+		<group id="330" type="multinuc" parent="331" relname="span"/>
+		<group id="331" type="span" parent="332" relname="joint-sequence"/>
+		<group id="332" type="multinuc" parent="333" relname="span"/>
+		<group id="333" type="span" parent="397" relname="joint-sequence"/>
+		<group id="334" type="span" parent="336" relname="joint-list"/>
+		<group id="335" type="span" parent="431" relname="same-unit"/>
+		<group id="336" type="multinuc" parent="337" relname="same-unit"/>
+		<group id="337" type="multinuc" parent="338" relname="context-background"/>
+		<group id="338" type="span" parent="339" relname="span"/>
+		<group id="339" type="span" parent="342" relname="adversative-concession"/>
+		<group id="340" type="span" parent="159" relname="elaboration-attribute"/>
+		<group id="341" type="span" parent="342" relname="span"/>
+		<group id="342" type="span" parent="347" relname="span"/>
+		<group id="343" type="span" parent="344" relname="joint-sequence"/>
+		<group id="344" type="multinuc" parent="346" relname="joint-sequence"/>
+		<group id="345" type="multinuc" parent="346" relname="joint-sequence"/>
+		<group id="346" type="multinuc" parent="350" relname="context-background"/>
+		<group id="347" type="span" parent="346" relname="joint-sequence"/>
+		<group id="348" type="span" parent="433" relname="span"/>
+		<group id="349" type="multinuc" parent="168" relname="elaboration-attribute"/>
+		<group id="350" type="multinuc" parent="351" relname="span"/>
+		<group id="351" type="span" parent="395" relname="joint-sequence"/>
+		<group id="352" type="span" parent="357" relname="span"/>
+		<group id="353" type="span" parent="356" relname="span"/>
+		<group id="354" type="multinuc" parent="179" relname="causal-cause"/>
+		<group id="355" type="span" parent="353" relname="causal-cause"/>
+		<group id="356" type="span" parent="358" relname="joint-other"/>
+		<group id="357" type="span" parent="358" relname="joint-other"/>
+		<group id="358" type="multinuc" parent="359" relname="span"/>
+		<group id="359" type="span" parent="436" relname="span"/>
+		<group id="360" type="multinuc" parent="361" relname="joint-sequence"/>
+		<group id="361" type="multinuc" parent="395" relname="joint-sequence"/>
+		<group id="362" type="span" parent="371" relname="joint-sequence"/>
+		<group id="363" type="span" parent="369" relname="causal-cause"/>
+		<group id="364" type="span" parent="367" relname="joint-sequence"/>
+		<group id="365" type="span" parent="366" relname="span"/>
+		<group id="366" type="span" parent="367" relname="joint-sequence"/>
+		<group id="367" type="multinuc" parent="371" relname="joint-sequence"/>
+		<group id="368" type="span" parent="369" relname="same-unit"/>
+		<group id="369" type="multinuc" parent="370" relname="span"/>
+		<group id="370" type="span" parent="371" relname="joint-sequence"/>
+		<group id="371" type="multinuc" parent="395" relname="joint-sequence"/>
+		<group id="372" type="multinuc" parent="373" relname="context-background"/>
+		<group id="373" type="multinuc" parent="379" relname="span"/>
+		<group id="374" type="span" parent="394" relname="joint-other"/>
+		<group id="375" type="multinuc" parent="377" relname="adversative-concession"/>
+		<group id="376" type="span" parent="377" relname="same-unit"/>
+		<group id="377" type="multinuc" parent="378" relname="span"/>
+		<group id="378" type="span" parent="394" relname="joint-other"/>
+		<group id="379" type="span" parent="394" relname="joint-other"/>
+		<group id="380" type="span" parent="381" relname="span"/>
+		<group id="381" type="span" parent="224" relname="context-circumstance"/>
+		<group id="382" type="span" parent="383" relname="span"/>
+		<group id="383" type="span" parent="394" relname="joint-other"/>
+		<group id="384" type="span" parent="229" relname="elaboration-attribute"/>
+		<group id="385" type="span" parent="387" relname="joint-list"/>
+		<group id="386" type="span" parent="228" relname="elaboration-attribute"/>
+		<group id="387" type="multinuc" parent="389" relname="mode-means"/>
+		<group id="388" type="span" parent="389" relname="same-unit"/>
+		<group id="389" type="multinuc" parent="390" relname="span"/>
+		<group id="390" type="span" parent="394" relname="joint-other"/>
+		<group id="391" type="span" parent="394" relname="joint-other"/>
+		<group id="392" type="multinuc" parent="393" relname="same-unit"/>
+		<group id="393" type="multinuc" parent="394" relname="joint-other"/>
+		<group id="394" type="multinuc" parent="395" relname="joint-sequence"/>
+		<group id="395" type="multinuc" parent="396" relname="span"/>
+		<group id="396" type="span" parent="397" relname="joint-sequence"/>
+		<group id="397" type="multinuc" parent="398" relname="span"/>
+		<group id="398" type="span" />
+		<group id="399" type="span" parent="400" relname="same-unit"/>
+		<group id="400" type="multinuc" parent="257" relname="joint-other"/>
+		<group id="401" type="span" parent="402" relname="same-unit"/>
+		<group id="402" type="multinuc" parent="5" relname="elaboration-additional"/>
+		<group id="403" type="span" parent="400" relname="same-unit"/>
+		<group id="404" type="span" parent="243" relname="span"/>
+		<group id="405" type="multinuc" parent="15" relname="elaboration-attribute"/>
+		<group id="406" type="span" parent="407" relname="same-unit"/>
+		<group id="407" type="multinuc" parent="249" relname="same-unit"/>
+		<group id="408" type="span" parent="409" relname="same-unit"/>
+		<group id="409" type="multinuc" parent="261" relname="joint-sequence"/>
+		<group id="410" type="span" parent="265" relname="span"/>
+		<group id="411" type="span" parent="412" relname="adversative-contrast"/>
+		<group id="412" type="multinuc" parent="277" relname="span"/>
+		<group id="413" type="multinuc" parent="280" relname="joint-list"/>
+		<group id="414" type="span" parent="413" relname="same-unit"/>
+		<group id="415" type="multinuc" parent="279" relname="joint-sequence"/>
+		<group id="416" type="span" parent="415" relname="same-unit"/>
+		<group id="417" type="span" parent="418" relname="same-unit"/>
+		<group id="418" type="multinuc" parent="298" relname="joint-sequence"/>
+		<group id="419" type="span" parent="420" relname="same-unit"/>
+		<group id="420" type="multinuc" parent="306" relname="joint-sequence"/>
+		<group id="421" type="span" parent="306" relname="joint-sequence"/>
+		<group id="422" type="multinuc" parent="424" relname="joint-list"/>
+		<group id="423" type="span" parent="422" relname="same-unit"/>
+		<group id="424" type="multinuc" parent="329" relname="joint-sequence"/>
+		<group id="425" type="multinuc" parent="322" relname="context-circumstance"/>
+		<group id="426" type="span" parent="425" relname="same-unit"/>
+		<group id="427" type="span" parent="395" relname="organization-heading"/>
+		<group id="428" type="span" parent="337" relname="same-unit"/>
+		<group id="430" type="span" parent="335" relname="span"/>
+		<group id="431" type="multinuc" parent="336" relname="joint-list"/>
+		<group id="432" type="span" parent="348" relname="context-circumstance"/>
+		<group id="433" type="span" parent="350" relname="joint-list"/>
+		<group id="434" type="span" parent="435" relname="same-unit"/>
+		<group id="435" type="multinuc" parent="371" relname="joint-sequence"/>
+		<group id="436" type="span" parent="360" relname="same-unit"/>
+		<group id="437" type="span" parent="368" relname="span"/>
+		<group id="438" type="span" parent="369" relname="same-unit"/>
+		<group id="439" type="span" parent="440" relname="restatement-repetition"/>
+		<group id="440" type="multinuc" parent="372" relname="joint-list"/>
+		<group id="441" type="span" parent="443" relname="same-unit"/>
+		<group id="442" type="span" parent="443" relname="same-unit"/>
+		<group id="443" type="multinuc" parent="388" relname="span"/>
+	</body>
+</rst>

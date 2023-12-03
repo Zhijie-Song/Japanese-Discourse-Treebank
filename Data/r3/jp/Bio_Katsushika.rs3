@@ -1,0 +1,352 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="289" relname="organization-heading">生涯</segment>
+		<segment id="2" parent="223" relname="organization-heading">幼年 期</segment>
+		<segment id="3" parent="4" relname="elaboration-attribute">北斎 の 出自 を 伝える</segment>
+		<segment id="4" parent="166" relname="span">確たる 資料 は 見つかっ て おら ず 、</segment>
+		<segment id="5" parent="6" relname="elaboration-attribute">自身 が 85 歳 の 時 に 制作 し た</segment>
+		<segment id="6" parent="167" relname="span">肉筆 画 『 大黒天 図 』 の 落款 に ある</segment>
+		<segment id="7" parent="168" relname="span">「 宝暦 十 庚辰 年 九 月 甲子 ノ 出生 」 から 、</segment>
+		<segment id="8" parent="291" relname="span">生 年月日 は 宝暦 10 年 9 月 23 日</segment>
+		<segment id="9" parent="8" relname="elaboration-additional">（ 1760 年 10 月 31 日 ）</segment>
+		<segment id="10" parent="292" relname="same-unit">と さ れ て いる</segment>
+		<segment id="11" parent="170" relname="explanation-evidence">-LSB- 4 -RSB- 。</segment>
+		<segment id="12" parent="175" relname="same-unit">家系 に つい て は 川村 氏 また は</segment>
+		<segment id="13" parent="14" relname="elaboration-attribute">幕府 御用 で あっ た</segment>
+		<segment id="14" parent="173" relname="span">鏡 師 の 中島 伊勢 の 子 と さ れる 場合 や 、</segment>
+		<segment id="15" parent="174" relname="joint-sequence">川村 の 子 と し て 生まれ 、</segment>
+		<segment id="16" parent="174" relname="joint-sequence">4 歳 の ころ に 中島 伊勢 の 養子 と なっ た と する 説</segment>
+		<segment id="17" parent="176" relname="explanation-evidence">-LSB- 注釈 1 -RSB-</segment>
+		<segment id="18" parent="178" relname="same-unit">が 一般的 だ が 、</segment>
+		<segment id="19" parent="20" relname="context-background">確たる 資料 は 発見 さ れ て おら ず 、</segment>
+		<segment id="20" parent="179" relname="span">確定 し て い ない</segment>
+		<segment id="21" parent="172" relname="joint-list">-LSB- 4 -RSB-</segment>
+		<segment id="22" parent="172" relname="joint-list">-LSB- 6 -RSB-</segment>
+		<segment id="23" parent="172" relname="joint-list">-LSB- 注釈 2 -RSB- 。</segment>
+		<segment id="24" parent="293" relname="span">川村 家 に つい て は 寛政 10 年</segment>
+		<segment id="25" parent="24" relname="elaboration-additional">（ 1798 年 ）</segment>
+		<segment id="26" parent="294" relname="same-unit">ごろ に 作成 さ れ た と さ れる</segment>
+		<segment id="27" parent="182" relname="span">「 本所 中絵図 」 内 の 南 割 下水 近く に その 名 の 家 が 2 軒 確認 できる が 、</segment>
+		<segment id="28" parent="183" relname="span">これ ら の 家 と 北斎 と の 関係性 に つい て は 明らか と なっ て い ない</segment>
+		<segment id="29" parent="183" relname="explanation-evidence">-LSB- 7 -RSB- 。</segment>
+		<segment id="30" parent="31" relname="elaboration-attribute">また 、 母親 に つい て は 小林 平八郎 を 曾祖父 に 持つ</segment>
+		<segment id="31" parent="186" relname="span">家系 だっ た と いう</segment>
+		<segment id="32" parent="187" relname="span">説 が ある</segment>
+		<segment id="33" parent="187" relname="explanation-evidence">-LSB- 7 -RSB- 。</segment>
+		<segment id="34" parent="189" relname="attribution-positive">出生地 は 式亭 三馬 が 「 本所 の 産 」 と し て いる こと から 、</segment>
+		<segment id="35" parent="190" relname="span">武蔵 国本 所 割 下水 の 傍</segment>
+		<segment id="36" parent="35" relname="explanation-evidence">-LSB- 注釈 3 -RSB-</segment>
+		<segment id="37" parent="190" relname="elaboration-additional">（ 現在 の 東京都墨田区 ）</segment>
+		<segment id="38" parent="189" relname="same-unit">で ある と する</segment>
+		<segment id="39" parent="192" relname="span">説 が 有力 で ある</segment>
+		<segment id="40" parent="192" relname="explanation-evidence">-LSB- 4 -RSB- 。</segment>
+		<segment id="41" parent="194" relname="span">幼名 に 関し て も 複数 の 通説 が あり 、</segment>
+		<segment id="42" parent="41" relname="elaboration-additional">時太郎 、 時次郎 、 時二郎 、 鉄蔵 など が ある</segment>
+		<segment id="43" parent="194" relname="explanation-evidence">-LSB- 4 -RSB- 。</segment>
+		<segment id="44" parent="45" relname="attribution-positive">飯島 虚心 の 『 葛飾 北斎 伝 』 で は 、</segment>
+		<segment id="45" parent="197" relname="span">幼名 を 時太郎 、 その後 に 鉄蔵 を 名乗っ た と し て いる</segment>
+		<segment id="46" parent="196" relname="joint-list">-LSB- 5 -RSB-</segment>
+		<segment id="47" parent="196" relname="joint-list">-LSB- 9 -RSB- 。</segment>
+		<segment id="48" parent="201" relname="attribution-positive">北斎 は 『 富嶽 百景 』 や 『 画本 彩色 通 』 の 跋文 で 、</segment>
+		<segment id="49" parent="201" relname="joint-sequence">6 歳 頃 から 好ん で 絵 を 描い て い た と 回顧 し て おり 、</segment>
+		<segment id="50" parent="201" relname="joint-sequence">少年期 は 貸本屋 の 小僧 と し て 働い て い た と さ れる が</segment>
+		<segment id="51" parent="200" relname="joint-list">-LSB- 10 -RSB-</segment>
+		<segment id="52" parent="200" relname="joint-list">-LSB- 5 -RSB- 、</segment>
+		<segment id="53" parent="54" relname="elaboration-attribute">『 葛飾 北斎 伝 』 を 校注 し た</segment>
+		<segment id="54" parent="204" relname="span">鈴木 重三 は 、</segment>
+		<segment id="55" parent="56" relname="elaboration-attribute">貸本屋 で 働い て い た と いう</segment>
+		<segment id="56" parent="205" relname="span">説 に つい て 出所 が 不明 で ある と</segment>
+		<segment id="57" parent="205" relname="attribution-positive">補記 し て いる</segment>
+		<segment id="58" parent="207" relname="explanation-evidence">-LSB- 9 -RSB- 。</segment>
+		<segment id="59" parent="210" relname="span">また 、 14 、 15 歳 から 19 歳 ごろ まで は 木版画 の 版下 彫り を 生業 と し て い た と 、</segment>
+		<segment id="60" parent="296" relname="span">石塚 豊芥子 が 収集 し た 雲中 舎 山 蝶 の 『 楽 女 格子 』</segment>
+		<segment id="61" parent="60" relname="elaboration-additional">（ 1775 年 刊行 ）</segment>
+		<segment id="62" parent="297" relname="same-unit">の 識語 に 記さ れ て いる</segment>
+		<segment id="63" parent="210" relname="explanation-evidence">-LSB- 10 -RSB- 。</segment>
+		<segment id="64" parent="298" relname="span">その 後 、 安永 7 年</segment>
+		<segment id="65" parent="64" relname="elaboration-additional">（ 1778 年 ）</segment>
+		<segment id="66" parent="299" relname="same-unit">に は</segment>
+		<segment id="67" parent="68" relname="elaboration-attribute">勝川 派 の 頭領 で ある</segment>
+		<segment id="68" parent="300" relname="span">浮世 絵師 勝川 春章 に 師事 し 、</segment>
+		<segment id="69" parent="213" relname="joint-sequence">絵師 と し て 活動 を 始め た</segment>
+		<segment id="70" parent="213" relname="explanation-evidence">-LSB- 11 -RSB- 。</segment>
+		<segment id="71" parent="217" relname="same-unit">しかし 、 当時 の 勝川 派 は</segment>
+		<segment id="72" parent="73" relname="elaboration-attribute">浮世絵 界 に おけ る</segment>
+		<segment id="73" parent="215" relname="span">一大 勢力 で あり 、</segment>
+		<segment id="74" parent="75" relname="elaboration-attribute">一介 の 版下 彫り で あっ た</segment>
+		<segment id="75" parent="216" relname="span">北斎 が どの よう に 春章 と 知り合い 、</segment>
+		<segment id="76" parent="218" relname="joint-list">師事 する に 至っ た の か に つい て は 明確 に なっ て い ない</segment>
+		<segment id="77" parent="219" relname="explanation-evidence">-LSB- 12 -RSB- 。</segment>
+		<segment id="78" parent="287" relname="organization-heading">春朗 時代</segment>
+		<segment id="79" parent="226" relname="same-unit">北斎 が 画 界 に 登場 する の は 、</segment>
+		<segment id="80" parent="301" relname="elaboration-attribute">春章 に 師事 し た</segment>
+		<segment id="81" parent="301" relname="span">翌年 の 1779 年 から で 、 寛政 6 年</segment>
+		<segment id="82" parent="81" relname="elaboration-additional">（ 1794 年 ）</segment>
+		<segment id="83" parent="226" relname="same-unit">まで の およそ 15 年間 を 勝川 派 の 絵師 と し て 活動 し た</segment>
+		<segment id="84" parent="226" relname="explanation-evidence">-LSB- 13 -RSB- 。</segment>
+		<segment id="85" parent="228" relname="span">この 間 に 家庭 を 持ち</segment>
+		<segment id="86" parent="85" relname="explanation-evidence">-LSB- 注釈 4 -RSB- 、</segment>
+		<segment id="87" parent="230" relname="joint-sequence">子 を 設け た と さ れ 、</segment>
+		<segment id="88" parent="302" relname="elaboration-attribute">後 に 浮世 絵師 と なる</segment>
+		<segment id="89" parent="302" relname="span">娘 の お栄</segment>
+		<segment id="90" parent="89" relname="elaboration-additional">（ 葛飾 応 為 ）</segment>
+		<segment id="91" parent="303" relname="same-unit">も この 時期 に 誕生 し て いる と する</segment>
+		<segment id="92" parent="231" relname="span">説 も ある</segment>
+		<segment id="93" parent="232" relname="joint-list">-LSB- 15 -RSB-</segment>
+		<segment id="94" parent="232" relname="joint-list">-LSB- 注釈 5 -RSB- 。</segment>
+		<segment id="95" parent="235" relname="joint-list">従来 の 研究者 の 間 で は 北斎 の 20 歳 から 35 歳 まで の この 期間 は 「 春朗 時代 」 と 呼ば れ 、</segment>
+		<segment id="96" parent="97" relname="elaboration-attribute">春章 の 様式 を 踏襲 する</segment>
+		<segment id="97" parent="234" relname="span">没 個性的 で 地味 な 期間 で あっ た と みなさ れ て い た</segment>
+		<segment id="98" parent="235" relname="explanation-evidence">-LSB- 13 -RSB- 。</segment>
+		<segment id="99" parent="239" relname="same-unit">こう し た 傾向 に つい て 永田 は</segment>
+		<segment id="100" parent="101" relname="elaboration-attribute">2017 年 に 出版 し た</segment>
+		<segment id="101" parent="237" relname="span">自著 に おい て 、</segment>
+		<segment id="102" parent="103" relname="elaboration-additional">「 近年 の 研究 に より この 年代 の 絵師 と し て は 多作 かつ 多彩 な 内容 で あっ た と</segment>
+		<segment id="103" parent="238" relname="span">評価 が 改め られ つつ ある 」 と</segment>
+		<segment id="104" parent="241" relname="span">指摘 し て いる</segment>
+		<segment id="105" parent="239" relname="explanation-evidence">-LSB- 16 -RSB- 。</segment>
+		<segment id="106" parent="304" relname="span">一般的 に 北斎 の 処女作 と し て 知ら れ て いる の は 吉原 細見 の 『 金 濃 町 』</segment>
+		<segment id="107" parent="106" relname="elaboration-additional">（ 鱗形 屋 版 ）</segment>
+		<segment id="108" parent="305" relname="same-unit">に 寄せ た 挿図 や 、</segment>
+		<segment id="109" parent="245" relname="joint-list">細 判 役者絵 『 かしく 岩井 半四郎 』 を 始め と し た 役者絵 3 点 で あり 、</segment>
+		<segment id="110" parent="246" relname="same-unit">勝川 春朗 の 名 で これ ら を 描い た</segment>
+		<segment id="111" parent="246" relname="explanation-evidence">-LSB- 13 -RSB- 。</segment>
+		<segment id="112" parent="113" relname="elaboration-attribute">北斎 に つい て 研究 し て いる</segment>
+		<segment id="113" parent="248" relname="span">永田 生 慈 は この 画号 に つい て 、</segment>
+		<segment id="114" parent="115" relname="elaboration-attribute">春章 の 春 の 字 と 、 別号 の 旭 朗 井 の 朗 の 字 を 与え られる</segment>
+		<segment id="115" parent="249" relname="span">と いう 待遇 は 、 それ なり に 将来 が 嘱望 さ れ て い た の で は ない か と</segment>
+		<segment id="116" parent="250" relname="span">分析 し て いる</segment>
+		<segment id="117" parent="251" relname="explanation-evidence">-LSB- 13 -RSB- 。</segment>
+		<segment id="118" parent="306" relname="span">ただし 、 寛政 5 年</segment>
+		<segment id="119" parent="118" relname="elaboration-additional">（ 1793 年 ）</segment>
+		<segment id="120" parent="307" relname="same-unit">に は 叢 春朗</segment>
+		<segment id="121" parent="307" relname="explanation-evidence">-LSB- 注釈 6 -RSB-</segment>
+		<segment id="122" parent="254" relname="same-unit">に 画 姓 が 変化 し て おり 、</segment>
+		<segment id="123" parent="255" relname="span">この 時点 で 勝川 派 を 離脱 し て い た</segment>
+		<segment id="124" parent="256" relname="span">可能性 も 指摘 さ れ て いる</segment>
+		<segment id="125" parent="256" relname="explanation-evidence">-LSB- 18 -RSB- 。</segment>
+		<segment id="126" parent="127" relname="elaboration-attribute">春朗 と し て 手掛け た</segment>
+		<segment id="127" parent="258" relname="span">作品 と し て は 役者 似顔絵 、 美人 風俗 、 日本 と 中国 の 子供 、 動植物 、 金太郎 、 信仰 画 、 和漢 武者 、 伝説 古典 、 名所 絵 、 相撲 など を 題材 と し た 浮世絵 版画 、 黄表紙 、 芝居 絵本 、 洒落本 、 咄本 、 談義 本 、 句集 、 狂歌 本 の 挿絵 など 多種 多様 な もの を 手掛け た こと が 確認 さ れ て いる</segment>
+		<segment id="128" parent="258" relname="explanation-evidence">-LSB- 19 -RSB- 。</segment>
+		<segment id="129" parent="308" relname="span">春朗 時代 の 画風 に つい て 、 春章 に 師事 し て から 天明 元年</segment>
+		<segment id="130" parent="129" relname="elaboration-additional">（ 1781 年 ）</segment>
+		<segment id="131" parent="309" relname="same-unit">ごろ まで は 習作 期 と も 言え 、</segment>
+		<segment id="132" parent="262" relname="span">人物 表現 など に 粗 や ぎこちな さ が 目立つ</segment>
+		<segment id="133" parent="262" relname="explanation-evidence">-LSB- 20 -RSB- 。</segment>
+		<segment id="134" parent="310" relname="span">その後 の 天明 4 年</segment>
+		<segment id="135" parent="134" relname="elaboration-additional">（ 1784 年 ）</segment>
+		<segment id="136" parent="311" relname="same-unit">ごろ まで は 勝川 派 の 様式 だけ で なく 北尾 重政 や 鳥居 清長 ら の 影響 が 見 られる よう に なり 、</segment>
+		<segment id="137" parent="138" relname="purpose-attribute">他派 の スタイル を も 受容 しよう と する</segment>
+		<segment id="138" parent="264" relname="span">研鑽 の 様子 が 窺える</segment>
+		<segment id="139" parent="265" relname="explanation-evidence">-LSB- 21 -RSB- 。</segment>
+		<segment id="140" parent="141" relname="context-background">次 の 2 年間 は 黄表紙 の 挿絵 を 中心 に 活動 し て おり 、</segment>
+		<segment id="141" parent="267" relname="span">作品 に よっ て 完成度 に 大きな 違い が 見 られ た</segment>
+		<segment id="142" parent="267" relname="explanation-evidence">-LSB- 21 -RSB- 。</segment>
+		<segment id="143" parent="269" relname="causal-cause">また 、 一時的 に 画号 を 群馬 亭 へ と 改め て いる こと から 、</segment>
+		<segment id="144" parent="145" relname="elaboration-attribute">勝川 派 と の 問題 が 生じ て い た</segment>
+		<segment id="145" parent="269" relname="span">可能性 も 指摘 さ れ て いる</segment>
+		<segment id="146" parent="271" relname="joint-list">-LSB- 21 -RSB-</segment>
+		<segment id="147" parent="271" relname="joint-list">-LSB- 注釈 7 -RSB- 。</segment>
+		<segment id="148" parent="313" relname="span">天明 7 年</segment>
+		<segment id="149" parent="148" relname="elaboration-additional">（ 1787 年 ）</segment>
+		<segment id="150" parent="312" relname="span">から 寛政 4 年</segment>
+		<segment id="151" parent="150" relname="elaboration-additional">（ 1792 年 ）</segment>
+		<segment id="152" parent="275" relname="same-unit">まで の 期間 は</segment>
+		<segment id="153" parent="273" relname="joint-list">作品 量 が 増加 し 、</segment>
+		<segment id="154" parent="273" relname="joint-list">勝川 派 の 様式 を 底 に 添え つつ も 新た な 独自 画風 を 確立 し た</segment>
+		<segment id="155" parent="274" relname="span">時期 と 言える</segment>
+		<segment id="156" parent="275" relname="explanation-evidence">-LSB- 18 -RSB- 。</segment>
+		<segment id="157" parent="158" relname="elaboration-attribute">そして 春章 が 没し た</segment>
+		<segment id="158" parent="277" relname="span">1793 年 以降 は 画号 を 叢 春朗 に 改め 、</segment>
+		<segment id="159" parent="278" relname="span">摺物 や 句集 、 狂歌 本 の 挿絵 など 、 これ まで に ない 分野 へ の 進出 が 見 られ た</segment>
+		<segment id="160" parent="278" relname="explanation-evidence">-LSB- 18 -RSB- 。</segment>
+		<segment id="161" parent="162" relname="elaboration-attribute">確認 さ れ て いる 中 で 春朗 の 落款 が 押さ れ て いる</segment>
+		<segment id="162" parent="280" relname="span">最後 の 作品 は 、 1794 年 8 月 の 摺物 『 砧 打 図 』 で ある</segment>
+		<segment id="163" parent="280" relname="explanation-evidence">-LSB- 22 -RSB- 。</segment>
+		<segment id="164" parent="282" relname="span">永田 は この 年代 を 総じて 「 生涯 で 最も 浮世 絵師 らしい 作画 活動 を 展開 し た 年代 」 と 位置 付け て いる</segment>
+		<segment id="165" parent="164" relname="explanation-evidence">-LSB- 22 -RSB- 。</segment>
+		<group id="166" type="span" parent="169" relname="context-background"/>
+		<group id="167" type="span" parent="7" relname="elaboration-attribute"/>
+		<group id="168" type="span" parent="292" relname="attribution-positive"/>
+		<group id="169" type="span" parent="170" relname="span"/>
+		<group id="170" type="span" parent="171" relname="span"/>
+		<group id="171" type="span" parent="185" relname="joint-other"/>
+		<group id="172" type="multinuc" parent="179" relname="explanation-evidence"/>
+		<group id="173" type="span" parent="175" relname="same-unit"/>
+		<group id="174" type="multinuc" parent="176" relname="joint-list"/>
+		<group id="175" type="multinuc" parent="176" relname="joint-list"/>
+		<group id="176" type="multinuc" parent="177" relname="span"/>
+		<group id="177" type="span" parent="178" relname="same-unit"/>
+		<group id="178" type="multinuc" parent="180" relname="adversative-concession"/>
+		<group id="179" type="span" parent="180" relname="span"/>
+		<group id="180" type="span" parent="181" relname="span"/>
+		<group id="181" type="span" parent="185" relname="joint-other"/>
+		<group id="182" type="span" parent="28" relname="adversative-concession"/>
+		<group id="183" type="span" parent="184" relname="span"/>
+		<group id="184" type="span" parent="185" relname="joint-other"/>
+		<group id="185" type="multinuc" parent="223" relname="joint-other"/>
+		<group id="186" type="span" parent="32" relname="elaboration-attribute"/>
+		<group id="187" type="span" parent="188" relname="span"/>
+		<group id="188" type="span" parent="199" relname="joint-other"/>
+		<group id="189" type="multinuc" parent="191" relname="span"/>
+		<group id="190" type="span" parent="295" relname="span"/>
+		<group id="191" type="span" parent="39" relname="elaboration-attribute"/>
+		<group id="192" type="span" parent="193" relname="span"/>
+		<group id="193" type="span" parent="199" relname="joint-other"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="195" type="span" parent="199" relname="joint-other"/>
+		<group id="196" type="multinuc" parent="197" relname="explanation-evidence"/>
+		<group id="197" type="span" parent="198" relname="span"/>
+		<group id="198" type="span" parent="199" relname="joint-other"/>
+		<group id="199" type="multinuc" parent="223" relname="joint-other"/>
+		<group id="200" type="multinuc" parent="202" relname="explanation-evidence"/>
+		<group id="201" type="multinuc" parent="202" relname="span"/>
+		<group id="202" type="span" parent="203" relname="span"/>
+		<group id="203" type="span" parent="208" relname="adversative-concession"/>
+		<group id="204" type="span" parent="207" relname="same-unit"/>
+		<group id="205" type="span" parent="206" relname="span"/>
+		<group id="206" type="span" parent="207" relname="same-unit"/>
+		<group id="207" type="multinuc" parent="208" relname="span"/>
+		<group id="208" type="span" parent="209" relname="span"/>
+		<group id="209" type="span" parent="222" relname="joint-sequence"/>
+		<group id="210" type="span" parent="211" relname="span"/>
+		<group id="211" type="span" parent="222" relname="joint-sequence"/>
+		<group id="213" type="multinuc" parent="214" relname="span"/>
+		<group id="214" type="span" parent="220" relname="adversative-concession"/>
+		<group id="215" type="span" parent="217" relname="same-unit"/>
+		<group id="216" type="span" parent="218" relname="joint-list"/>
+		<group id="217" type="multinuc" parent="218" relname="context-background"/>
+		<group id="218" type="multinuc" parent="219" relname="span"/>
+		<group id="219" type="span" parent="220" relname="span"/>
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="221" type="span" parent="222" relname="joint-sequence"/>
+		<group id="222" type="multinuc" parent="223" relname="joint-other"/>
+		<group id="223" type="multinuc" parent="224" relname="span"/>
+		<group id="224" type="span" parent="289" relname="joint-sequence"/>
+		<group id="225" type="span" parent="226" relname="same-unit"/>
+		<group id="226" type="multinuc" parent="227" relname="span"/>
+		<group id="227" type="span" parent="233" relname="context-background"/>
+		<group id="228" type="span" parent="230" relname="joint-sequence"/>
+		<group id="229" type="span" parent="303" relname="same-unit"/>
+		<group id="230" type="multinuc" parent="92" relname="elaboration-attribute"/>
+		<group id="231" type="span" parent="233" relname="span"/>
+		<group id="232" type="multinuc" parent="231" relname="explanation-evidence"/>
+		<group id="233" type="span" parent="243" relname="span"/>
+		<group id="234" type="span" parent="235" relname="joint-list"/>
+		<group id="235" type="multinuc" parent="236" relname="span"/>
+		<group id="236" type="span" parent="240" relname="context-background"/>
+		<group id="237" type="span" parent="239" relname="same-unit"/>
+		<group id="238" type="span" parent="104" relname="elaboration-additional"/>
+		<group id="239" type="multinuc" parent="240" relname="span"/>
+		<group id="240" type="span" parent="242" relname="span"/>
+		<group id="241" type="span" parent="239" relname="same-unit"/>
+		<group id="242" type="span" parent="244" relname="joint-other"/>
+		<group id="243" type="span" parent="244" relname="joint-other"/>
+		<group id="244" type="multinuc" parent="287" relname="joint-other"/>
+		<group id="245" type="multinuc" parent="246" relname="same-unit"/>
+		<group id="246" type="multinuc" parent="247" relname="span"/>
+		<group id="247" type="span" parent="260" relname="span"/>
+		<group id="248" type="span" parent="251" relname="same-unit"/>
+		<group id="249" type="span" parent="116" relname="elaboration-additional"/>
+		<group id="250" type="span" parent="251" relname="same-unit"/>
+		<group id="251" type="multinuc" parent="252" relname="span"/>
+		<group id="252" type="span" parent="247" relname="elaboration-additional"/>
+		<group id="253" type="span" parent="254" relname="same-unit"/>
+		<group id="254" type="multinuc" parent="123" relname="context-background"/>
+		<group id="255" type="span" parent="124" relname="elaboration-attribute"/>
+		<group id="256" type="span" parent="257" relname="span"/>
+		<group id="257" type="span" parent="261" relname="joint-other"/>
+		<group id="258" type="span" parent="259" relname="span"/>
+		<group id="259" type="span" parent="285" relname="context-background"/>
+		<group id="260" type="span" parent="261" relname="joint-other"/>
+		<group id="261" type="multinuc" parent="287" relname="joint-other"/>
+		<group id="262" type="span" parent="263" relname="span"/>
+		<group id="263" type="span" parent="283" relname="joint-sequence"/>
+		<group id="264" type="span" parent="265" relname="joint-list"/>
+		<group id="265" type="multinuc" parent="266" relname="span"/>
+		<group id="266" type="span" parent="283" relname="joint-sequence"/>
+		<group id="267" type="span" parent="268" relname="span"/>
+		<group id="268" type="span" parent="283" relname="joint-sequence"/>
+		<group id="269" type="span" parent="270" relname="span"/>
+		<group id="270" type="span" parent="272" relname="span"/>
+		<group id="271" type="multinuc" parent="270" relname="explanation-evidence"/>
+		<group id="272" type="span" parent="283" relname="joint-sequence"/>
+		<group id="273" type="multinuc" parent="155" relname="elaboration-attribute"/>
+		<group id="274" type="span" parent="275" relname="same-unit"/>
+		<group id="275" type="multinuc" parent="276" relname="span"/>
+		<group id="276" type="span" parent="283" relname="joint-sequence"/>
+		<group id="277" type="span" parent="159" relname="context-background"/>
+		<group id="278" type="span" parent="279" relname="span"/>
+		<group id="279" type="span" parent="283" relname="joint-sequence"/>
+		<group id="280" type="span" parent="281" relname="span"/>
+		<group id="281" type="span" parent="283" relname="elaboration-additional"/>
+		<group id="282" type="span" parent="284" relname="evaluation-comment"/>
+		<group id="283" type="multinuc" parent="284" relname="span"/>
+		<group id="284" type="span" parent="285" relname="span"/>
+		<group id="285" type="span" parent="286" relname="span"/>
+		<group id="286" type="span" parent="287" relname="joint-other"/>
+		<group id="287" type="multinuc" parent="288" relname="span"/>
+		<group id="288" type="span" parent="289" relname="joint-sequence"/>
+		<group id="289" type="multinuc" parent="290" relname="span"/>
+		<group id="290" type="span" />
+		<group id="291" type="span" parent="292" relname="same-unit"/>
+		<group id="292" type="multinuc" parent="169" relname="span"/>
+		<group id="293" type="span" parent="294" relname="same-unit"/>
+		<group id="294" type="multinuc" parent="27" relname="elaboration-attribute"/>
+		<group id="295" type="span" parent="189" relname="same-unit"/>
+		<group id="296" type="span" parent="297" relname="same-unit"/>
+		<group id="297" type="multinuc" parent="59" relname="attribution-positive"/>
+		<group id="298" type="span" parent="299" relname="same-unit"/>
+		<group id="299" type="multinuc" parent="213" relname="joint-sequence"/>
+		<group id="300" type="span" parent="299" relname="same-unit"/>
+		<group id="301" type="span" parent="225" relname="span"/>
+		<group id="302" type="span" parent="229" relname="span"/>
+		<group id="303" type="multinuc" parent="230" relname="joint-sequence"/>
+		<group id="304" type="span" parent="305" relname="same-unit"/>
+		<group id="305" type="multinuc" parent="245" relname="joint-list"/>
+		<group id="306" type="span" parent="307" relname="same-unit"/>
+		<group id="307" type="multinuc" parent="253" relname="span"/>
+		<group id="308" type="span" parent="309" relname="same-unit"/>
+		<group id="309" type="multinuc" parent="132" relname="context-background"/>
+		<group id="310" type="span" parent="311" relname="same-unit"/>
+		<group id="311" type="multinuc" parent="265" relname="joint-list"/>
+		<group id="312" type="span" parent="275" relname="same-unit"/>
+		<group id="313" type="span" parent="275" relname="same-unit"/>
+	</body>
+</rst>

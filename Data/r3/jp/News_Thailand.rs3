@@ -1,0 +1,133 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="84" relname="organization-heading">タイ 、 EV 補助金 を 最大 20万 円 減額 24 年 に も</segment>
+		<segment id="2" parent="83" relname="context-circumstance">2023 年 11 月 1日 21 : 30</segment>
+		<segment id="3" parent="82" relname="attribution-positive">【 シンガポール = 赤間 建哉 】</segment>
+		<segment id="4" parent="51" relname="same-unit">タイ 政府 は 1日 、</segment>
+		<segment id="5" parent="87" relname="span">電気 自動車</segment>
+		<segment id="6" parent="5" relname="elaboration-additional">（ EV ）</segment>
+		<segment id="7" parent="86" relname="same-unit">の 振興 策 を 見直す</segment>
+		<segment id="8" parent="50" relname="span">方針 を 固め た 。</segment>
+		<segment id="9" parent="89" relname="span">2024 年 中 に も 従来 の 購入 補助金 を 1 台 あたり 最大 15万 バーツ</segment>
+		<segment id="10" parent="9" relname="elaboration-additional">（ 約 60万 円 ）</segment>
+		<segment id="11" parent="88" relname="same-unit">から 最大 10万 バーツ に 減額 する 。</segment>
+		<segment id="12" parent="52" relname="joint-list">足元 で EV 販売 が 増加 し て おり 、</segment>
+		<segment id="13" parent="52" relname="joint-list">補助 を 減額 し て も 普及 へ の 影響 は 少ない</segment>
+		<segment id="14" parent="52" relname="attribution-positive">と 判断 し た もよう だ 。</segment>
+		<segment id="15" parent="56" relname="span">1日 、 セター 首相 が 委員長 を 務める EV 政策 委員会 で 決定 し た 。</segment>
+		<segment id="16" parent="91" relname="span">同 委員会 は 各 担当 省庁 の 大臣 や 最大 の 民間 団体 で ある タイ 工業 連盟</segment>
+		<segment id="17" parent="16" relname="elaboration-additional">（ FTI ）</segment>
+		<segment id="18" parent="90" relname="same-unit">会長 など で 構成 さ れ 、</segment>
+		<segment id="19" parent="20" relname="elaboration-attribute">22 年 に 施行 さ れ た</segment>
+		<segment id="20" parent="54" relname="span">EV 振興 策 の 後継 策 を 議論 し た 。</segment>
+		<segment id="21" parent="58" relname="same-unit">今後 、</segment>
+		<segment id="22" parent="23" relname="mode-manner">正式 に 閣議 の 承認 を 経 て</segment>
+		<segment id="23" parent="57" relname="span">決定 する 。</segment>
+		<segment id="24" parent="60" relname="same-unit">24 年 中 に も 施行 する と さ れる 新た な 振興 策 で は 、</segment>
+		<segment id="25" parent="26" relname="mode-means">価格 が 200万 バーツ 以下 の 乗用 タイプ の EV に つい て バッテリー 容量 に 応じ て 、</segment>
+		<segment id="26" parent="59" relname="span">購入 時 に 1 台 あたり 2万 〜 10万 バーツ の 補助金 を 支給 する 。</segment>
+		<segment id="27" parent="61" relname="context-background">従来 の 補助金 は 7万 〜 15万 バーツ で 、</segment>
+		<segment id="28" parent="29" relname="elaboration-attribute">新制度 の 導入 に 伴う</segment>
+		<segment id="29" parent="61" relname="span">減額 幅 は 最大 で 約 20万 円 に 相当 する 。</segment>
+		<segment id="30" parent="64" relname="same-unit">補助 の 条件 で ある 国内 生産 に つい て は 、</segment>
+		<segment id="31" parent="32" relname="elaboration-attribute">EV メーカー に 生産量 を 輸入 量 に 対し て 26 年 に 2 倍 、 27 年 に 3 倍 まで 引き上げる</segment>
+		<segment id="32" parent="63" relname="span">新た な 義務 を 設ける 。</segment>
+		<segment id="33" parent="34" relname="elaboration-attribute">従来 は 24 年 に 輸入 量 と 同数 、 25 年 に 1.5 倍 の 生産量 を 課す</segment>
+		<segment id="34" parent="65" relname="span">義務 に とどまっ て おり 、</segment>
+		<segment id="35" parent="66" relname="span">国内 生産量 の 基準 を 大幅 に 引き上げる 。</segment>
+		<segment id="36" parent="80" relname="span">タイ で は EV の 普及 が 加速 し て いる 。</segment>
+		<segment id="37" parent="72" relname="attribution-positive">自動車 専門 メディア 「 オート ライフ ・ タイランド 」 に よる と 、</segment>
+		<segment id="38" parent="72" relname="span">23 年 8 月 の 新車 販売 台数 に 占める EV の 割合 は 11 % と 、</segment>
+		<segment id="39" parent="38" relname="elaboration-additional">前年 同月 比 で 約 9 ポイント 上昇 し た 。</segment>
+		<segment id="40" parent="93" relname="span">中国 EV 最大手 の 比 亜 迪</segment>
+		<segment id="41" parent="40" relname="elaboration-additional">（ BYD ）</segment>
+		<segment id="42" parent="92" relname="same-unit">が 22 年 11 月 に 販売 を 開始 。</segment>
+		<segment id="43" parent="74" relname="joint-list">上海 汽車 集団 系 の 「 MG 」 や 長城 汽車 など 中国 勢 が EV シェア の 8 割 を 占め 、</segment>
+		<segment id="44" parent="74" relname="joint-list">新 工場 の 建設 も 相 次ぎ 発表 し て いる 。</segment>
+		<segment id="45" parent="77" relname="same-unit">タイ 政府 は</segment>
+		<segment id="46" parent="47" relname="elaboration-attribute">30 年 に 国内 生産 の 3 割 を EV に する</segment>
+		<segment id="47" parent="76" relname="span">目標 を 掲げる 。</segment>
+		<segment id="48" parent="78" relname="joint-list">タイ 政府 は 従来 の EV 振興 策 が 一定 の 効果 が あっ た と し 、</segment>
+		<segment id="49" parent="78" relname="joint-list">補助 金額 を 減らし て も EV 普及 に 問題 は ない と 判断 し た もよう だ 。</segment>
+		<group id="50" type="span" parent="51" relname="same-unit"/>
+		<group id="51" type="multinuc" parent="67" relname="span"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="53" type="span" parent="67" relname="evaluation-comment"/>
+		<group id="54" type="span" parent="55" relname="joint-list"/>
+		<group id="55" type="multinuc" parent="69" relname="joint-list"/>
+		<group id="56" type="span" parent="82" relname="joint-other"/>
+		<group id="57" type="span" parent="58" relname="same-unit"/>
+		<group id="58" type="multinuc" parent="69" relname="joint-list"/>
+		<group id="59" type="span" parent="60" relname="same-unit"/>
+		<group id="60" type="multinuc" parent="70" relname="adversative-contrast"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="62" type="span" parent="70" relname="adversative-contrast"/>
+		<group id="63" type="span" parent="64" relname="same-unit"/>
+		<group id="64" type="multinuc" parent="71" relname="adversative-contrast"/>
+		<group id="65" type="span" parent="35" relname="context-background"/>
+		<group id="66" type="span" parent="71" relname="adversative-contrast"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="68" type="span" parent="82" relname="joint-other"/>
+		<group id="69" type="multinuc" parent="15" relname="elaboration-additional"/>
+		<group id="70" type="multinuc" parent="82" relname="joint-other"/>
+		<group id="71" type="multinuc" parent="82" relname="joint-other"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="36" relname="explanation-evidence"/>
+		<group id="74" type="multinuc" parent="75" relname="joint-list"/>
+		<group id="75" type="multinuc" parent="80" relname="elaboration-additional"/>
+		<group id="76" type="span" parent="77" relname="same-unit"/>
+		<group id="77" type="multinuc" parent="79" relname="joint-other"/>
+		<group id="78" type="multinuc" parent="79" relname="joint-other"/>
+		<group id="79" type="multinuc" parent="82" relname="joint-other"/>
+		<group id="80" type="span" parent="81" relname="span"/>
+		<group id="81" type="span" parent="82" relname="joint-other"/>
+		<group id="82" type="multinuc" parent="83" relname="span"/>
+		<group id="83" type="span" parent="84" relname="span"/>
+		<group id="84" type="span" parent="85" relname="span"/>
+		<group id="85" type="span" />
+		<group id="86" type="multinuc" parent="8" relname="elaboration-attribute"/>
+		<group id="87" type="span" parent="86" relname="same-unit"/>
+		<group id="88" type="multinuc" parent="51" relname="elaboration-additional"/>
+		<group id="89" type="span" parent="88" relname="same-unit"/>
+		<group id="90" type="multinuc" parent="55" relname="joint-list"/>
+		<group id="91" type="span" parent="90" relname="same-unit"/>
+		<group id="92" type="multinuc" parent="75" relname="joint-list"/>
+		<group id="93" type="span" parent="92" relname="same-unit"/>
+	</body>
+</rst>

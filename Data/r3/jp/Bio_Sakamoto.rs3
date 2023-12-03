@@ -1,0 +1,338 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="297" relname="organization-heading">来歴</segment>
+		<segment id="2" parent="195" relname="organization-heading">幼少年 期</segment>
+		<segment id="3" parent="162" relname="span">龍馬 は 天保 6 年 11 月 15 日 （ 1836 年 1 月 3 日 ）</segment>
+		<segment id="4" parent="3" relname="explanation-evidence">-LSB- 注 2 -RSB- 、</segment>
+		<segment id="5" parent="163" relname="same-unit">土佐 国土 佐 郡上 街 本町 一 丁目 （ 現 ・ 高知県高知市上町 一 丁目 ） の 土佐 藩 郷士 （ 下級 武士 ・ 足軽 ） 坂本 家 に 父 ・ 坂本 直足 （ 八平 ） 、 母 ・ 幸 の 間 の 二男 と し て 生まれ た 。</segment>
+		<segment id="6" parent="163" relname="elaboration-additional">22 歳 年上 の 兄 （ 権平 ） と 3 人 の 姉 （ 千鶴 、 栄 、 乙女 ） が い た 。</segment>
+		<segment id="7" parent="8" relname="context-background">坂本 家 は 質屋 、 酒造 業 、 呉服商 を 営む 豪商 才谷 屋 の 分家 で 、</segment>
+		<segment id="8" parent="164" relname="span">第 六 代 ・ 直益 の とき に 長男 ・ 直海 が 藩 から 郷士 御用人 に 召し出さ れ て</segment>
+		<segment id="9" parent="165" relname="span">坂本 家 を 興し た</segment>
+		<segment id="10" parent="165" relname="explanation-evidence">-LSB- 2 -RSB- 。</segment>
+		<segment id="11" parent="12" relname="context-background">土佐 藩 の 武士 階級 に は 上士 と 下士 が あり 、</segment>
+		<segment id="12" parent="167" relname="span">商家 出身 の 坂本 家 は 下士 （ 郷士 ） だっ た が （ 坂本 家 は 福岡 家 に 仕え て い た と いう ） 、</segment>
+		<segment id="13" parent="14" relname="causal-cause">分家 の 際 に 才谷 屋 から 多額 の 財産 を 分与 さ れ て おり 、</segment>
+		<segment id="14" parent="168" relname="span">非常 に 裕福 な 家庭 だっ た</segment>
+		<segment id="15" parent="170" relname="joint-list">-LSB- 3 -RSB-</segment>
+		<segment id="16" parent="170" relname="joint-list">-LSB- 4 -RSB- 。</segment>
+		<segment id="17" parent="173" relname="same-unit">龍馬 の 父 ・ 坂本 直足 は</segment>
+		<segment id="18" parent="19" relname="mode-manner">婿養子 と し て</segment>
+		<segment id="19" parent="172" relname="span">坂本 家 を 継い だ 人物 で 、</segment>
+		<segment id="20" parent="174" relname="joint-list">実 祖父 の 山本 家 （ 山本 信 固 ） や 、 その 弟 ・ 宮地 信貞 （ 宮地 家 を 相続 ） は 共 に 白札 郷士 で あり 、</segment>
+		<segment id="21" parent="175" relname="span">龍馬 は 血統 上 は 上士 の 人物 で ある</segment>
+		<segment id="22" parent="175" relname="explanation-evidence">-LSB- 5 -RSB- 。</segment>
+		<segment id="23" parent="194" relname="span">幼少 時 は 泣き虫 で 弱虫 の ひ弱 な 少年 で あっ た 。</segment>
+		<segment id="24" parent="190" relname="joint-sequence">実母 の 幸 を 10 歳 の 時 に 病気 で 亡くす 。</segment>
+		<segment id="25" parent="190" relname="joint-sequence">以後 、 姉 の 乙女 が 母代わり に 龍馬 を 教育 する 。</segment>
+		<segment id="26" parent="181" relname="adversative-concession">12 歳 まで 夜尿 が 直ら なかっ た が 、</segment>
+		<segment id="27" parent="181" relname="same-unit">乙女 が</segment>
+		<segment id="28" parent="29" relname="context-circumstance">夜中 に 厠 に 起こし て</segment>
+		<segment id="29" parent="179" relname="span">連れ て 行き</segment>
+		<segment id="30" parent="180" relname="span">克服 さ せ た 。</segment>
+		<segment id="31" parent="186" relname="same-unit">乙女 は</segment>
+		<segment id="32" parent="33" relname="elaboration-attribute">身長 176 cm 、 体重 110 kg を 超える</segment>
+		<segment id="33" parent="183" relname="span">当時 と し て は 尋常 なら ざる 体躯 を 持ち 、</segment>
+		<segment id="34" parent="184" relname="joint-list">剣術 に も 秀で て い た ため 、</segment>
+		<segment id="35" parent="185" relname="span">龍馬 の 剣術 師範 も 務め た と 伝説 的 に 語ら れる 。</segment>
+		<segment id="36" parent="188" relname="span">龍馬 は 終生 、 乙女 へ の 感謝 と 恋慕 を 失わ ず 、</segment>
+		<segment id="37" parent="38" relname="elaboration-attribute">現存 する</segment>
+		<segment id="38" parent="187" relname="span">龍馬 直筆 の 乙女 宛 の 手紙 は 16 通 残っ て いる</segment>
+		<segment id="39" parent="188" relname="explanation-evidence">-LSB- 要 出典 -RSB- 。</segment>
+		<segment id="40" parent="295" relname="organization-heading">江戸 遊学</segment>
+		<segment id="41" parent="42" relname="mode-manner">武術 で</segment>
+		<segment id="42" parent="197" relname="span">小栗 流 目録 を 得 た</segment>
+		<segment id="43" parent="198" relname="span">嘉永 6 年 （ 1853 年 ） 、 龍馬 は</segment>
+		<segment id="44" parent="45" relname="purpose-attribute">武術 修行 の ため の</segment>
+		<segment id="45" parent="199" relname="span">1 年間 の 江戸 自費 遊学 を 藩 に 願い出 て 許さ れ た 。</segment>
+		<segment id="46" parent="201" relname="span">出立 に 際し て 龍馬 は 父 ・ 八平 から 『 修業 中 心得 大意 』</segment>
+		<segment id="47" parent="46" relname="explanation-evidence">-LSB- 6 -RSB-</segment>
+		<segment id="48" parent="202" relname="same-unit">を 授け られ 、</segment>
+		<segment id="49" parent="203" relname="joint-sequence">溝淵 広之 丞 と とも に 土佐 を 出立 し た 。</segment>
+		<segment id="50" parent="208" relname="joint-sequence">4 月 頃 に 江戸 に 到着 し 、</segment>
+		<segment id="51" parent="204" relname="span">築地 の 中屋敷</segment>
+		<segment id="52" parent="51" relname="explanation-evidence">-LSB- 7 -RSB-</segment>
+		<segment id="53" parent="205" relname="span">（ また は 鍛冶 橋 の 土佐 藩 上 屋敷</segment>
+		<segment id="54" parent="53" relname="explanation-evidence">-LSB- 8 -RSB- ）</segment>
+		<segment id="55" parent="207" relname="same-unit">に 寄宿 し 、</segment>
+		<segment id="56" parent="208" relname="joint-sequence">北辰 一刀流 の 桶町 千葉 道場 （ 現 ・ 東京都中央区 ） の 門人 と なる 。</segment>
+		<segment id="57" parent="212" relname="joint-list">道場 主 の 千葉 定吉 は 北辰 一刀流 創始者 千葉 周作 の 弟 で 、</segment>
+		<segment id="58" parent="212" relname="joint-list">その 道場 は 「 小桶 町 千葉 」 と し て 知ら れ て おり 、</segment>
+		<segment id="59" parent="211" relname="span">道場 に は 定吉 の ほか に 長男 ・ 重太郎 と 3 人 の 娘</segment>
+		<segment id="60" parent="210" relname="same-unit">（ その うち 一人 は</segment>
+		<segment id="61" parent="62" relname="elaboration-attribute">龍馬 の 婚約者 と 言わ れる</segment>
+		<segment id="62" parent="209" relname="span">さ な 子 ）</segment>
+		<segment id="63" parent="213" relname="same-unit">が い た 。</segment>
+		<segment id="64" parent="220" relname="adversative-concession">小 千葉 道場 は 千葉 周作 の 「 玄武 館 」 （ 大 千葉 ） と 同じ 場所 に 存在 し た が 、</segment>
+		<segment id="65" parent="215" relname="causal-cause">身分 制度 が 厳しかっ た ため に</segment>
+		<segment id="66" parent="215" relname="adversative-contrast">上級 武士 は 玄武 館 の 所属 、</segment>
+		<segment id="67" parent="215" relname="adversative-contrast">下級 武士 は 小 千葉 道場 所属 と はっきり 分かれ て おり 、</segment>
+		<segment id="68" parent="216" relname="causal-result">とも に 稽古 を する こと も なかっ た 。</segment>
+		<segment id="69" parent="218" relname="same-unit">のち に 小 千葉 道場 は</segment>
+		<segment id="70" parent="71" relname="elaboration-attribute">桶町 に 建て られ た</segment>
+		<segment id="71" parent="217" relname="span">道場 に 移転 する が 、</segment>
+		<segment id="72" parent="219" relname="span">そこ で も 館 名 が ない の は この ため で ある 。</segment>
+		<segment id="73" parent="224" relname="same-unit">ただし 、</segment>
+		<segment id="74" parent="75" relname="attribution-positive">『 汗血 千里 駒 』 で は</segment>
+		<segment id="75" parent="223" relname="span">坂本 龍馬 は 千葉 周作 の 門人 と し て いる</segment>
+		<segment id="76" parent="224" relname="explanation-evidence">-LSB- 注 3 -RSB- 。</segment>
+		<segment id="77" parent="226" relname="causal-cause">嘉永 6 年 当時 の 桶町 に は 千葉 定吉 の 道場 が 建て られ て い なかっ た こと から 、</segment>
+		<segment id="78" parent="79" relname="elaboration-attribute">二 度目 の 遊学 時 に 桶町 千葉 道場 の 門下 に なっ た の で は と いう</segment>
+		<segment id="79" parent="226" relname="span">説 も ある</segment>
+		<segment id="80" parent="227" relname="explanation-evidence">-LSB- 9 -RSB- 。</segment>
+		<segment id="81" parent="229" relname="joint-sequence">土佐 で は そもそも 下士 は 捕 手術 の よう な 体術 の 修行 が 主体 で 刀 に よる 剣術 の 修行 は 許さ れ なかっ た と も 言わ れ て い て 、</segment>
+		<segment id="82" parent="229" relname="joint-sequence">坂本 龍馬 の 江戸 行き は 別 の 理由 で 申請 さ れ 、</segment>
+		<segment id="83" parent="229" relname="joint-sequence">剣術 修業 は 後 に 勝海舟 の 学習塾 で 塾頭 を 務める まで に なっ た</segment>
+		<segment id="84" parent="230" relname="span">実績 が 評価 さ れ た</segment>
+		<segment id="85" parent="231" relname="span">異例 の 扱い で あっ た</segment>
+		<segment id="86" parent="232" relname="span">可能性 も ある 。</segment>
+		<segment id="87" parent="88" relname="elaboration-attribute">兵学 は 窪田 清音 の 門下生 で ある</segment>
+		<segment id="88" parent="234" relname="span">若山 勿堂 から 山鹿 流 を 習得 し て いる</segment>
+		<segment id="89" parent="234" relname="explanation-evidence">-LSB- 10 -RSB- 。</segment>
+		<segment id="90" parent="237" relname="context-background">龍馬 が 小 千葉 道場 で 剣術 修行 を 始め た 直後 の 6 月 3 日 、 ペリー 提督 率いる アメリカ 海軍 艦隊 が 浦賀 沖 に 来航 し た （ 黒船 来航 ） 。</segment>
+		<segment id="91" parent="237" relname="joint-sequence">自費 遊学 の 龍馬 も 臨時 招集 さ れ 、</segment>
+		<segment id="92" parent="237" relname="joint-sequence">品川 の 土佐 藩 下屋敷 守備 の 任務 に 就い た 。</segment>
+		<segment id="93" parent="94" relname="elaboration-attribute">龍馬 が 家族 に 宛て た</segment>
+		<segment id="94" parent="238" relname="span">当時 の 手紙 で は 「 戦 に なっ たら 異国人 の 首 を 打ち取っ て 帰国 し ます 」 と 書き送っ て いる</segment>
+		<segment id="95" parent="239" relname="joint-list">-LSB- 注 4 -RSB-</segment>
+		<segment id="96" parent="239" relname="joint-list">-LSB- 11 -RSB- 。</segment>
+		<segment id="97" parent="244" relname="same-unit">同年 12 月 、 剣術 修行 の 傍ら 龍馬 は</segment>
+		<segment id="98" parent="99" relname="elaboration-attribute">当代 の 軍学 家 ・ 思想家 で ある</segment>
+		<segment id="99" parent="243" relname="span">佐久間 象山 の 私塾 に 入学 し た</segment>
+		<segment id="100" parent="244" relname="explanation-evidence">-LSB- 12 -RSB- 。</segment>
+		<segment id="101" parent="246" relname="joint-sequence">そこ で は 砲術 、 漢学 、 蘭学 など の 学問 が 教え られ て い た 。</segment>
+		<segment id="102" parent="248" relname="same-unit">もっとも 、 象山 は</segment>
+		<segment id="103" parent="104" relname="causal-cause">翌年 4 月 に 吉田 松陰 の 米国 軍艦 密航 事件 に 関係 し た と し て</segment>
+		<segment id="104" parent="247" relname="span">投獄 さ れ て しまい 、</segment>
+		<segment id="105" parent="106" relname="elaboration-attribute">龍馬 が 象山 に 師事 し た</segment>
+		<segment id="106" parent="249" relname="span">期間 は ごく 短い もの だっ た 。</segment>
+		<segment id="107" parent="252" relname="joint-sequence">安政 元年 （ 1854 年 ） 6 月 23 日 、 龍馬 は 15 か月 の 江戸 修行 を 終え て</segment>
+		<segment id="108" parent="252" relname="joint-sequence">土佐 へ 帰国 し た 。</segment>
+		<segment id="109" parent="255" relname="same-unit">在郷 中 、 龍馬 は</segment>
+		<segment id="110" parent="111" relname="elaboration-attribute">中伝 目録 に 当たる</segment>
+		<segment id="111" parent="253" relname="span">「 小栗 流 和 兵法 十二 箇条 並 二十五 箇条 」</segment>
+		<segment id="112" parent="253" relname="explanation-evidence">-LSB- 6 -RSB-</segment>
+		<segment id="113" parent="255" relname="same-unit">を 取得 し 、</segment>
+		<segment id="114" parent="256" relname="joint-sequence">日根野 道場 の 師範代 を 務め た 。</segment>
+		<segment id="115" parent="258" relname="same-unit">また 、 ジョン 万次郎 を 聴取 し た 際 に</segment>
+		<segment id="116" parent="117" relname="elaboration-attribute">『 漂巽 紀 略 』 を 編ん だ</segment>
+		<segment id="117" parent="257" relname="span">絵師 ・ 河田 小龍 宅 を 訪れ て</segment>
+		<segment id="118" parent="260" relname="joint-list">国際 情勢 に つい て 学び 、</segment>
+		<segment id="119" parent="120" relname="causal-cause">河田 から 海運 の 重要性 に つい て 説か れ て</segment>
+		<segment id="120" parent="261" relname="span">大いに 感銘 し 、</segment>
+		<segment id="121" parent="122" relname="elaboration-attribute">のち の 同志 と なる</segment>
+		<segment id="122" parent="259" relname="span">近藤 長次郎 や 長岡 謙吉 ら を 紹介 さ れ て いる</segment>
+		<segment id="123" parent="260" relname="explanation-evidence">-LSB- 13 -RSB- 。</segment>
+		<segment id="124" parent="263" relname="joint-list">また 、 この 時期 に 徳弘 孝蔵 の 下 で 砲術 と オランダ 語 を 学ん で いる 。</segment>
+		<segment id="125" parent="265" relname="joint-sequence">安政 2 年 （ 1855 年 ） 12 月 4 日 、 父 ・ 八平 が 他界 し 、</segment>
+		<segment id="126" parent="265" relname="joint-sequence">坂本 家 の 家督 は 兄 ・ 権平 が 安政 3 年 （ 1856 年 ） 2 月 に 継承 し た</segment>
+		<segment id="127" parent="265" relname="explanation-evidence">-LSB- 14 -RSB- 。</segment>
+		<segment id="128" parent="267" relname="joint-sequence">同年 7 月 、 龍馬 は 再度 の 江戸 剣術 修行 を 申請 し て</segment>
+		<segment id="129" parent="267" relname="joint-sequence">8 月 に 藩 から 1 年間 の 修業 が 許さ れ 、</segment>
+		<segment id="130" parent="267" relname="joint-sequence">9 月 に 江戸 に 到着 し 、</segment>
+		<segment id="131" parent="269" relname="same-unit">大石 弥太郎 ・ 龍馬 と 親戚 で</segment>
+		<segment id="132" parent="133" relname="elaboration-attribute">土佐 勤王 党 を 結成 し た</segment>
+		<segment id="133" parent="268" relname="span">武市 半平太 ら と とも に 築地 の 土佐 藩邸 中屋敷 に 寄宿 し た 。</segment>
+		<segment id="134" parent="270" relname="span">二 度目 の 江戸 遊学 で は 桶町 千葉 道場 と とも に 玄武 館 で も 一 時期 修行 し て いる</segment>
+		<segment id="135" parent="134" relname="explanation-evidence">-LSB- 15 -RSB- 。</segment>
+		<segment id="136" parent="295" relname="joint-sequence">安政 4 年 （ 1857 年 ） に 藩 に 一 年 の 修行 延長 を 願い出 て 許さ れ た 。</segment>
+		<segment id="137" parent="275" relname="same-unit">同年 8 月 、</segment>
+		<segment id="138" parent="139" relname="causal-cause">盗み を 働き</segment>
+		<segment id="139" parent="273" relname="span">切腹 沙汰 と なっ た</segment>
+		<segment id="140" parent="274" relname="span">従兄弟 同士 に あたり 、</segment>
+		<segment id="141" parent="277" relname="same-unit">のち に</segment>
+		<segment id="142" parent="143" relname="elaboration-attribute">日本 ハリストス 正教会 の 最初 の 日本人 司祭 に なる</segment>
+		<segment id="143" parent="276" relname="span">山本 琢磨 を 逃がす</segment>
+		<segment id="144" parent="278" relname="explanation-evidence">-LSB- 16 -RSB- 。</segment>
+		<segment id="145" parent="293" relname="span">安政 5 年 （ 1858 年 ） 1 月 、 師匠 の 千葉 定吉 から 「 北辰 一刀流 長刀 兵法 目録 」 を 授け られる 。</segment>
+		<segment id="146" parent="147" relname="adversative-concession">北辰 一刀流 免許 皆伝 と 言わ れる こと も ある が 、</segment>
+		<segment id="147" parent="282" relname="span">発見 ・ 現存 し て いる 目録 は 「 北辰 一刀流 長刀 兵法 目録 」 を 与え られ た もの で ある 。</segment>
+		<segment id="148" parent="280" relname="span">一般 に いう 剣術 で は なく 薙刀 術 で あり</segment>
+		<segment id="149" parent="148" relname="explanation-evidence">-LSB- 注 5 -RSB- 、</segment>
+		<segment id="150" parent="281" relname="joint-list">北辰 一刀流 「 初 目録 」 で ある 。</segment>
+		<segment id="151" parent="283" relname="span">ただ 、 「 免許 皆伝 を 伝授 さ れ た 」 と</segment>
+		<segment id="152" parent="151" relname="attribution-positive">同 時代 の 人物 に 喧伝 さ れ て いる</segment>
+		<segment id="153" parent="283" relname="explanation-evidence">-LSB- 注 6 -RSB- 。</segment>
+		<segment id="154" parent="290" relname="same-unit">腕 に つい て は 、</segment>
+		<segment id="155" parent="286" relname="span">免許 皆伝 で ある 以上 かなり の もの で あろう と 、</segment>
+		<segment id="156" parent="155" relname="attribution-positive">既に 当時 から 広く 周囲 に 信じ られ て い た が 、</segment>
+		<segment id="157" parent="158" relname="elaboration-attribute">実際 に 試合 を し て みる と からっきし で あっ た と いう</segment>
+		<segment id="158" parent="285" relname="span">話 も 多く 伝わっ て いる と さ れ 、</segment>
+		<segment id="159" parent="160" relname="causal-cause">千葉 定吉 の 娘 の 許婚 と なっ た ため</segment>
+		<segment id="160" parent="287" relname="span">義理 許し の よう な もの で は なかっ た か と いう 見方 も ある 。</segment>
+		<segment id="161" parent="295" relname="joint-sequence">同年 9 月 に 土佐 へ 帰国 し た 。</segment>
+		<group id="162" type="span" parent="163" relname="same-unit"/>
+		<group id="163" type="multinuc" parent="177" relname="span"/>
+		<group id="164" type="span" parent="9" relname="mode-means"/>
+		<group id="165" type="span" parent="166" relname="span"/>
+		<group id="166" type="span" parent="171" relname="context-background"/>
+		<group id="167" type="span" parent="168" relname="adversative-concession"/>
+		<group id="168" type="span" parent="169" relname="span"/>
+		<group id="169" type="span" parent="171" relname="span"/>
+		<group id="170" type="multinuc" parent="169" relname="explanation-evidence"/>
+		<group id="171" type="span" parent="178" relname="span"/>
+		<group id="172" type="span" parent="173" relname="same-unit"/>
+		<group id="173" type="multinuc" parent="174" relname="joint-list"/>
+		<group id="174" type="multinuc" parent="21" relname="elaboration-additional"/>
+		<group id="175" type="span" parent="176" relname="span"/>
+		<group id="176" type="span" parent="195" relname="joint-other"/>
+		<group id="177" type="span" parent="195" relname="joint-other"/>
+		<group id="178" type="span" parent="195" relname="joint-other"/>
+		<group id="179" type="span" parent="30" relname="mode-means"/>
+		<group id="180" type="span" parent="181" relname="same-unit"/>
+		<group id="181" type="multinuc" parent="182" relname="span"/>
+		<group id="182" type="span" parent="191" relname="span"/>
+		<group id="183" type="span" parent="184" relname="joint-list"/>
+		<group id="184" type="multinuc" parent="35" relname="causal-cause"/>
+		<group id="185" type="span" parent="186" relname="same-unit"/>
+		<group id="186" type="multinuc" parent="182" relname="elaboration-additional"/>
+		<group id="187" type="span" parent="36" relname="explanation-evidence"/>
+		<group id="188" type="span" parent="189" relname="span"/>
+		<group id="189" type="span" parent="191" relname="elaboration-additional"/>
+		<group id="190" type="multinuc" parent="193" relname="span"/>
+		<group id="191" type="span" parent="192" relname="span"/>
+		<group id="192" type="span" parent="190" relname="elaboration-additional"/>
+		<group id="193" type="span" parent="23" relname="explanation-evidence"/>
+		<group id="194" type="span" parent="195" relname="joint-other"/>
+		<group id="195" type="multinuc" parent="196" relname="span"/>
+		<group id="196" type="span" parent="297" relname="joint-sequence"/>
+		<group id="197" type="span" parent="43" relname="elaboration-attribute"/>
+		<group id="198" type="span" parent="200" relname="same-unit"/>
+		<group id="199" type="span" parent="200" relname="same-unit"/>
+		<group id="200" type="multinuc" parent="236" relname="joint-other"/>
+		<group id="201" type="span" parent="202" relname="same-unit"/>
+		<group id="202" type="multinuc" parent="203" relname="joint-sequence"/>
+		<group id="203" type="multinuc" parent="236" relname="joint-other"/>
+		<group id="204" type="span" parent="206" relname="span"/>
+		<group id="205" type="span" parent="204" relname="elaboration-additional"/>
+		<group id="206" type="span" parent="207" relname="same-unit"/>
+		<group id="207" type="multinuc" parent="208" relname="joint-sequence"/>
+		<group id="208" type="multinuc" parent="236" relname="joint-other"/>
+		<group id="209" type="span" parent="210" relname="same-unit"/>
+		<group id="210" type="multinuc" parent="59" relname="elaboration-additional"/>
+		<group id="211" type="span" parent="213" relname="same-unit"/>
+		<group id="212" type="multinuc" parent="213" relname="context-background"/>
+		<group id="213" type="multinuc" parent="214" relname="span"/>
+		<group id="214" type="span" parent="236" relname="joint-other"/>
+		<group id="215" type="multinuc" parent="216" relname="span"/>
+		<group id="216" type="span" parent="220" relname="span"/>
+		<group id="217" type="span" parent="218" relname="same-unit"/>
+		<group id="218" type="multinuc" parent="72" relname="adversative-concession"/>
+		<group id="219" type="span" parent="221" relname="causal-result"/>
+		<group id="220" type="span" parent="221" relname="span"/>
+		<group id="221" type="span" parent="222" relname="span"/>
+		<group id="222" type="span" parent="236" relname="joint-other"/>
+		<group id="223" type="span" parent="224" relname="same-unit"/>
+		<group id="224" type="multinuc" parent="225" relname="span"/>
+		<group id="225" type="span" parent="236" relname="joint-other"/>
+		<group id="226" type="span" parent="227" relname="span"/>
+		<group id="227" type="span" parent="228" relname="span"/>
+		<group id="228" type="span" parent="233" relname="joint-list"/>
+		<group id="229" type="multinuc" parent="84" relname="elaboration-attribute"/>
+		<group id="230" type="span" parent="85" relname="elaboration-attribute"/>
+		<group id="231" type="span" parent="86" relname="elaboration-attribute"/>
+		<group id="232" type="span" parent="233" relname="joint-list"/>
+		<group id="233" type="multinuc" parent="236" relname="joint-other"/>
+		<group id="234" type="span" parent="235" relname="span"/>
+		<group id="235" type="span" parent="236" relname="joint-other"/>
+		<group id="236" type="multinuc" parent="295" relname="joint-sequence"/>
+		<group id="237" type="multinuc" parent="241" relname="span"/>
+		<group id="238" type="span" parent="240" relname="span"/>
+		<group id="239" type="multinuc" parent="238" relname="explanation-evidence"/>
+		<group id="240" type="span" parent="241" relname="elaboration-additional"/>
+		<group id="241" type="span" parent="242" relname="span"/>
+		<group id="242" type="span" parent="295" relname="joint-sequence"/>
+		<group id="243" type="span" parent="244" relname="same-unit"/>
+		<group id="244" type="multinuc" parent="245" relname="span"/>
+		<group id="245" type="span" parent="246" relname="joint-sequence"/>
+		<group id="246" type="multinuc" parent="251" relname="span"/>
+		<group id="247" type="span" parent="248" relname="same-unit"/>
+		<group id="248" type="multinuc" parent="249" relname="causal-cause"/>
+		<group id="249" type="span" parent="250" relname="span"/>
+		<group id="250" type="span" parent="246" relname="elaboration-additional"/>
+		<group id="251" type="span" parent="295" relname="joint-sequence"/>
+		<group id="252" type="multinuc" parent="263" relname="context-background"/>
+		<group id="253" type="span" parent="254" relname="span"/>
+		<group id="254" type="span" parent="255" relname="same-unit"/>
+		<group id="255" type="multinuc" parent="256" relname="joint-sequence"/>
+		<group id="256" type="multinuc" parent="263" relname="joint-list"/>
+		<group id="257" type="span" parent="258" relname="same-unit"/>
+		<group id="258" type="multinuc" parent="260" relname="joint-list"/>
+		<group id="259" type="span" parent="260" relname="joint-list"/>
+		<group id="260" type="multinuc" parent="262" relname="span"/>
+		<group id="261" type="span" parent="260" relname="joint-list"/>
+		<group id="262" type="span" parent="263" relname="joint-list"/>
+		<group id="263" type="multinuc" parent="264" relname="span"/>
+		<group id="264" type="span" parent="295" relname="joint-sequence"/>
+		<group id="265" type="multinuc" parent="266" relname="span"/>
+		<group id="266" type="span" parent="272" relname="joint-sequence"/>
+		<group id="267" type="multinuc" parent="271" relname="span"/>
+		<group id="268" type="span" parent="269" relname="same-unit"/>
+		<group id="269" type="multinuc" parent="267" relname="joint-sequence"/>
+		<group id="270" type="span" parent="267" relname="elaboration-additional"/>
+		<group id="271" type="span" parent="272" relname="joint-sequence"/>
+		<group id="272" type="multinuc" parent="295" relname="joint-sequence"/>
+		<group id="273" type="span" parent="140" relname="elaboration-attribute"/>
+		<group id="274" type="span" parent="275" relname="same-unit"/>
+		<group id="275" type="multinuc" parent="278" relname="joint-sequence"/>
+		<group id="276" type="span" parent="277" relname="same-unit"/>
+		<group id="277" type="multinuc" parent="278" relname="joint-sequence"/>
+		<group id="278" type="multinuc" parent="279" relname="span"/>
+		<group id="279" type="span" parent="295" relname="joint-sequence"/>
+		<group id="280" type="span" parent="281" relname="joint-list"/>
+		<group id="281" type="multinuc" parent="282" relname="elaboration-additional"/>
+		<group id="282" type="span" parent="291" relname="span"/>
+		<group id="283" type="span" parent="284" relname="span"/>
+		<group id="284" type="span" parent="290" relname="context-background"/>
+		<group id="285" type="span" parent="288" relname="joint-list"/>
+		<group id="286" type="span" parent="288" relname="adversative-concession"/>
+		<group id="287" type="span" parent="288" relname="joint-list"/>
+		<group id="288" type="multinuc" parent="289" relname="span"/>
+		<group id="289" type="span" parent="290" relname="same-unit"/>
+		<group id="290" type="multinuc" parent="292" relname="span"/>
+		<group id="291" type="span" parent="145" relname="elaboration-additional"/>
+		<group id="292" type="span" parent="293" relname="elaboration-additional"/>
+		<group id="293" type="span" parent="294" relname="span"/>
+		<group id="294" type="span" parent="295" relname="joint-sequence"/>
+		<group id="295" type="multinuc" parent="296" relname="span"/>
+		<group id="296" type="span" parent="297" relname="joint-sequence"/>
+		<group id="297" type="multinuc" parent="298" relname="span"/>
+		<group id="298" type="span" />
+	</body>
+</rst>

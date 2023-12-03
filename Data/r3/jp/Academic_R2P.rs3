@@ -1,0 +1,208 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="adversative-antithesis" type="rst"/>
+			<rel name="adversative-concession" type="rst"/>
+			<rel name="adversative-contrast" type="multinuc"/>
+			<rel name="attribution-negative" type="rst"/>
+			<rel name="attribution-positive" type="rst"/>
+			<rel name="causal-cause" type="rst"/>
+			<rel name="causal-result" type="rst"/>
+			<rel name="context-background" type="rst"/>
+			<rel name="context-circumstance" type="rst"/>
+			<rel name="contingency-condition" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-attribute" type="rst"/>
+			<rel name="evaluation-comment" type="rst"/>
+			<rel name="explanation-evidence" type="rst"/>
+			<rel name="explanation-justify" type="rst"/>
+			<rel name="explanation-motivation" type="rst"/>
+			<rel name="joint-disjunction" type="multinuc"/>
+			<rel name="joint-list" type="multinuc"/>
+			<rel name="joint-other" type="multinuc"/>
+			<rel name="joint-sequence" type="multinuc"/>
+			<rel name="mode-manner" type="rst"/>
+			<rel name="mode-means" type="rst"/>
+			<rel name="organization-heading" type="rst"/>
+			<rel name="organization-phatic" type="rst"/>
+			<rel name="organization-preparation" type="rst"/>
+			<rel name="purpose-attribute" type="rst"/>
+			<rel name="purpose-goal" type="rst"/>
+			<rel name="restatement-partial" type="rst"/>
+			<rel name="restatement-repetition" type="multinuc"/>
+			<rel name="same-unit" type="multinuc"/>
+			<rel name="topic-question" type="rst"/>
+			<rel name="topic-solutionhood" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="91" relname="span">「 保護 する 責任 」 を 通し て みる 「 国際 秩序 論 」</segment>
+		<segment id="2" parent="1" relname="elaboration-additional">— — 国際連合 事務局 の 権力 性</segment>
+		<segment id="3" parent="168" relname="attribution-positive">赤星 聖</segment>
+		<segment id="4" parent="92" relname="context-background">2021 年 2 月 ， ミャンマー 国軍 に よる クーデター ， 同年 8 月 ， アフガニスタン に おけ る タリバン に よる 政権 奪取 ， 2022 年 2 月 ， ロシア に よる ウクライナ 侵略 と ， 過去 2 年間 ， 国際的 に 衝撃 を 与える 事件 が 続い た 。</segment>
+		<segment id="5" parent="6" relname="adversative-concession">とりわけ ， ロシア に よる ウクライナ 侵略 は ， 第 二 次 大戦 後 に 確立 し た 国際 秩序 の 動揺 を 招い て いる と 指摘 さ れる が ，</segment>
+		<segment id="6" parent="92" relname="span">ここ で いう 「 国際 秩序 の 動揺 」 と は ， ロシア に よる 違法 かつ 一方的 な 武力 行使 に よる ウクライナ 国家 の 主権 侵害 を 指し て いる と 考え られる 。</segment>
+		<segment id="7" parent="8" relname="elaboration-attribute">本書 が 分析 する</segment>
+		<segment id="8" parent="93" relname="span">「 介入 と 国家 主権 に 関する 国際 委員会 （ ICISS ） 」 に よっ て 提示 さ れ た</segment>
+		<segment id="9" parent="94" relname="span">「 保護 する 責任</segment>
+		<segment id="10" parent="9" relname="elaboration-additional">（ R 2 P ）</segment>
+		<segment id="11" parent="96" relname="same-unit">」 概念 も また ，</segment>
+		<segment id="12" parent="13" relname="elaboration-attribute">国家 主権 と 武力 不 行使 原則 と いう</segment>
+		<segment id="13" parent="97" relname="span">戦後 国際 秩序 の 根幹 を 対象 と し た もの で あっ た 。</segment>
+		<segment id="14" parent="106" relname="same-unit">本書 は ，</segment>
+		<segment id="15" parent="102" relname="mode-means">1990 年代 から 2015 年 に かけ て R 2 P 概念 の 歴史的 変遷 を 国連 文書 や インタビュー を 用い て 丹念 に たどる こと を 通し て ，</segment>
+		<segment id="16" parent="100" relname="span">「 『 望ましい 国際 秩序 』 を めぐる 議論</segment>
+		<segment id="17" parent="16" relname="elaboration-additional">（ 国際 秩序 論 ） 」</segment>
+		<segment id="18" parent="100" relname="elaboration-additional">（ 7 頁 ）</segment>
+		<segment id="19" parent="102" relname="same-unit">が 変遷 し て き た と 論じる 。</segment>
+		<segment id="20" parent="109" relname="same-unit">R 2 P 概念 が 国際 秩序 論 を 考察 する うえ で 適切 な 理由 は ，</segment>
+		<segment id="21" parent="22" relname="elaboration-attribute">「 人道的 介入 」 の 是非 に 対する ひと つ の 回答 と し て 提示 さ れ た</segment>
+		<segment id="22" parent="107" relname="span">R 2 P 概念 が ，</segment>
+		<segment id="23" parent="24" relname="elaboration-attribute">二 度 の 大戦 を 経 て 確立 し て き た</segment>
+		<segment id="24" parent="108" relname="span">内政 不干渉 原則 および 武力 不 行使 原則 と いう 国際 秩序 の 最深 層 の 修正 を 要求 する もの で あっ た ため で ある 。</segment>
+		<segment id="25" parent="111" relname="span">以下 本書 の 内容 を 概観 し たい 。</segment>
+		<segment id="26" parent="114" relname="same-unit">序論 で は ，</segment>
+		<segment id="27" parent="112" relname="joint-list">本書 の 目的 および R 2 P 概念 を 分析 する 理由 が 述べ られる と とも に ，</segment>
+		<segment id="28" parent="29" relname="purpose-goal">自ら の 立ち位置 ・ 貢献 を 明確化 する ため ，</segment>
+		<segment id="29" parent="113" relname="span">「 国際 政治 思想 研究 」 全体 を とらえる 見取り図 が 提示 さ れ て いる 。</segment>
+		<segment id="30" parent="114" relname="evaluation-comment">この 見取り図 は ， 専門 で は ない 評者 に とっ て 全体像 を 把握 する に 資する 有用 な 整理 で あっ た 。</segment>
+		<segment id="31" parent="129" relname="span">続い て 第 1 章 は ， 先行 研究 を 批判 し た うえ で ， 本書 が 依拠 する 分析 枠組み ・ 概念 セット が 示さ れる 。</segment>
+		<segment id="32" parent="118" relname="same-unit">先行 研究 の 多く は</segment>
+		<segment id="33" parent="116" relname="joint-list">R 2 P 概念 を 一面的 に 理解 し ，</segment>
+		<segment id="34" parent="116" relname="joint-list">同 概念 の 変遷 を 論じ た 数 少ない 研究 も ， R 2 P 概念 を 「 規範 」 と とらえ ，</segment>
+		<segment id="35" parent="116" relname="joint-list">その 規範 自体 の 変化 を 分析 の 焦点 と し た ため ，</segment>
+		<segment id="36" parent="117" relname="span">議論 の 射程 に 国際 秩序 論 が 入ら ない と する 。</segment>
+		<segment id="37" parent="124" relname="same-unit">そこ で 本書 は ，</segment>
+		<segment id="38" parent="119" relname="span">①三 つ の 時期</segment>
+		<segment id="39" parent="38" relname="elaboration-additional">（ R 2 P 概念 の 萌芽 期 ， 論争 期 ， 推進 期 ） ，</segment>
+		<segment id="40" parent="120" relname="span">②三 つ の 国連</segment>
+		<segment id="41" parent="40" relname="elaboration-additional">（ 加盟国 ， 事務局 ， 市民 社会 ） ，</segment>
+		<segment id="42" parent="121" relname="span">③三 つ の 系譜</segment>
+		<segment id="43" parent="42" relname="elaboration-additional">（ 正戦 ／ 介入 論 ， ガバナンス 論 ， 紛争 予防 論 ）</segment>
+		<segment id="44" parent="123" relname="span">と いう 分析 枠組み を 提示 し た 。</segment>
+		<segment id="45" parent="125" relname="adversative-concession">①② も 重要 で ある が ，</segment>
+		<segment id="46" parent="125" relname="joint-list">本書 の 最大 の 貢献 は ， ③ を 提示 し た こと で あり ，</segment>
+		<segment id="47" parent="125" relname="joint-list">さらに は ガバナンス 論 と 紛争 予防 論 を 明示 的 に R 2 P 概念 研究 に 導入 し た こと で あろう 。</segment>
+		<segment id="48" parent="131" relname="same-unit">第 2 章 で は ，</segment>
+		<segment id="49" parent="50" relname="mode-manner">ICISS 報告書 に 至る 歴史的 背景 を 踏まえ た うえ で ，</segment>
+		<segment id="50" parent="130" relname="span">R 2 P 概念 に 含ま れる 三 つ の 系譜 が 説明 さ れる 。</segment>
+		<segment id="51" parent="135" relname="same-unit">同 報告書 は ，</segment>
+		<segment id="52" parent="133" relname="mode-manner">法 の 支配 や 人権 の 国際的 保障 を 重視 する 国際 立憲 主義 に 基づき ，</segment>
+		<segment id="53" parent="54" relname="elaboration-attribute">市民 を 保護 する 責任 を 果たさ ない</segment>
+		<segment id="54" parent="132" relname="span">政府 に 対し て 国際 社会 に よる 武力 介入 も 可能 で ある と する</segment>
+		<segment id="55" parent="133" relname="span">正戦 ／ 介入 論 が 中心 で あっ た 。</segment>
+		<segment id="56" parent="137" relname="joint-list">対し て ， 第 3 章 で 議論 さ れ た の は 2005 年 世界 サミット に 至る 過程 で あり ，</segment>
+		<segment id="57" parent="137" relname="joint-list">この 中 で 正戦 ／ 介入 論 が 後景 に 下がり ，</segment>
+		<segment id="58" parent="137" relname="joint-list">国家 主権 を 中心 と し 各国 の グッド ・ ガバナンス を 補完 する こと を 国際 支援 の 目的 と する ガバナンス 論 を 中心 と し た</segment>
+		<segment id="59" parent="138" relname="span">R 2 P 概念 の 理解 が 国家間 で 合意 さ れ た 。</segment>
+		<segment id="60" parent="142" relname="same-unit">この 背景 と し て ，</segment>
+		<segment id="61" parent="62" relname="causal-cause">アメリカ の 単独 行動 主義 と R 2 P 概念 が 結び付け られ ，</segment>
+		<segment id="62" parent="141" relname="span">武力 介入 を 中心 と する R 2 P 概念 に 同意 が 得 難く なっ た こと ，</segment>
+		<segment id="63" parent="140" relname="joint-list">途上国 グループ が 開発 支援 を 強調 し た こと</segment>
+		<segment id="64" parent="142" relname="same-unit">など を 指摘 し て いる 。</segment>
+		<segment id="65" parent="145" relname="same-unit">第 4 章 で は ， 2009 年 国連 事務 総長 報告書 を 中心 と し て ，</segment>
+		<segment id="66" parent="67" relname="elaboration-attribute">紛争 予防 論 の 系譜 に 連なる 国連 事務局 に よる 早期 警報 体制 が 強化 さ れる</segment>
+		<segment id="67" parent="144" relname="span">過程 が 追跡 さ れる 。</segment>
+		<segment id="68" parent="69" relname="causal-cause">2011 年 リビア 介入 前後 に ， 多国間 議論 の 場 に おい て R 2 P 概念 の 否定的 な 理解 あるいは その 濫用 が 認め られ た こと で ，</segment>
+		<segment id="69" parent="146" relname="span">学術的 に も R 2 P 概念 の 評価 が 揺らぎ を 見せる が ，</segment>
+		<segment id="70" parent="147" relname="span">本書 は この 時期 を 含め て R 2 P 概念 の 「 推進 期 」 と みなし て いる 点 が 特徴 で あろう 。</segment>
+		<segment id="71" parent="151" relname="same-unit">第 5 章 および 終章 は ，</segment>
+		<segment id="72" parent="73" relname="elaboration-attribute">これ ら の 事例 研究 を 踏まえ た</segment>
+		<segment id="73" parent="149" relname="span">権力 に 関する 議論 で あり ，</segment>
+		<segment id="74" parent="150" relname="joint-list">本書 に おけ る ハイライト で も あろう 。</segment>
+		<segment id="75" parent="154" relname="same-unit">ICISS 報告書 が 提示 し た R 2 P 概念 は ，</segment>
+		<segment id="76" parent="153" relname="joint-list">人道 危機 対応 の 権限 を 国連 安全保障理事会 に 集約 し ，</segment>
+		<segment id="77" parent="78" relname="elaboration-attribute">直接 介入 を 進展 さ せる</segment>
+		<segment id="78" parent="152" relname="span">国際 立憲 主義 に 基づく もの で あり ，</segment>
+		<segment id="79" parent="153" relname="joint-list">カール ・ シュミット の いう 「 緊急権 と し て の 超 国家 権力 」 を 国際 秩序 に 導入 し た もの で あっ た 。</segment>
+		<segment id="80" parent="156" relname="same-unit">しかし ， 世界 サミット に 至る 議論 の 中 で ，</segment>
+		<segment id="81" parent="155" relname="joint-list">各国 の 国内 統治 を 重視 し ，</segment>
+		<segment id="82" parent="155" relname="joint-list">国際 社会 は それ を 支援 する と いう ミシェル ・ フーコー の いう 「 統治 権力 と し て の 超 国家 権力 」 が 前面 に 顕れ た 。</segment>
+		<segment id="83" parent="84" relname="elaboration-attribute">さらに ， 2009 年 事務 総長 報告書 を 契機 に 進め られ た ，</segment>
+		<segment id="84" parent="157" relname="span">国連 事務局 を 中心 と し た 早期 警報 能力 の 強化 と は ，</segment>
+		<segment id="85" parent="86" relname="elaboration-attribute">紛争 を 予防 する</segment>
+		<segment id="86" parent="160" relname="span">「 グローバル な 監視 体制 」 の 構築 で あり ，</segment>
+		<segment id="87" parent="158" relname="span">「 規律 権力 と し て の 超 国家 権力 」</segment>
+		<segment id="88" parent="87" relname="elaboration-additional">（ フーコー ）</segment>
+		<segment id="89" parent="159" relname="same-unit">を 通し て ， 国際 秩序 論 が 国際 機能主義 へ と 変遷 し つつ ある こと が 仮説 的 に 論じ られ ，</segment>
+		<segment id="90" parent="163" relname="same-unit">この 動き は 立憲 主義 的 な 正当性 の 観点 から 問題 も 多い こと を 指摘 し て いる 。</segment>
+		<group id="91" type="span" parent="169" relname="organization-heading"/>
+		<group id="92" type="span" parent="103" relname="span"/>
+		<group id="93" type="span" parent="96" relname="elaboration-attribute"/>
+		<group id="94" type="span" parent="96" relname="same-unit"/>
+		<group id="95" type="span" parent="98" relname="same-unit"/>
+		<group id="96" type="multinuc" parent="95" relname="span"/>
+		<group id="97" type="span" parent="98" relname="same-unit"/>
+		<group id="98" type="multinuc" parent="104" relname="span"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="101" type="span" parent="102" relname="same-unit"/>
+		<group id="102" type="multinuc" parent="105" relname="span"/>
+		<group id="103" type="span" parent="98" relname="context-background"/>
+		<group id="104" type="span" parent="111" relname="context-background"/>
+		<group id="105" type="span" parent="106" relname="same-unit"/>
+		<group id="106" type="multinuc" parent="110" relname="span"/>
+		<group id="107" type="span" parent="109" relname="same-unit"/>
+		<group id="108" type="span" parent="109" relname="same-unit"/>
+		<group id="109" type="multinuc" parent="106" relname="elaboration-additional"/>
+		<group id="110" type="span" parent="25" relname="context-background"/>
+		<group id="111" type="span" parent="167" relname="span"/>
+		<group id="112" type="multinuc" parent="114" relname="same-unit"/>
+		<group id="113" type="span" parent="112" relname="joint-list"/>
+		<group id="114" type="multinuc" parent="115" relname="span"/>
+		<group id="115" type="span" parent="166" relname="joint-other"/>
+		<group id="116" type="multinuc" parent="36" relname="causal-cause"/>
+		<group id="117" type="span" parent="118" relname="same-unit"/>
+		<group id="118" type="multinuc" parent="128" relname="adversative-contrast"/>
+		<group id="119" type="span" parent="122" relname="joint-list"/>
+		<group id="120" type="span" parent="122" relname="joint-list"/>
+		<group id="121" type="span" parent="122" relname="joint-list"/>
+		<group id="122" type="multinuc" parent="44" relname="elaboration-attribute"/>
+		<group id="123" type="span" parent="124" relname="same-unit"/>
+		<group id="124" type="multinuc" parent="127" relname="span"/>
+		<group id="125" type="multinuc" parent="126" relname="span"/>
+		<group id="126" type="span" parent="124" relname="evaluation-comment"/>
+		<group id="127" type="span" parent="128" relname="adversative-contrast"/>
+		<group id="128" type="multinuc" parent="31" relname="elaboration-additional"/>
+		<group id="129" type="span" parent="166" relname="joint-other"/>
+		<group id="130" type="span" parent="131" relname="same-unit"/>
+		<group id="131" type="multinuc" parent="136" relname="span"/>
+		<group id="132" type="span" parent="55" relname="elaboration-attribute"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="134" type="span" parent="135" relname="same-unit"/>
+		<group id="135" type="multinuc" parent="131" relname="elaboration-additional"/>
+		<group id="136" type="span" parent="166" relname="joint-other"/>
+		<group id="137" type="multinuc" parent="59" relname="elaboration-attribute"/>
+		<group id="138" type="span" parent="142" relname="context-background"/>
+		<group id="140" type="multinuc" parent="142" relname="same-unit"/>
+		<group id="141" type="span" parent="140" relname="joint-list"/>
+		<group id="142" type="multinuc" parent="143" relname="span"/>
+		<group id="143" type="span" parent="166" relname="joint-other"/>
+		<group id="144" type="span" parent="145" relname="same-unit"/>
+		<group id="145" type="multinuc" parent="148" relname="span"/>
+		<group id="146" type="span" parent="70" relname="adversative-concession"/>
+		<group id="147" type="span" parent="145" relname="elaboration-additional"/>
+		<group id="148" type="span" parent="166" relname="joint-other"/>
+		<group id="149" type="span" parent="150" relname="joint-list"/>
+		<group id="150" type="multinuc" parent="151" relname="same-unit"/>
+		<group id="151" type="multinuc" parent="165" relname="span"/>
+		<group id="152" type="span" parent="153" relname="joint-list"/>
+		<group id="153" type="multinuc" parent="154" relname="same-unit"/>
+		<group id="154" type="multinuc" parent="164" relname="joint-other"/>
+		<group id="155" type="multinuc" parent="156" relname="same-unit"/>
+		<group id="156" type="multinuc" parent="164" relname="joint-other"/>
+		<group id="157" type="span" parent="161" relname="same-unit"/>
+		<group id="158" type="span" parent="159" relname="same-unit"/>
+		<group id="159" type="multinuc" parent="162" relname="joint-list"/>
+		<group id="160" type="span" parent="161" relname="same-unit"/>
+		<group id="161" type="multinuc" parent="162" relname="joint-list"/>
+		<group id="162" type="multinuc" parent="163" relname="same-unit"/>
+		<group id="163" type="multinuc" parent="164" relname="joint-other"/>
+		<group id="164" type="multinuc" parent="151" relname="elaboration-additional"/>
+		<group id="165" type="span" parent="166" relname="joint-other"/>
+		<group id="166" type="multinuc" parent="168" relname="span"/>
+		<group id="167" type="span" parent="166" relname="organization-preparation"/>
+		<group id="168" type="span" parent="169" relname="span"/>
+		<group id="169" type="span" parent="170" relname="span"/>
+		<group id="170" type="span" />
+	</body>
+</rst>
