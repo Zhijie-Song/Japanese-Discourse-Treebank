@@ -1,0 +1,9 @@
+Bio_Napoleon
+News_Panasonic
+Academic_JinroBBS
+gcdt_bio_byron
+gcdt_news_famine
+gcdt_academic_peoples
+GUM_bio_byron
+GUM_news_homeopathic
+GUM_academic_exposure

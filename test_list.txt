@@ -1,0 +1,9 @@
+Bio_Sakamoto
+News_DX
+Academic_Maruyama
+gcdt_bio_dvorak
+gcdt_news_simplified
+gcdt_academic_dingzhen
+GUM_bio_dvorak
+GUM_news_nasa
+GUM_academic_discrimination
