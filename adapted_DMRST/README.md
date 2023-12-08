@@ -2,9 +2,10 @@
 
 ## Introduction
 
-This directory is forked and adapted from the original DMRST parser: https://github.com/seq-to-mind/DMRST_Parser.
+This directory is forked and adapted from the original DMRST parser: https://github.com/seq-to-mind/DMRST_Parser
+and the GCDT adaptation: https://github.com/logan-siyao-peng/GCDT
 
-Please cite their paper:
+Please cite their papers:
 
 `DMRST: A Joint Framework for Document-Level Multilingual RST Discourse Segmentation and Parsing` and `Multilingual Neural RST Discourse Parsing.`
 
