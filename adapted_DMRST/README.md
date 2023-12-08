@@ -42,15 +42,6 @@ Please specify your --datapath and --savepath:
 `python MUL_main_Train.py --use_org_Parseval True --eval_only True --datapath=./data/pickle-data/depth/to_pt/zh-gcdt-hfl-chinese-roberta-wwm-ext --savepath=Savings/zh-gcdt-roberta-basehfl-chinese-roberta-wwm-ext_bs1_seed111/`
 
 `python MUL_main_Train.py --use_org_Parseval True --eval_only True --datapath=./data/pickle-data/depth/to_pt/jp-gum-xlm-roberta-base --savepath=Savings/jp-gum-xlm-roberta-base_bs1_seed111/`
-
-## Major changes from orginal DMRST code:
-
-- Different relation classes used for GUM/GCDT versus RST-DT (MUL_main_train.py, DataHandler.py, data/rstdt-relations.txt, gum-relations.txt)
-- Allow different language models (MUL_main_train.py, Preprocess_RST_Data/)
-- Allow finetuning on existing torch dumps (MUL_main_train.py)
-- Specify Train/Dev/Test three-way splits (MUL_main_train.py, Training.py)
-- Choose the best epoch based on Dev Relation Score and save the current best torch dump (Training.py)
-- Allow running (especially) testing on CPUs (most python files)
  
 
 
