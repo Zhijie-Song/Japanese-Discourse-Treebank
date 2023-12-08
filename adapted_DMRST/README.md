@@ -8,6 +8,7 @@ and the GCDT adaptation: https://github.com/logan-siyao-peng/GCDT
 Please cite their papers:
 
 `DMRST: A Joint Framework for Document-Level Multilingual RST Discourse Segmentation and Parsing` and `Multilingual Neural RST Discourse Parsing.`
+`GCDT: A Chinese RST Treebank for Multigenre and Multilingual Discourse Parsing`
 
 
 ## Sample commands
